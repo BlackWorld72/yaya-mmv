@@ -689,7 +689,7 @@ anglais =
 					"al": " Un bruit"
 				},
 				{
-					"fr": "A gradually ",
+					"fr": "Gradually ",
 					"al": " Progressivement"
 				},
 				{
