@@ -224,14 +224,20 @@ function generateGraph() {
 	return points
 }
 
+var qsimg1 = 0
+var qsimg2 = 0
 function questionImage() {
-	let qs = getRandomInt(0, 5, true)
-	console.log("Quel est la valeur de f(" + qs + ") ? ")
-	console.log("Réponse = " + getFX(qs))
+	qsimg1 = getRandomInt(0, 5, true)
+	//console.log("Réponse = " + getFX(qsimg1))
+	let h2 = document.createElement("h1")
+	h2.innerHTML = "Quel est la valeur de f(" + qsimg1 + ") ? "
+	document.getElementById('img1').append(h2)
 
-	qs = getRandomInt(0, 5, true)
-	console.log("Quelle est / quelles sont les images de " + qs + " ? ")
-	console.log("Réponse = " + getFX(qs))
+	qsimg2 = getRandomInt(0, 5, true)
+	//console.log("Réponse = " + getFX(qs))
+	h2 = document.createElement("h1")
+	h2.innerHTML = "Quelle est / quelles sont les images de " + qsimg2 + " ? "
+	document.getElementById('img2').append(h2)
 }
 
 function questionAntecedent() {
@@ -314,8 +320,53 @@ function generateRandomFunction() {
 	document.getElementById("btnNext").style = "visibility: hidden; display: none;"
 	document.getElementById("qs").innerHTML = "";
 	document.getElementById('tablevariation').style = "visibility: show; display: block;"
-	//document.getElementById("tableaudevariation").style = "text-align: center;"
+	document.getElementById("tableaudevariation").style = "text-align: center;"
 	//graph.Draw('graphExemple1')
+	generateQuestions()
+}
+
+var funcpair = ["(1 + x²) / (x²)", "x²", "2", "1 / (1 + x²)"]
+var funcimpair = ["2x / (1 + x²)", "1 / x", "x / (x² + 1)", "x^3 - 3x", "x^3"]
+var funcpairimpaire = ["(1 + x) / (1 + x²)", "x² - 3x + 2"]
+var func = ""
+function generateQuestions() {
+	let qs = document.getElementById("qs")
+	let h2 = document.createElement("h1")
+	let i = getRandomInt(0, 3)
+	if (i === 0) {
+		func = funcpair[getRandomInt(0, funcpair.length)]
+	}
+	else if (i === 1) {
+		func = funcimpair[getRandomInt(0, funcimpair.length)]
+	}
+	else {
+		func = funcpairimpaire[getRandomInt(0, funcpairimpaire.length)]
+	}
+	h2.innerHTML = "Est ce que la fonction : f(x) = " + func + " est paire ou impaire ou aucun des deux ?"
+	qs.append(h2)
+	document.getElementById("btnRep").style = "visibility: show; display: block;"
+}
+
+function reponse() {
+	let h2 = document.createElement("h1")
+	if (funcpair.includes(func)) {
+		h2.innerHTML = "La fonction est pair !"
+	}
+	else if (funcimpair.includes(func)) {
+		h2.innerHTML = "La fonction est impair !"
+	}
+	else {
+		h2.innerHTML = "La fonction est n'y impair n'y pair"
+	}
+	document.getElementById("qs").append(h2)
+
+	h2 = document.createElement("h1")
+	h2.innerHTML = getFX(qsimg1)
+	document.getElementById('img1').append(h2)
+
+	h2 = document.createElement("h1")
+	h2.innerHTML = getFX(qsimg2)
+	document.getElementById('img2').append(h2)
 }
 
 function checkVariationTable() {
