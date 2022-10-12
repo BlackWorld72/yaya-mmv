@@ -476,6 +476,216 @@ anglais_tech =
                     "al": " Longueur jusqu’au sol"
                 }
             ]
+        },
+
+        {
+            "nom": " Supplies / Small wares",
+            "words": [
+                {
+                    "fr": "a supplie ",
+                    "al": " une fourniture"
+                },
+                {
+                    "fr": "a small ware ",
+                    "al": " un petit article"
+                },
+                {
+                    "fr": "a knot ",
+                    "al": " un noeud "
+                },
+                {
+                    "fr": "a clap / a hook ",
+                    "al": " une agrafe"
+                },
+                {
+                    "fr": "to hook ",
+                    "al": " agrafer"
+                },
+                {
+                    "fr": "a wire ",
+                    "al": " une armature"
+                },
+                {
+                    "fr": "overalls fastening ",
+                    "al": " une attache salopette"
+                },
+                {
+                    "fr": "a velcro / a hook and loop fastener ",
+                    "al": " une bande auto agrippante"
+                },
+                {
+                    "fr": "a bias ",
+                    "al": " un biais"
+                },
+                {
+                    "fr": "a blazon ",
+                    "al": " un blason"
+                },
+                {
+                    "fr": "a belt buckle ",
+                    "al": " une boucle de ceinture"
+                },
+                {
+                    "fr": "an adjustable buckle ",
+                    "al": " une boucle de réglage"
+                },
+                {
+                    "fr": "a button ",
+                    "al": " un bouton"
+                },
+                {
+                    "fr": "a braided button ",
+                    "al": " un bouton en passementerie"
+                },
+                {
+                    "fr": "a fly / a zip ",
+                    "al": " une braguette"
+                },
+                {
+                    "fr": "a zip fly ",
+                    "al": " une braguette zipée"
+                },
+                {
+                    "fr": "a strap ",
+                    "al": " une bretelle"
+                },
+                {
+                    "fr": "a cord ",
+                    "al": " une cordelette "
+                },
+                {
+                    "fr": "an elbow tab ",
+                    "al": " une coudière"
+                },
+                {
+                    "fr": "a coat of arms ",
+                    "al": " un écusson"
+                },
+                {
+                    "fr": "an elastic ",
+                    "al": " un élastique"
+                },
+                {
+                    "fr": "a shoulder pad ",
+                    "al": " une épaulette"
+                },
+                {
+                    "fr": "a pin ",
+                    "al": " une épingle"
+                },
+                {
+                    "fr": "a safety pin ",
+                    "al": " une épingle à nourrice"
+                },
+                {
+                    "fr": "a tag ",
+                    "al": " une étiquette"
+                },
+                {
+                    "fr": "a zip / a zipper ",
+                    "al": " une fermeture éclair"
+                },
+                {
+                    "fr": "a velcro fastening / fastener ",
+                    "al": " une fermeture velcro"
+                },
+                {
+                    "fr": "a thread ",
+                    "al": " un fil"
+                },
+                {
+                    "fr": "a braid / a stripe braid ",
+                    "al": " un galon"
+                },
+                {
+                    "fr": "a braid ",
+                    "al": " une ganse"
+                },
+                {
+                    "fr": "a bias binding ",
+                    "al": " une ganse en biais"
+                },
+                {
+                    "fr": "a label ",
+                    "al": " une griffe"
+                },
+                {
+                    "fr": "a lace ",
+                    "al": " un lacet"
+                },
+                {
+                    "fr": "an eyelet ",
+                    "al": " un oeillet"
+                },
+                {
+                    "fr": "a belt loop ",
+                    "al": " un passant"
+                },
+                {
+                    "fr": "a buttoned placket ",
+                    "al": " une patte de boutonnage"
+                },
+                {
+                    "fr": "a shoulder tab ",
+                    "al": " une patte d’épaule"
+                },
+                {
+                    "fr": "an adjustable tab ",
+                    "al": " une patte se serrage"
+                },
+                {
+                    "fr": "a pearl ",
+                    "al": " une perle"
+                },
+                {
+                    "fr": "a snap fastener ",
+                    "al": " une pression"
+                },
+                {
+                    "fr": "a press stud ",
+                    "al": " un bouton pression"
+                },
+                {
+                    "fr": "a rivet ",
+                    "al": " un rivet"
+                },
+                {
+                    "fr": "a ribbon ",
+                    "al": " un ruban"
+                },
+                {
+                    "fr": "a fusing band ",
+                    "al": " une bande de thermocollant"
+                },
+                {
+                    "fr": "a fusible interfacing ",
+                    "al": " une toile thermocollante"
+                },
+                {
+                    "fr": "a fusible ",
+                    "al": " un thermocollant"
+                },
+                {
+                    "fr": "a sequin ",
+                    "al": " un sequin "
+                },
+                {
+                    "fr": "a belt loop ",
+                    "al": " un passant "
+                },
+                {
+                    "fr": "a buttoned placket ",
+                    "al": " une patte de boutonnage"
+                },
+                {
+                    "fr": "a shoulder tab ",
+                    "al": " une patte d’épaule"
+                },
+                {
+                    "fr": "an adjustable tab ",
+                    "al": " une patte de serrage"
+                }
+            ]
         }
    ]
 }
