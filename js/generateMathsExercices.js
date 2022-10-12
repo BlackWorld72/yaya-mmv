@@ -105,7 +105,7 @@ function getTableVariation(points) {
 	let td
 	for (let p in copy) {
 		td = document.createElement("td")
-		td.innerHTML = copy[p][0]
+		td.innerHTML = Math.floor(copy[p][0])
 		document.getElementById("xline").append(td)
 		if (p < copy.length-1) {
 			document.getElementById("xline").append(document.createElement("td"))
@@ -122,12 +122,12 @@ function getTableVariation(points) {
 			document.getElementById("fxline").append(td)
 
 			td = document.createElement("td")
-			td.innerHTML = copy[p][1]
+			td.innerHTML = Math.floor(copy[p][1])
 			document.getElementById("fxline").append(td)
 		}
 		else {
 			td = document.createElement("td")
-			td.innerHTML = copy[p][1]
+			td.innerHTML = Math.floor(copy[p][1])
 			document.getElementById("fxline").append(td)
 		}
 	}
@@ -231,12 +231,14 @@ function questionImage() {
 	//console.log("Réponse = " + getFX(qsimg1))
 	let h2 = document.createElement("h1")
 	h2.innerHTML = "Quel est la valeur de f(" + qsimg1 + ") ? "
+	document.getElementById('img1').innerHTML = ""
 	document.getElementById('img1').append(h2)
 
 	qsimg2 = getRandomInt(0, 5, true)
 	//console.log("Réponse = " + getFX(qs))
 	h2 = document.createElement("h1")
 	h2.innerHTML = "Quelle est / quelles sont les images de " + qsimg2 + " ? "
+	document.getElementById('img2').innerHTML = ""
 	document.getElementById('img2').append(h2)
 }
 
@@ -287,30 +289,36 @@ function getFX(x) {
 function getArrayFunction() {
 	let X = []
 	let Y = []
-	for (let i = -5 ; i <= 5 ; i += 0.0001) {
+	let points = []
+	for (let i = -5 ; i <= 5 ; i += 0.01) {
 		//tab.push([i, getFX(i)])
 		X.push(i)
 		Y.push(getFX(i))
+		points.push([i, getFX(i)])
 	}
 
-	return {
+	return [{
 		x: X,
 		y: Y,
 		type: 'scatter'
-	}
+	}, points]
 }
-
+var points
 function generateRandomFunction() {
 	generateFunction()
+	let h2 = document.createElement("h1")
+	h2.innerHTML = "Quelle est le tableau de variation ?"
+	document.getElementById("qs").append(h2)
 	questionImage()
 	questionAntecedent()
-	let data = getArrayFunction()
+	let res = getArrayFunction()
+	points = res[1]
+	let data = res[0]
 	var layout = {
 		title: 'f(x) = ' + A + "x² + " + B + "x + " + C,
 		showlegend: false
 	};
 	Plotly.newPlot('testdiv', [data], layout)
-
 	/*let points = generateGraph()
 	questionImage(points)
 	questionAntecedent(points)
@@ -320,7 +328,6 @@ function generateRandomFunction() {
 	document.getElementById("btnNext").style = "visibility: hidden; display: none;"
 	document.getElementById("qs").innerHTML = "";
 	document.getElementById('tablevariation').style = "visibility: show; display: block;"
-	document.getElementById("tableaudevariation").style = "text-align: center;"
 	//graph.Draw('graphExemple1')
 	generateQuestions()
 }
@@ -331,7 +338,9 @@ var funcpairimpaire = ["(1 + x) / (1 + x²)", "x² - 3x + 2"]
 var func = ""
 function generateQuestions() {
 	let qs = document.getElementById("qs")
-	let h2 = document.createElement("h1")
+	qs.innerHTML = ""
+
+	h2 = document.createElement("h1")
 	let i = getRandomInt(0, 3)
 	if (i === 0) {
 		func = funcpair[getRandomInt(0, funcpair.length)]
@@ -348,6 +357,7 @@ function generateQuestions() {
 }
 
 function reponse() {
+	getTableVariation(points)
 	let h2 = document.createElement("h1")
 	if (funcpair.includes(func)) {
 		h2.innerHTML = "La fonction est pair !"
@@ -367,6 +377,8 @@ function reponse() {
 	h2 = document.createElement("h1")
 	h2.innerHTML = getFX(qsimg2)
 	document.getElementById('img2').append(h2)
+
+	document.getElementById("btnRep").disabled = true
 }
 
 function checkVariationTable() {
