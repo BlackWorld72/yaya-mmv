@@ -429,7 +429,7 @@ anglais_tech =
             "words": [
                 {
                     "fr": "Under Bust ",
-                    "al": " Sous le buste"
+                    "al": " Sous poitrine"
                 },
                 {
                     "fr": "High-waisted ",
@@ -464,9 +464,13 @@ anglais_tech =
                     "al": " Longueur au dessous du genou"
                 },
                 {
-                    "fr": "Midi Length/Mid-calf Length ",
+                    "fr": "Midi Length ",
                     "al": " Longueur au milieu de la jambe"
                 },
+                {
+                    "fr": "Mid-calf Length",
+                    "al": "Longueur au mi-mollet"
+                }
                 {
                     "fr": "Maxi Length/Ankle Length ",
                     "al": " Longueur à la cheville"
@@ -474,6 +478,10 @@ anglais_tech =
                 {
                     "fr": "Floor Length ",
                     "al": " Longueur jusqu’au sol"
+                },
+                {
+                    "fr": "Fullness",
+                    "al": "Ampleur"
                 }
             ]
         },
