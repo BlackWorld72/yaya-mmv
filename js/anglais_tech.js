@@ -423,7 +423,6 @@ anglais_tech =
                 }
             ]
         },
-
         {
             "nom": " Height of clothing ",
             "words": [
@@ -470,7 +469,7 @@ anglais_tech =
                 {
                     "fr": "Mid-calf Length",
                     "al": "Longueur au mi-mollet"
-                }
+                },
                 {
                     "fr": "Maxi Length/Ankle Length ",
                     "al": " Longueur à la cheville"
@@ -485,7 +484,6 @@ anglais_tech =
                 }
             ]
         },
-
         {
             "nom": " Supplies / Small wares",
             "words": [
