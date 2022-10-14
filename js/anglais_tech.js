@@ -692,6 +692,67 @@ anglais_tech =
                     "al": " une patte de serrage"
                 }
             ]
+        },
+        {
+            "nom": "Sort of skirts",
+            "words": [
+                {
+                    "fr": "Jupe droite / Straight skirt",
+                    "al": "<img> jupedroite"
+                },
+                {
+                    "fr": "Jupe crayon / Pencil skirt",
+                    "al": "<img> jupecrayon"
+                },
+                {
+                    "fr": "Jupe évasée / Flaired-skirt",
+                    "al": "<img> jupevasee"
+                },
+                {
+                    "fr": "Jupe trapèze / A-line skirt",
+                    "al": "<img> jupetrapeze"
+                },
+                {
+                    "fr": "Jupe à godets / Gored skirt",
+                    "al": "<img> jupegodets"
+                },
+                {
+                    "fr": "Jupe parapluie / Circle-skirt",
+                    "al": "<img> jupeparapluie"
+                },
+                {
+                    "fr": "Jupe à quilles / Godet skirt",
+                    "al": "<img> jupequilles"
+                },
+                {
+                    "fr": "Jupe boule / Puff ball skirt",
+                    "al": "<img> jupeboule"
+                },
+                {
+                    "fr": "Jupe à volants / Flouncer or tiered skirt",
+                    "al": "<img> jupevolant"
+                },
+                {
+                    "fr": "Jupe plissé / Pleated skirt",
+                    "al": "<img> jupeplisse"
+                },
+                {
+                    "fr": "Jupe à panneaux / Panelled skirt",
+                    "al": "<img> jupepanneaux"
+                },
+                {
+                    "fr": "Jupe portefeuille / Wrap skirt",
+                    "al": "<img> jupeportefeuille"
+                },
+                {
+                    "fr": "Jupe fendu / Slit skirt",
+                    "al": "<img> jupefendu"
+                },
+                {
+                    "fr": "Jupe culotte / Pant-skirt",
+                    "al": "<img> jupeculotte"
+                }
+            ]
         }
    ]
 }
