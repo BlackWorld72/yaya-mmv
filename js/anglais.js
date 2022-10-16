@@ -210,6 +210,76 @@ anglais =
 				}
 			]
 		},
+		
+		{
+			"nom": " L12 - Dénombrable/Indénombrables", 
+			"words": [ 
+				{ 
+					"fr": "Noms dénombrables règles ",
+					"al": " Pluriel possible " 
+				},
+				{ 
+					"fr": "Noms indénombrables règles ",
+					"al": " Pluriel impossible " 
+				},
+				{ 
+					"fr": "Noms indénombrables catégories ",
+					"al": " Matière/liquide/notions abstraites (time, love..)" 
+				},
+				{ 
+					"fr": "Noms dénombrables mots ",
+					"al": " Many/lot of" 
+				},
+				{ 
+					"fr": "Noms indénombrables mots ",
+					"al": " Much/A lot of" 
+				} 
+			] 
+		},
+		
+		{
+			"nom": " L13 - Notion/Abstrait", 
+			"words": [ 
+				{ 
+					"fr": "+hood ",
+					"al": " notion/abstrait" 
+				},
+				{ 
+					"fr": "exemples ",
+					"al": " childhood/adulthood" 
+				} 
+			] 
+		},
+		
+		{
+			"nom": " L14 - Pronoms", 
+			"words": [ 
+				{ 
+					"fr": "Pronoms personnels sujets ",
+					"al": " I, You, He/She/It, We, You, They" 
+				},
+				{ 
+					"fr": "Pronoms personnels compléments ",
+					"al": " Me, You, Him/Her/It, Us, You, Them" 
+				},
+				{ 
+					"fr": "Pronom générique ",
+					"al": " One (on)" 
+				},
+				{ 
+					"fr": "Adjectifs possessifs ",
+					"al": " One’s (on), My, Your, His/Her/Its, Our, Your, Their" 
+				},
+				{ 
+					"fr": "Pronom réfléchis ",
+					"al": " Oneself, Myself, Yourself, Himself/Herself/Itself, Ourselves, Yourselves, Themselves" 
+				},
+				{ 
+					"fr": "Pronoms possessifs ",
+					"al": " Mine, Yours, His/Hers/Its, Ours, Yours, Theirs (le mien, le tiens..)" 
+				} 
+			] 
+		},
         {
 			"nom": "0 - Introduction", 
 			"words": [ 
@@ -695,6 +765,94 @@ anglais =
 				{
 					"fr": "To handle ",
 					"al": " Gérer/traiter"
+				},
+				{ 
+					"fr": "Even though ",
+					"al": " Même si" 
+				},
+				{ 
+					"fr": "Mingling ",
+					"al": " Se mélanger" 
+				},
+				{ 
+					"fr": "Scenery ",
+					"al": " Paysage" 
+				},
+				{ 
+					"fr": "Yet ",
+					"al": " Pourtant " 
+				},
+				{ 
+					"fr": "Inherited ",
+					"al": " Hérité de" 
+				},
+				{ 
+					"fr": "Last ",
+					"al": " Durer" 
+				},
+				{ 
+					"fr": "Be cut of ",
+					"al": " Être couper de" 
+				},
+				{ 
+					"fr": "Root ",
+					"al": " Racine" 
+				},
+				{ 
+					"fr": "To life ",
+					"al": " À la vie" 
+				},
+				{ 
+					"fr": "Custom ",
+					"al": " Coutume" 
+				},
+				{ 
+					"fr": "Surrounded ",
+					"al": " Entouré de" 
+				},
+				{ 
+					"fr": "Outgoing ",
+					"al": " Sociable" 
+				},
+				{ 
+					"fr": "Outspoken ",
+					"al": " Franc / Spontané" 
+				},
+				{ 
+					"fr": "Encounter ",
+					"al": " Rencontrer" 
+				},
+				{ 
+					"fr": "Reassurded ",
+					"al": " Rassuré" 
+				},
+				{ 
+					"fr": "Enriching ",
+					"al": " Enrichissant" 
+				},
+				{ 
+					"fr": "Relying ",
+					"al": " Compter sur" 
+				},
+				{ 
+					"fr": "To cope by ",
+					"al": " Faire face à" 
+				},
+				{ 
+					"fr": "Shift ",
+					"al": " Roulement (ex taff matin puis soir)" 
+				},
+				{ 
+					"fr": "Adulthood ",
+					"al": " L’âge adulte" 
+				},
+				{ 
+					"fr": "Neighborhood ",
+					"al": " Voisinage" 
+				},
+				{ 
+					"fr": "Childhood ",
+					"al": " Enfance" 
 				}
 			]
 		},
