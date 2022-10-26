@@ -767,11 +767,11 @@ anglais =
 					"al": " Gérer/traiter"
 				},
 				{ 
-					"fr": "Even though ",
+					"fr": "Eventhough ",
 					"al": " Même si" 
 				},
 				{ 
-					"fr": "Mingling ",
+					"fr": "To mingle/ing ",
 					"al": " Se mélanger" 
 				},
 				{ 
@@ -787,7 +787,7 @@ anglais =
 					"al": " Hérité de" 
 				},
 				{ 
-					"fr": "Last ",
+					"fr": "to Last ",
 					"al": " Durer" 
 				},
 				{ 
@@ -853,6 +853,126 @@ anglais =
 				{ 
 					"fr": "Childhood ",
 					"al": " Enfance" 
+				},
+				{
+					"fr": "Incredible ",
+					"al": " Incroyable"
+				},
+				{
+					"fr": "Giant ",
+					"al": " Géant"
+				},
+				{
+					"fr": "To part ",
+					"al": " Être séparé"
+				},
+				{
+					"fr": "Scattered in ",
+					"al": " Éparpiller"
+				},
+				{
+					"fr": "Schooling fees ",
+					"al": " Frai de scolarité"
+				},
+				{
+					"fr": "A mark ",
+					"al": " Un repaire"
+				},
+				{
+					"fr": "Nest ",
+					"al": " Nid"
+				},
+				{
+					"fr": "Cosy ",
+					"al": " Qqlch de relaxant"
+				},
+				{
+					"fr": "A motto ",
+					"al": " Un proverbe/devise"
+				},
+				{
+					"fr": "Skyscrapers ",
+					"al": " Building"
+				},
+				{
+					"fr": "A beehive ",
+					"al": " Ruche d’abeille"
+				},
+				{
+					"fr": "An anthill ",
+					"al": " Fourmilière"
+				},
+				{
+					"fr": "A restless place ",
+					"al": " Un lieu actif"
+				},
+				{
+					"fr": "A commotion ",
+					"al": " Noise + Agitation"
+				},
+				{
+					"fr": "Pace ",
+					"al": " Rythme"
+				},
+				{
+					"fr": "Bearings ",
+					"al": " Prendre ses marques"
+				},
+				{
+					"fr": "A load ",
+					"al": " Une charge (fictive)"
+				},
+				{
+					"fr": "A grocery shopping ",
+					"al": " Faire ses courses (food)"
+				},
+				{
+					"fr": "Running errands ",
+					"al": " Faire ses courses"
+				},
+				{
+					"fr": "Within ",
+					"al": " Au sein de"
+				},
+				{
+					"fr": "The rent ",
+					"al": " Le loyer"
+				},
+				{
+					"fr": "Invoices ",
+					"al": " Factures"
+				},
+				{
+					"fr": "Living space ",
+					"al": " Escape vital"
+				},
+				{
+					"fr": "Tight / Tiny ",
+					"al": " Petit"
+				},
+				{
+					"fr": "Newly ",
+					"al": " Nouvellement"
+				},
+				{
+					"fr": "Furniture ",
+					"al": " Meuble"
+				},
+				{
+					"fr": "Dedicated / Devoted to ",
+					"al": " Dédié à"
+				},
+				{
+					"fr": "Fluency ",
+					"al": " Savoir parler couramment une langue"
+				},
+				{
+					"fr": "Availability ",
+					"al": " Disponibilité"
+				},
+				{
+					"fr": "Involvement ",
+					"al": " Implication"
 				}
 			]
 		},
