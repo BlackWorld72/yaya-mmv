@@ -463,12 +463,8 @@ anglais_tech =
                     "al": " Longueur au dessous du genou"
                 },
                 {
-                    "fr": "Midi Length ",
-                    "al": " Longueur au milieu de la jambe"
-                },
-                {
-                    "fr": "Mid-calf Length",
-                    "al": "Longueur au mi-mollet"
+                    "fr": "Midi length / Mid-calf length",
+                    "al": "Longueur mi-mollet"
                 },
                 {
                     "fr": "Maxi Length/Ankle Length ",
