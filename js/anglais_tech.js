@@ -690,6 +690,98 @@ anglais_tech =
                 {
                     "fr": "an adjustable tab ",
                     "al": " une patte de serrage"
+                },
+                {
+                    "fr": "A pleat ",
+                    "al": " Un pli"
+                },
+                {
+                    "fr": "A dart ",
+                    "al": " Une pince "
+                },
+                {
+                    "fr": "A panel ",
+                    "al": " Un panneau "
+                },
+                {
+                    "fr": "A flounce ",
+                    "al": " Un volant"
+                },
+                {
+                    "fr": "A yoke ",
+                    "al": " Un empiècement"
+                },
+                {
+                    "fr": "A cutout ",
+                    "al": " Une découpe"
+                },
+                {
+                    "fr": "A gather ",
+                    "al": " Une fronce"
+                },
+                {
+                    "fr": "A godet ",
+                    "al": " Une quille"
+                },
+                {
+                    "fr": "A tissue ",
+                    "al": " Un mouchoir "
+                },
+                {
+                    "fr": "A sew through button / un bouton à trous",
+                    "al": "<img> boutonatrous"
+                },
+                {
+                    "fr": "A nail button - a shank button / Bouton à clous",
+                    "al": "<img> boutonaclous"
+                },
+                {
+                    "fr": "A magnetic clasp / Fermeture-fermoir à aimants",
+                    "al": "<img> fermeturefermoireaaimant"
+                },
+                {
+                    "fr": "A press stud - A snap fastener / Bouton pression",
+                    "al": "<img> boutonpression"
+                },
+                {
+                    "fr": "Brandenbourg fastener / Fermeture par brandebourg",
+                    "al": "<img> fermeturebrandebourg"
+                },
+                {
+                    "fr": "A chinese button and soutache / Botons chinois et soutache",
+                    "al": "<img> boutonchinoisetsoutache"
+                },
+                {
+                    "fr": "A hook and loop / Crochet",
+                    "al": "<img> crochet"
+                },
+                {
+                    "fr": "A lacing (string + eyelet) / Laçage (lien + oeillet)",
+                    "al": "<img> lacage"
+                },
+                {
+                    "fr": "A zip(per) (fastener) / Fermeture",
+                    "al": "<img> fermeture"
+                },
+                {
+                    "fr": "A hook and loop fastener - a self gripping fastener / Bande agrippante",
+                    "al": "<img> bandegrippannte"
+                },
+                {
+                    "fr": "A buckle / Boucle",
+                    "al": "<img> boucle"
+                },
+                {
+                    "fr": "A fibula / Fibule",
+                    "al": "<img> fidule"
+                },
+                {
+                    "fr": "A brooch / Broche",
+                    "al": "<img> broche"
+                },
+                {
+                    "fr": "A safety pin : Épingle à nourrice",
+                    "al": "<img> epinglenourice"
                 }
             ]
         },
@@ -751,6 +843,66 @@ anglais_tech =
                 {
                     "fr": "Jupe culotte / Pant-skirt",
                     "al": "<img> jupeculotte"
+                },
+                {
+                    "fr": "Jupette / Short skirt",
+                    "al": "<img> jupette"
+                },
+                {
+                    "fr": "Jupe foulard / Handkerchief skirt",
+                    "al": "<img> jupefoulard"
+                },
+                {
+                    "fr": "Jupe à empiècement et pli creux / Yoke and inverted pleated skirt",
+                    "al": "<img> jupeaempiecement"
+                },
+                {
+                    "fr": "Jupe drapé et panneau central / Draped skirt and front panel",
+                    "al": "<img> jupedrape"
+                },
+                {
+                    "fr": "Jupe â volant et bande du bas froncée / Gathered skirt with ruffe stripe at the bottom",
+                    "al": "<img> Jupeavolant"
+                },
+                {
+                    "fr": "Kilt / Kilt",
+                    "al": "<img> Kilt"
+                },
+                {
+                    "fr": "A pleat ",
+                    "al": " Un pli"
+                },
+                {
+                    "fr": "A dart ",
+                    "al": " Une pince "
+                },
+                {
+                    "fr": "A panel ",
+                    "al": " Un panneau "
+                },
+                {
+                    "fr": "A flounce ",
+                    "al": " Un volant"
+                },
+                {
+                    "fr": "A yoke ",
+                    "al": " Un empiècement"
+                },
+                {
+                    "fr": "A cutout ",
+                    "al": " Une découpe"
+                },
+                {
+                    "fr": "A gather ",
+                    "al": " Une fronce"
+                },
+                {
+                    "fr": "A godet ",
+                    "al": " Une quille"
+                },
+                {
+                    "fr": "A tissue ",
+                    "al": " Un mouchoir "
                 }
             ]
         }
