@@ -481,7 +481,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Supplies / Small wares",
+                "nom": " Supplies / Small wares 1",
                 "words": [
                     {
                         "fr": "a supplie ",
@@ -595,6 +595,11 @@ anglais_tech =
                         "fr": "a thread ",
                         "al": " un fil"
                     },
+                ]
+            },
+            {
+                "nom": " Supplies / Small wares 2",
+                "words": [
                     {
                         "fr": "a braid / a stripe braid ",
                         "al": " un galon"
@@ -703,6 +708,11 @@ anglais_tech =
                         "fr": "A flounce ",
                         "al": " Un volant"
                     },
+                ]
+            },
+            {
+                "nom": " Supplies / Small wares 3",
+                "words": [
                     {
                         "fr": "A yoke ",
                         "al": " Un empiècement"
