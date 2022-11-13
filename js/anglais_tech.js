@@ -778,46 +778,6 @@ anglais_tech =
                 {
                     "fr": "A safety pin : Épingle à nourrice",
                     "al": "<img> epinglenourice"
-                },
-                {
-                    "fr": "A waistband ",
-                    "al": " Ceinture intégré au vêtement"
-                },
-                {
-                    "fr": "A lining ",
-                    "al": " Doublure"
-                },
-                {
-                    "fr": "A stitch.es ",
-                    "al": " Point couture"
-                },
-                {
-                    "fr": "A topstitching ",
-                    "al": " Surpiqure"
-                },
-                {
-                    "fr": "A wire ",
-                    "al": " Cable métallique"
-                },
-                {
-                    "fr": "An embroidery ",
-                    "al": " Broderie"
-                },
-                {
-                    "fr": "The edge ",
-                    "al": " Un bord"
-                },
-                {
-                    "fr": "To patch ",
-                    "al": " Plaquer"
-                },
-                {
-                    "fr": "A hem ",
-                    "al": " Ourlet"
-                },
-                {
-                    "fr": "A tuck ",
-                    "al": " Un rempli"
                 }
             ]
         },
