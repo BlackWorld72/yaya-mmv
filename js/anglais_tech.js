@@ -823,11 +823,43 @@ anglais_tech =
                     },
                     {
                         "fr": "A hem ",
-                        "al": " Ourlet"
+                        "al": "Un ourlet (hemmed)"
                     },
                     {
                         "fr": "A tuck ",
-                        "al": " Un rempli"
+                        "al": "Un rempli (tucked)"
+                    },
+                    {
+                        "fr": "Layers / rows ",
+                        "al": " couches"
+                    },
+                    {
+                        "fr": "Tightened ",
+                        "al": " Serré"
+                    },
+                    {
+                        "fr": "A tap ",
+                        "al": " Une patte"
+                    },
+                    {
+                        "fr": "A facing ",
+                        "al": " Une enforme"
+                    },
+                    {
+                        "fr": "Western pocket ",
+                        "al": " Poche cavalière"
+                    },
+                    {
+                        "fr": "A bar tack ",
+                        "al": " Point d’arrêt avec machine spécial"
+                    },
+                    {
+                        "fr": "A peplum ",
+                        "al": " Une basque (Volant rajouté au vêtement)"
+                    },
+                    {
+                        "fr": "A bourdon stitch ",
+                        "al": " Point bourdon"
                     }
                 ]
             },
