@@ -243,6 +243,39 @@ couture_tech =
 					"al": "<img> representationremplacerdeuxfleches"
 				}
 			]
+		},
+		{
+			"nom": " Gradation",
+			"words": [
+				{
+					"fr": "L’évolution se fait ",
+					"al": " Selon des périmètre ou des largeurs (horizontale) / Selon des hauteurs (verticale) / Selon des largeurs et des hauteurs (oblique)"
+				},
+				{
+					"fr": "Le point fixe ",
+					"al": " Ce point ne se déplace pas, détermine la répartition de la valeur de gradation"
+				},
+				{
+					"fr": "Lignes d’entretailles ",
+					"al": " Lignes sur lesquelles ont pointes toute les tailles"
+				},
+				{
+					"fr": "Tracé des différentes tailles ",
+					"al": " Souvent en mm. Conseillé d’utiliser une couleur par taille"
+				},
+				{
+					"fr": "Méthode radiale ",
+					"al": " Tracer des rayons à partir de points fixes"
+				},
+				{
+					"fr": "Méthode de groupement ",
+					"al": " Superposition de deux fond (un petit et un grand) en superposant les points fixes pour relever les valeurs d’évolutions"
+				},
+				{
+					"fr": "Méthodes proportionnelle ",
+					"al": " Assisté par ordinateur, traçage des axes coordonnées de chaque point qui se trouve sur le patron et placer les progressions "
+				}
+			]
 		}
 	] 
 }

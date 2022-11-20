@@ -197,6 +197,10 @@ anglais =
 				"nom": " L11 - Habits",
 				"words": [
 					{
+						"fr": "Passé révolu",
+						"al": "X used to + BV (pas ing)"
+					},
+					{
 						"fr": "Derrière mots ",
 						"al": " Verbe en -Ing ou un nom"
 					},
@@ -277,6 +281,59 @@ anglais =
 					{
 						"fr": "Pronoms possessifs ",
 						"al": " Mine, Yours, His/Hers/Its, Ours, Yours, Theirs (le mien, le tiens..)"
+					}
+				]
+			},
+			{
+				"nom": " L15 - Quantifieurs",
+				"words": [
+					{
+						"fr": "Basic positif ",
+						"al": " Some"
+					},
+					{
+						"fr": "Humain positif ",
+						"al": " Someone / Somebody"
+					},
+					{
+						"fr": "Lieu positif ",
+						"al": " Somewhere"
+					},
+					{
+						"fr": "Chose ",
+						"al": " Something"
+					},
+					{
+						"fr": "Basic question ",
+						"al": " Any"
+					},
+					{
+						"fr": "Humain question ",
+						"al": " Anybody / Anyone "
+					},
+					{
+						"fr": "Lieu question ",
+						"al": " Anywhere"
+					},
+					{
+						"fr": "Chose question ",
+						"al": " Anything"
+					},
+					{
+						"fr": "Basique négatif ",
+						"al": " No / Not … any"
+					},
+					{
+						"fr": "Humain négatif ",
+						"al": " Nobody / Noone / Not…anybody / Not…anyone "
+					},
+					{
+						"fr": "Lieu négatif ",
+						"al": " Nowhere / Not…anywhere"
+					},
+					{
+						"fr": "Chose négatif ",
+						"al": " Nothing / Not…Anything"
 					}
 				]
 			},
@@ -1135,6 +1192,50 @@ anglais =
 					{
 						"fr": "Youth training scheme ",
 						"al": " Formation des jeunes"
+					},
+					{
+						"fr": "Cornerstones ",
+						"al": " Pilliers"
+					},
+					{
+						"fr": "Provided ",
+						"al": " Fourni par"
+					},
+					{
+						"fr": "Curricula ",
+						"al": " Cursus"
+					},
+					{
+						"fr": "Diploma ",
+						"al": " Diplôme papier"
+					},
+					{
+						"fr": "Sets of courses ",
+						"al": " Ensemble de cours"
+					},
+					{
+						"fr": "Undergraduate ",
+						"al": " Pas encore diplômé"
+					},
+					{
+						"fr": "Complete ",
+						"al": " Achever"
+					},
+					{
+						"fr": "Teaching ",
+						"al": " Enseignement"
+					},
+					{
+						"fr": "Lectures ",
+						"al": " Conférences"
+					},
+					{
+						"fr": "Art subject ",
+						"al": " Matière littéraire"
+					},
+					{
+						"fr": "Library ",
+						"al": " Bibliothèque"
 					}
 				]
 			},
