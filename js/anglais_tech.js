@@ -257,7 +257,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Clothes",
+                "nom": " Clothing parts",
                 "words": [
                     {
                         "fr": "pocket ",
@@ -981,6 +981,609 @@ anglais_tech =
                     {
                         "fr": "A tissue ",
                         "al": " Un mouchoir "
+                    }
+                ]
+            },
+            {
+                "nom": " Materials & Patterns",
+                "words": [
+                    {
+                        "fr": "Materials ",
+                        "al": " Matières"
+                    },
+                    {
+                        "fr": "Patterns ",
+                        "al": " Motifs"
+                    },
+                    {
+                        "fr": "Leather ",
+                        "al": " Cuir"
+                    },
+                    {
+                        "fr": "Silk ",
+                        "al": " Soie "
+                    },
+                    {
+                        "fr": "Tissue ",
+                        "al": " Fabric"
+                    },
+                    {
+                        "fr": "Nylon ",
+                        "al": " Nylon"
+                    },
+                    {
+                        "fr": "Striped ",
+                        "al": " Rayé"
+                    },
+                    {
+                        "fr": "Spotted ",
+                        "al": " À pois"
+                    },
+                    {
+                        "fr": "Wool ",
+                        "al": " Laine"
+                    },
+                    {
+                        "fr": "Velvet ",
+                        "al": " Velours"
+                    },
+                    {
+                        "fr": "Corduray ",
+                        "al": " Velours côtelé"
+                    },
+                    {
+                        "fr": "Checked ",
+                        "al": " À carreaux"
+                    },
+                    {
+                        "fr": "Tartan ",
+                        "al": " Écossais"
+                    },
+                    {
+                        "fr": "Cotton ",
+                        "al": " Coton"
+                    },
+                    {
+                        "fr": "Cashmere ",
+                        "al": " Cachemire"
+                    },
+                    {
+                        "fr": "Linen ",
+                        "al": " Lin"
+                    },
+                    {
+                        "fr": "Flowery ",
+                        "al": " À fleurs"
+                    },
+                    {
+                        "fr": "Plain ",
+                        "al": " Uni"
+                    },
+                    {
+                        "fr": "Denim ",
+                        "al": " Jean"
+                    },
+                    {
+                        "fr": "Synthetic ",
+                        "al": " Synthétique"
+                    }
+                ]
+            },
+            {
+                "nom": " Style",
+                "words": [
+                    {
+                        "fr": "Tight ",
+                        "al": " Moulant"
+                    },
+                    {
+                        "fr": "Smart ",
+                        "al": " Élégant"
+                    },
+                    {
+                        "fr": "Trendy ",
+                        "al": " À la mode"
+                    },
+                    {
+                        "fr": "Loose ",
+                        "al": " Ample"
+                    },
+                    {
+                        "fr": "Casual ",
+                        "al": " Décontracté"
+                    },
+                    {
+                        "fr": "Old-Fashioned ",
+                        "al": " Démodé"
+                    },
+                    {
+                        "fr": "Baggy ",
+                        "al": " Très ample"
+                    },
+                    {
+                        "fr": "Flashy ",
+                        "al": " Voyant"
+                    },
+                    {
+                        "fr": "Scruffy ",
+                        "al": " Négligé / Peu soigné"
+                    }
+                ]
+            },
+            {
+                "nom": " Clothes 1",
+                "words": [
+                    {
+                        "fr": "To carry / Carring ",
+                        "al": " Porter/Portant"
+                    },
+                    {
+                        "fr": "Top ",
+                        "al": " Haut"
+                    },
+                    {
+                        "fr": "Ring ",
+                        "al": " Bague"
+                    },
+                    {
+                        "fr": "Necklace ",
+                        "al": " Collier"
+                    },
+                    {
+                        "fr": "Bracelet ",
+                        "al": " Bracelet"
+                    },
+                    {
+                        "fr": "Skirt ",
+                        "al": " Jupe"
+                    },
+                    {
+                        "fr": "Boots ",
+                        "al": " Bottes"
+                    },
+                    {
+                        "fr": "Tights (pluriel) ",
+                        "al": " Collants"
+                    },
+                    {
+                        "fr": "Tie ",
+                        "al": " Cravate"
+                    },
+                    {
+                        "fr": "Collar ",
+                        "al": " Col"
+                    },
+                    {
+                        "fr": "Sleeve ",
+                        "al": " Manche"
+                    },
+                    {
+                        "fr": "Scarf ",
+                        "al": " Écharpe / Foulard"
+                    },
+                    {
+                        "fr": "Button ",
+                        "al": " Bouton"
+                    },
+                    {
+                        "fr": "Pocket ",
+                        "al": " Poche"
+                    },
+                    {
+                        "fr": "Suit ",
+                        "al": " Costume"
+                    },
+                    {
+                        "fr": "Cap ",
+                        "al": " Casquette"
+                    },
+                    {
+                        "fr": "T-shirt ",
+                        "al": " T-shirt"
+                    },
+                    {
+                        "fr": "Rucksack ",
+                        "al": " Sac à dos"
+                    },
+                    {
+                        "fr": "Jumper / Sweater ",
+                        "al": " Pull"
+                    },
+                    {
+                        "fr": "Jacket ",
+                        "al": " Veste d’homme"
+                    },
+                    {
+                        "fr": "Zip ",
+                        "al": " Fermeture à glissière"
+                    },
+                    {
+                        "fr": "Jeans ",
+                        "al": " Jeans"
+                    },
+                    {
+                        "fr": "Trainers / Sneakers ",
+                        "al": " Baskets"
+                    },
+                    {
+                        "fr": "Socks ",
+                        "al": " Chaussettes"
+                    },
+                    {
+                        "fr": "Swimsuit ",
+                        "al": " Maillot de bain"
+                    }
+                ]
+            },
+            {
+                "nom": " Clothes 2",
+                "words": [
+                    {
+                        "fr": "Blouse ",
+                        "al": " Chemisier"
+                    },
+                    {
+                        "fr": "Bowtie ",
+                        "al": " Noeud papillon"
+                    },
+                    {
+                        "fr": "Bra ",
+                        "al": " Soutien-gorge"
+                    },
+                    {
+                        "fr": "Cardigan ",
+                        "al": " Gilet"
+                    },
+                    {
+                        "fr": "Coat ",
+                        "al": " Manteau"
+                    },
+                    {
+                        "fr": "Gloves ",
+                        "al": " Gants"
+                    },
+                    {
+                        "fr": "Hat ",
+                        "al": " Chapeau"
+                    },
+                    {
+                        "fr": "Nightie ",
+                        "al": " Chemise de nuit"
+                    },
+                    {
+                        "fr": "Polo shirt ",
+                        "al": " Polo"
+                    },
+                    {
+                        "fr": "Pyjamas (pluriel) ",
+                        "al": " Pyjama"
+                    },
+                    {
+                        "fr": "Raincoat ",
+                        "al": " Imperméable"
+                    },
+                    {
+                        "fr": "Shirt ",
+                        "al": " Chemise"
+                    },
+                    {
+                        "fr": "Sweatshirt ",
+                        "al": " Sweatshirt"
+                    },
+                    {
+                        "fr": "Belt ",
+                        "al": " Ceinture"
+                    },
+                    {
+                        "fr": "Briefs (pluriel) / Underpants (pluriel) ",
+                        "al": " Slip (homme)"
+                    },
+                    {
+                        "fr": "Dress ",
+                        "al": " Robe"
+                    },
+                    {
+                        "fr": "Knickers (pluriel) / Panties ",
+                        "al": " Slip (femme)"
+                    },
+                    {
+                        "fr": "Loafers ",
+                        "al": " Mocassins"
+                    },
+                    {
+                        "fr": "Sandals ",
+                        "al": " Sandales"
+                    },
+                    {
+                        "fr": "Shoes ",
+                        "al": " Chaussures"
+                    },
+                    {
+                        "fr": "Shorts (pluriel) ",
+                        "al": " Short"
+                    },
+                    {
+                        "fr": "Slippers ",
+                        "al": " Chaussons"
+                    },
+                    {
+                        "fr": "Trousers (pluriel) ",
+                        "al": " Pantalon"
+                    },
+                    {
+                        "fr": "Corset ",
+                        "al": " Corset"
+                    }
+                ]
+            },
+            {
+                "nom": " Clothes 2",
+                "words": [
+                    {
+                        "fr": "Blouse ",
+                        "al": " Chemisier"
+                    },
+                    {
+                        "fr": "Bowtie ",
+                        "al": " Noeud papillon"
+                    },
+                    {
+                        "fr": "Bra ",
+                        "al": " Soutien-gorge"
+                    },
+                    {
+                        "fr": "Cardigan ",
+                        "al": " Gilet"
+                    },
+                    {
+                        "fr": "Coat ",
+                        "al": " Manteau"
+                    },
+                    {
+                        "fr": "Gloves ",
+                        "al": " Gants"
+                    },
+                    {
+                        "fr": "Hat ",
+                        "al": " Chapeau"
+                    },
+                    {
+                        "fr": "Nightie ",
+                        "al": " Chemise de nuit"
+                    },
+                    {
+                        "fr": "Polo shirt ",
+                        "al": " Polo"
+                    },
+                    {
+                        "fr": "Pyjamas (pluriel) ",
+                        "al": " Pyjama"
+                    },
+                    {
+                        "fr": "Raincoat ",
+                        "al": " Imperméable"
+                    },
+                    {
+                        "fr": "Shirt ",
+                        "al": " Chemise"
+                    },
+                    {
+                        "fr": "Sweatshirt ",
+                        "al": " Sweatshirt"
+                    },
+                    {
+                        "fr": "Belt ",
+                        "al": " Ceinture"
+                    },
+                    {
+                        "fr": "Briefs (pluriel) / Underpants (pluriel) ",
+                        "al": " Slip (homme)"
+                    },
+                    {
+                        "fr": "Dress ",
+                        "al": " Robe"
+                    },
+                    {
+                        "fr": "Knickers (pluriel) / Panties ",
+                        "al": " Slip (femme)"
+                    },
+                    {
+                        "fr": "Loafers ",
+                        "al": " Mocassins"
+                    },
+                    {
+                        "fr": "Sandals ",
+                        "al": " Sandales"
+                    },
+                    {
+                        "fr": "Shoes ",
+                        "al": " Chaussures"
+                    },
+                    {
+                        "fr": "Shorts (pluriel) ",
+                        "al": " Short"
+                    },
+                    {
+                        "fr": "Slippers ",
+                        "al": " Chaussons"
+                    },
+                    {
+                        "fr": "Trousers (pluriel) ",
+                        "al": " Pantalon"
+                    },
+                    {
+                        "fr": "Corset ",
+                        "al": " Corset"
+                    }
+                ]
+            },
+            {
+                "nom": " Colors 1",
+                "words": [
+                    {
+                        "fr": "Golden ",
+                        "al": " Doré"
+                    },
+                    {
+                        "fr": "Silvery ",
+                        "al": " Argenté"
+                    },
+                    {
+                        "fr": "Almond green ",
+                        "al": " Vert amande"
+                    },
+                    {
+                        "fr": "Bottle green ",
+                        "al": " Vert bouteille"
+                    },
+                    {
+                        "fr": "Sea green ",
+                        "al": " Vert d’eau"
+                    },
+                    {
+                        "fr": "Emerald green ",
+                        "al": " Vert d’émeraude"
+                    },
+                    {
+                        "fr": "Olive green ",
+                        "al": " Vert olive"
+                    },
+                    {
+                        "fr": "Apple green ",
+                        "al": " Vert pomme"
+                    },
+                    {
+                        "fr": "Verdigris ",
+                        "al": " Vert de gris"
+                    },
+                    {
+                        "fr": "Claret / Wine / Burgoundy ",
+                        "al": " Rouge bordeau"
+                    },
+                    {
+                        "fr": "Brick red ",
+                        "al": " Rouge brique"
+                    },
+                    {
+                        "fr": "Carrot red ",
+                        "al": " Rouge carotte"
+                    },
+                    {
+                        "fr": "Chery red ",
+                        "al": " Rouge cerise"
+                    },
+                    {
+                        "fr": "Coral red ",
+                        "al": " Rouge corail"
+                    },
+                    {
+                        "fr": "Scarlet red ",
+                        "al": " Rouge écarlate"
+                    },
+                    {
+                        "fr": "Flame red ",
+                        "al": " Rouge feu"
+                    },
+                    {
+                        "fr": "Blood red / Gore red ",
+                        "al": " Rouge sang"
+                    },
+                    {
+                        "fr": "Ruby red ",
+                        "al": " Rouge rubis"
+                    },
+                    {
+                        "fr": "Rust red or rusty ",
+                        "al": " Rouille"
+                    }
+                ]
+            },
+            {
+                "nom": " Colors 2",
+                "words": [
+                    {
+                        "fr": "Steel blue ",
+                        "al": " Bleu acier"
+                    },
+                    {
+                        "fr": "Slate blue or slaty ",
+                        "al": " Bleu ardoise"
+                    },
+                    {
+                        "fr": "Duck bleu / Mallard bleu / Peacock ",
+                        "al": " Bleu canard"
+                    },
+                    {
+                        "fr": "Sky blue ",
+                        "al": " Bleu ciel"
+                    },
+                    {
+                        "fr": "Cyan blue ",
+                        "al": " Bleu cyan"
+                    },
+                    {
+                        "fr": "Turquoise blue ",
+                        "al": " Bleu turquoise"
+                    },
+                    {
+                        "fr": "Buttercup yellow ",
+                        "al": " Jaune bouton d’or"
+                    },
+                    {
+                        "fr": "Lemon yellow ",
+                        "al": " Jaune citron"
+                    },
+                    {
+                        "fr": "Golden yellow ",
+                        "al": " Jaune or"
+                    },
+                    {
+                        "fr": "Mustard yellow ",
+                        "al": " Jaune moutarde"
+                    },
+                    {
+                        "fr": "Saffron yellow ",
+                        "al": " Jaune safran"
+                    },
+                    {
+                        "fr": "Candy pink ",
+                        "al": " Rose bonbon"
+                    },
+                    {
+                        "fr": "Pastel pink ",
+                        "al": " Rose dragée"
+                    },
+                    {
+                        "fr": "Hot pink / Shocking pink / Fuchsia ",
+                        "al": " Rose fushia"
+                    },
+                    {
+                        "fr": "Salmon pink ",
+                        "al": " Rose saumon"
+                    },
+                    {
+                        "fr": "Dark ",
+                        "al": " Sombre"
+                    },
+                    {
+                        "fr": "Dull ",
+                        "al": " Terne"
+                    },
+                    {
+                        "fr": "Light / Pale ",
+                        "al": " Clair"
+                    },
+                    {
+                        "fr": "Bright ",
+                        "al": " Brillant"
+                    },
+                    {
+                        "fr": "Flashy ",
+                        "al": " Vive/Voyante"
+                    },
+                    {
+                        "fr": "Navy ",
+                        "al": " Marine"
                     }
                 ]
             }
