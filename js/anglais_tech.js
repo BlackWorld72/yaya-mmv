@@ -1313,107 +1313,22 @@ anglais_tech =
                     {
                         "fr": "Corset ",
                         "al": " Corset"
-                    }
-                ]
-            },
-            {
-                "nom": " Clothes 2",
-                "words": [
-                    {
-                        "fr": "Blouse ",
-                        "al": " Chemisier"
                     },
                     {
-                        "fr": "Bowtie ",
-                        "al": " Noeud papillon"
+                        "fr": "A dinner suit ",
+                        "al": " Une tenue de soirée"
                     },
                     {
-                        "fr": "Bra ",
-                        "al": " Soutien-gorge"
+                        "fr": "High heel ",
+                        "al": " Talon haut"
                     },
                     {
-                        "fr": "Cardigan ",
-                        "al": " Gilet"
+                        "fr": "A woody ",
+                        "al": " Une laine"
                     },
                     {
-                        "fr": "Coat ",
-                        "al": " Manteau"
-                    },
-                    {
-                        "fr": "Gloves ",
-                        "al": " Gants"
-                    },
-                    {
-                        "fr": "Hat ",
-                        "al": " Chapeau"
-                    },
-                    {
-                        "fr": "Nightie ",
-                        "al": " Chemise de nuit"
-                    },
-                    {
-                        "fr": "Polo shirt ",
-                        "al": " Polo"
-                    },
-                    {
-                        "fr": "Pyjamas (pluriel) ",
-                        "al": " Pyjama"
-                    },
-                    {
-                        "fr": "Raincoat ",
-                        "al": " Imperméable"
-                    },
-                    {
-                        "fr": "Shirt ",
-                        "al": " Chemise"
-                    },
-                    {
-                        "fr": "Sweatshirt ",
-                        "al": " Sweatshirt"
-                    },
-                    {
-                        "fr": "Belt ",
-                        "al": " Ceinture"
-                    },
-                    {
-                        "fr": "Briefs (pluriel) / Underpants (pluriel) ",
-                        "al": " Slip (homme)"
-                    },
-                    {
-                        "fr": "Dress ",
-                        "al": " Robe"
-                    },
-                    {
-                        "fr": "Knickers (pluriel) / Panties ",
-                        "al": " Slip (femme)"
-                    },
-                    {
-                        "fr": "Loafers ",
-                        "al": " Mocassins"
-                    },
-                    {
-                        "fr": "Sandals ",
-                        "al": " Sandales"
-                    },
-                    {
-                        "fr": "Shoes ",
-                        "al": " Chaussures"
-                    },
-                    {
-                        "fr": "Shorts (pluriel) ",
-                        "al": " Short"
-                    },
-                    {
-                        "fr": "Slippers ",
-                        "al": " Chaussons"
-                    },
-                    {
-                        "fr": "Trousers (pluriel) ",
-                        "al": " Pantalon"
-                    },
-                    {
-                        "fr": "Corset ",
-                        "al": " Corset"
+                        "fr": "A pants ",
+                        "al": " Une culotte"
                     }
                 ]
             },
@@ -1584,6 +1499,40 @@ anglais_tech =
                     {
                         "fr": "Navy ",
                         "al": " Marine"
+                    }
+                ]
+            },
+
+            {
+                "nom": " Get dressed",
+                "words": [
+                    {
+                        "fr": "Get dressed ",
+                        "al": " S’habiller"
+                    },
+                    {
+                        "fr": "Change into ",
+                        "al": " Se changer / Mettre"
+                    },
+                    {
+                        "fr": "To undo ",
+                        "al": " Pour défaire"
+                    },
+                    {
+                        "fr": "To do it up ",
+                        "al": " Pour refaire"
+                    },
+                    {
+                        "fr": "To wear ",
+                        "al": " Porter "
+                    },
+                    {
+                        "fr": "Take off ",
+                        "al": " Enlever"
+                    },
+                    {
+                        "fr": "Undress ",
+                        "al": " Se déshabiller"
                     }
                 ]
             }

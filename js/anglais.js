@@ -337,6 +337,90 @@ anglais =
 					}
 				]
 			},
+
+			{
+				"nom": " L16 - Le but",
+				"words": [
+					{
+						"fr": "To + BV ",
+						"al": " Pour"
+					},
+					{
+						"fr": "In order to + BV / So as to + BV ",
+						"al": " Afin de"
+					},
+					{
+						"fr": "So that… (S+Mod+BV) ",
+						"al": " Afin que"
+					},
+					{
+						"fr": "Exemple afin que ",
+						"al": " So that you can become.."
+					}
+				]
+			},
+
+			{
+				"nom": " L17 - Diplômes",
+				"words": [
+					{
+						"fr": "Baccalauréat professionnel ",
+						"al": " A vocational degree / A vocational Baccalaureate"
+					},
+					{
+						"fr": "O_levels .. (3subjects) ",
+						"al": " Première"
+					},
+					{
+						"fr": "A_levels (A=Advanced) ..(3subjects) ",
+						"al": " Terminal"
+					},
+					{
+						"fr": "Baccalauréat général / technologique in Great Britain ",
+						"al": " A levels in… (3 subjects)"
+					},
+					{
+						"fr": "Baccalauréat général / technologique in USA ",
+						"al": " High school graduation"
+					},
+					{
+						"fr": "Baccalauréat général / technologique S ",
+						"al": " A_levels in sciences, maths, chemistry, biology"
+					},
+					{
+						"fr": "Baccalauréat général / technologique L ",
+						"al": " A_levels in arts, literature, language, history"
+					},
+					{
+						"fr": "Baccalauréat général / technologique ES ",
+						"al": " A_levels in social science, economics"
+					},
+					{
+						"fr": "Baccalauréat général / technologique STD2A ",
+						"al": " A_levels in design and applied arts"
+					},
+					{
+						"fr": "BTS / IUT (1) ",
+						"al": " A 2-year technical degree in model making, patterning, fashion industry"
+					},
+					{
+						"fr": "BTS / IUT (2) ",
+						"al": " A H(igher) N(ational) D(egree) in…"
+					},
+					{
+						"fr": "BTS / IUT (3) ",
+						"al": " A 2-year post A_level technical degree in…"
+					},
+					{
+						"fr": "Licence (lettre / science) ",
+						"al": " A bachelor of… (arts / sciences)"
+					},
+					{
+						"fr": "Master (lettre / science) ",
+						"al": " A master of… (arts / sciences) "
+					}
+				]
+			},
 			{
 				"nom": "0 - Introduction",
 				"words": [
@@ -1054,8 +1138,12 @@ anglais =
 						"al": " Acquérir des connaissances"
 					},
 					{
-						"fr": "Adult literacy / Literacy ",
+						"fr": "adulte literacy ",
 						"al": " Alphabétisation"
+					},
+					{
+						"fr": "A failure",
+						"al": "Un echec"
 					},
 					{
 						"fr": "Attend school ",
@@ -1528,6 +1616,178 @@ anglais =
 					{
 						"fr": "Academic ",
 						"al": " Universitaire "
+					}
+				]
+			},
+
+			{
+				"nom": " 5a - Jobs",
+				"words": [
+					{
+						"fr": "A doctor / A physician / A practitioner ",
+						"al": " Un docteur / Un médecin"
+					},
+					{
+						"fr": "A surgeon ",
+						"al": " Un chirurgien"
+					},
+					{
+						"fr": "A physiotherapist ",
+						"al": " Un kinésithérapeute"
+					},
+					{
+						"fr": "An anaesthetist ",
+						"al": " Un anesthésiologiste"
+					},
+					{
+						"fr": "A cancer therapist ",
+						"al": " Cancérologue"
+					},
+					{
+						"fr": "A respiratory therapist ",
+						"al": " Pneumologue"
+					},
+					{
+						"fr": "A nurse ",
+						"al": " Une infirmière"
+					},
+					{
+						"fr": "A radiologist ",
+						"al": " Un radiologue"
+					},
+					{
+						"fr": "A psychiatric therapist ",
+						"al": " Un thérapeute psychiatrique"
+					},
+					{
+						"fr": "A dentist ",
+						"al": " Un dentist"
+					},
+					{
+						"fr": "A pharmacist / A chemist ",
+						"al": " Un pharmacien"
+					},
+					{
+						"fr": "A vetenarian ",
+						"al": " Un vétérinaire"
+					},
+					{
+						"fr": "A forensic doctor ",
+						"al": " Un médecin légiste"
+					},
+					{
+						"fr": "An engineer ",
+						"al": " Un ingénieur"
+					},
+					{
+						"fr": "A bank manager ",
+						"al": " Un directeur de banque"
+					},
+					{
+						"fr": "An economist ",
+						"al": " Un économiste"
+					},
+					{
+						"fr": "A trader ",
+						"al": " Une personne qui achète et vend des actions"
+					},
+					{
+						"fr": "A journalist ",
+						"al": " Un journalist"
+					},
+					{
+						"fr": "A lawyer / A solicitor / An attorney ",
+						"al": " Un avocat"
+					},
+					{
+						"fr": "A judge / A magistrate ",
+						"al": " Un juge"
+					}
+				]
+			},
+
+			{
+				"nom": " 5b - Jobs",
+				"words": [
+					{
+						"fr": "A prosecutor ",
+						"al": " Un procureur"
+					},
+					{
+						"fr": "A notary ",
+						"al": " Un notaire "
+					},
+					{
+						"fr": "A count bailiff ",
+						"al": " Un huissier"
+					},
+					{
+						"fr": "An architect (ch = k) ",
+						"al": " Un architecte"
+					},
+					{
+						"fr": "A home/space designer ",
+						"al": " Un décorateur d’intérieur"
+					},
+					{
+						"fr": "A real estate agent ",
+						"al": " Un agent immobilier"
+					},
+					{
+						"fr": "A psychologist ",
+						"al": " Un psychologue"
+					},
+					{
+						"fr": "A mental health consellor ",
+						"al": " Un conseiller en santé mentale"
+					},
+					{
+						"fr": "An educator ",
+						"al": " Un éducateur"
+					},
+					{
+						"fr": "An addiction therapist ",
+						"al": " Un thérapeute en toxicomanie"
+					},
+					{
+						"fr": "A computer scientist ",
+						"al": " Un informaticien "
+					},
+					{
+						"fr": "A software developer ",
+						"al": " Un développeur de logiciels"
+					},
+					{
+						"fr": "A web/game designer ",
+						"al": " Un web/game designer"
+					},
+					{
+						"fr": "A businessman/woman ",
+						"al": " Un homme/Une femme d’affaire"
+					},
+					{
+						"fr": "A CEO (Chief Executive Officer) ",
+						"al": " Un PDG (Président Directeur Général)"
+					},
+					{
+						"fr": "An entrepreneur ",
+						"al": " Un entrepreneur"
+					},
+					{
+						"fr": "A human resource manager ",
+						"al": " Un gestionnaire des ressources humaines"
+					},
+					{
+						"fr": "A salesman/ A saleswoman ",
+						"al": " Un vendeur / Une vendeuse"
+					},
+					{
+						"fr": "A financial advisor ",
+						"al": " Un conseiller financier"
+					},
+					{
+						"fr": "An accountant ",
+						"al": " Un comptable"
 					}
 				]
 			},
