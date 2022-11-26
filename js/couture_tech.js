@@ -127,6 +127,18 @@ couture_tech =
 			"nom": " Dessin technique",
 			"words": [
 				{
+					"fr": "A-A",
+					"al": "Titre de section"
+				},
+				{
+					"fr": "Le plan de découpe se fait  ",
+					"al": " toujours perpendiculaire à la découpe"
+				},
+				{
+					"fr": "Plans sécants ",
+					"al": "<img> planssecants"
+				},
+				{
 					"fr": "Le cadre ",
 					"al": " Délimite la zone du dessin"
 				},
