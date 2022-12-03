@@ -422,6 +422,32 @@ anglais =
 				]
 			},
 			{
+				"nom": " L18 - EE ER",
+				"words": [
+					{
+						"fr": "ER ",
+						"al": " Celui qui fait (Employer)"
+					},
+					{
+						"fr": "EE ",
+						"al": " Celui qui subit (Employee) "
+					}
+				]
+			},
+			{
+				"nom": " L19 - Substentivation",
+				"words": [
+					{
+						"fr": "A course that lasts two years ",
+						"al": " A two year course"
+					},
+					{
+						"fr": "Sujet + Verbe + Complement (Phrase normal) ",
+						"al": " A + Adj qualificatif (Complément) + Nom (Sujet) "
+					}
+				]
+			},
+			{
 				"nom": "0 - Introduction",
 				"words": [
 					{
@@ -1788,6 +1814,248 @@ anglais =
 					{
 						"fr": "An accountant ",
 						"al": " Un comptable"
+					}
+				]
+			},
+
+			{
+				"nom": " 6a - Work",
+				"words": [
+					{
+						"fr": "A manager / The company head / The chairman / Chief Executive Officer / Managing director ",
+						"al": " Patron / Directeur"
+					},
+					{
+						"fr": "(Tho have/To hold ) A job / A position / A post / An occupation / An employment ",
+						"al": " (Avoir) Un travail"
+					},
+					{
+						"fr": "To apply for a job ",
+						"al": " Postuler pour un travail"
+					},
+					{
+						"fr": "To apply to a company ",
+						"al": " Postuler à une entreprise"
+					},
+					{
+						"fr": "To hire / To taken on ",
+						"al": " Engager"
+					},
+					{
+						"fr": "To fire / To sack ",
+						"al": " Virer"
+					},
+					{
+						"fr": "To dismiss ",
+						"al": " Renvoyer"
+					},
+					{
+						"fr": "Jobless / Unemployed / On the dole ",
+						"al": " Chômage"
+					},
+					{
+						"fr": "An odd job ",
+						"al": " Petit boulot"
+					},
+					{
+						"fr": "A temp(orary) job ",
+						"al": " Un travail en intérim"
+					},
+					{
+						"fr": "Employer ",
+						"al": " Employeur"
+					},
+					{
+						"fr": "Job seeker ",
+						"al": " Chercheur d'emploi"
+					},
+					{
+						"fr": "Applicant ",
+						"al": " Candidat"
+					},
+					{
+						"fr": "Recruiter ",
+						"al": " Recruteur"
+					},
+					{
+						"fr": "Consultant ",
+						"al": " Conseiller"
+					},
+					{
+						"fr": "Career ",
+						"al": " Carrière"
+					},
+					{
+						"fr": "Notice ",
+						"al": " Préavis / Démission"
+					},
+					{
+						"fr": "A living ",
+						"al": " Dans la vie"
+					},
+					{
+						"fr": "Staff ",
+						"al": " Personnel"
+					},
+				]
+			},
+
+			{
+				"nom": " 6b - Work",
+				"words": [
+					{
+						"fr": "To hand smth ",
+						"al": " Remettre (en main propre)"
+					},
+					{
+						"fr": "Ouf of reach ",
+						"al": " Hors de portée"
+					},
+					{
+						"fr": "Reachable ",
+						"al": " Atteignable"
+					},
+					{
+						"fr": "A job ",
+						"al": " Un travail (professionnel)"
+					},
+					{
+						"fr": "A work ",
+						"al": " Un travail (scolaire)"
+					},
+					{
+						"fr": "For a living ",
+						"al": " Dans la vie"
+					},
+					{
+						"fr": "To look / To seek for a job ",
+						"al": " Chercher du travail"
+					},
+					{
+						"fr": "To earn a living ",
+						"al": " Gagner sa vie"
+					},
+					{
+						"fr": "To graduate ",
+						"al": " Terminer ses études / Etre diplomé de "
+					},
+					{
+						"fr": "Team spirit ",
+						"al": " Esprit d'équipe"
+					},
+					{
+						"fr": "Schedule / Time schedule / Timetable ",
+						"al": " Emploi du temps"
+					},
+					{
+						"fr": "To lead / To manage / To head ",
+						"al": " Diriger"
+					},
+					{
+						"fr": "Motivated / Dedicated / Devoded / Involved ",
+						"al": " Motivé"
+					},
+					{
+						"fr": "Motivation / Dedication / Devotion / Involvement ",
+						"al": " Motivation"
+					},
+					{
+						"fr": "Firm / Business / Company ",
+						"al": " Entreprise"
+					},
+					{
+						"fr": "Achieve / Reach a goal / an aim / A purpose ",
+						"al": " Atteindre un but"
+					},
+					{
+						"fr": "Training ",
+						"al": " Formation"
+					},
+					{
+						"fr": "Application ",
+						"al": " Candidature"
+					},
+					{
+						"fr": "Academic ",
+						"al": " Universitaire"
+					},
+				]
+			},
+
+			{
+				"nom": " 6c - Work",
+				"words": [
+					{
+						"fr": "Former ",
+						"al": " Ancien / ex"
+					},
+					{
+						"fr": "Compulsory / Mandatory ",
+						"al": " Obligatoire"
+					},
+					{
+						"fr": "To attend ",
+						"al": " Fréquenter"
+					},
+					{
+						"fr": "Demand ",
+						"al": " Exigeance"
+					},
+					{
+						"fr": "To demand ",
+						"al": " Exiger"
+					},
+					{
+						"fr": "To deal with ",
+						"al": " Etre en contact avec"
+					},
+					{
+						"fr": "Joindre ",
+						"al": " To enclore"
+					},
+					{
+						"fr": "Correspondre ",
+						"al": " To fit"
+					},
+					{
+						"fr": "To carry out ",
+						"al": " Mener / Accomplir"
+					},
+					{
+						"fr": "To commute ",
+						"al": " Prendre les transports en commun"
+					},
+					{
+						"fr": "To hold ",
+						"al": " Avoir / Tenir  / Détenir"
+					},
+					{
+						"fr": "A stay ",
+						"al": " Un séjour"
+					},
+					{
+						"fr": "An application letter / A cover letter ",
+						"al": " Une lettre de candidature"
+					},
+					{
+						"fr": "A trainee ",
+						"al": " Un stagiaire"
+					},
+					{
+						"fr": "A CV (GB) / A résumé (US) ",
+						"al": " CV"
+					},
+					{
+						"fr": "An income / The earning / A salary ",
+						"al": " Un salaire"
+					},
+					{
+						"fr": "A job interview ",
+						"al": " Un entretien d'embauche"
+					},
+					{
+						"fr": "A work placement / A work experience / An internship / A training period ",
+						"al": " Un stage"
 					}
 				]
 			},

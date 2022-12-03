@@ -875,7 +875,7 @@ anglais_tech =
                         "al": "<img> jupecrayon"
                     },
                     {
-                        "fr": "Jupe évasée / Flaired-skirt",
+                        "fr": "Jupe évasée / Flared-skirt",
                         "al": "<img> jupevasee"
                     },
                     {
@@ -1329,6 +1329,18 @@ anglais_tech =
                     {
                         "fr": "A pants ",
                         "al": " Une culotte"
+                    },
+                    {
+                        "fr": "The right side ",
+                        "al": " L’endroit"
+                    },
+                    {
+                        "fr": "The wrong side ",
+                        "al": " L’envers"
+                    },
+                    {
+                        "fr": "A slit ",
+                        "al": " Une fente"
                     }
                 ]
             },
@@ -1499,6 +1511,14 @@ anglais_tech =
                     {
                         "fr": "Navy ",
                         "al": " Marine"
+                    },
+                    {
+                        "fr": "Shades ",
+                        "al": " Nuances"
+                    },
+                    {
+                        "fr": "Hues ",
+                        "al": " Teintes"
                     }
                 ]
             },
