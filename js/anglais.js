@@ -2060,6 +2060,115 @@ anglais =
 				]
 			},
 			{
+				"nom": " 6d - Work",
+				"words": [
+					{
+						"fr": "To show-off / To boast ",
+						"al": " Vantard"
+					},
+					{
+						"fr": "Boastful ",
+						"al": " Qql qui se vante"
+					},
+					{
+						"fr": "It deals with / It tackles ",
+						"al": " Il traite de / Il s’attaque à"
+					},
+					{
+						"fr": "Setting ",
+						"al": " Cadre / Décor"
+					},
+					{
+						"fr": "An office ",
+						"al": " Un bureau (pièce)"
+					},
+					{
+						"fr": "Status ",
+						"al": " Statut"
+					},
+					{
+						"fr": "Desk ",
+						"al": " Bureau"
+					},
+					{
+						"fr": "Undergoing ",
+						"al": " Subir"
+					},
+					{
+						"fr": "At ease ",
+						"al": " À l’aise"
+					},
+					{
+						"fr": "Doubtful ",
+						"al": " Qql qui doute"
+					},
+					{
+						"fr": "Puzzled ",
+						"al": " Perplexe"
+					},
+					{
+						"fr": "Staring ",
+						"al": " Regardant fixement"
+					},
+					{
+						"fr": "Frowning ",
+						"al": " Qql qui fronce les sourcils"
+					},
+					{
+						"fr": "Misleading ",
+						"al": " Trompeur"
+					},
+					{
+						"fr": "Stand out ",
+						"al": " se démarquer"
+					},
+					{
+						"fr": "Overseas ",
+						"al": " International"
+					},
+					{
+						"fr": "In the field ",
+						"al": " Dans le domaine"
+					},
+					{
+						"fr": "To grow ",
+						"al": " Se développer"
+					},
+					{
+						"fr": "Enhance ",
+						"al": " Améliorer"
+					},
+					{
+						"fr": "Giving classes ",
+						"al": " Donner des cours"
+					},
+					{
+						"fr": "Cities ",
+						"al": " Villes"
+					},
+					{
+						"fr": "Countries ",
+						"al": " Pays"
+					},
+					{
+						"fr": "Highly regarded ",
+						"al": " Hautement estimé"
+					},
+					{
+						"fr": "Well regarded ",
+						"al": " Bien considéré"
+					},
+					{
+						"fr": "Further ",
+						"al": " Autre"
+					},
+					{
+						"fr": "A highly skilled person ",
+						"al": " Une personne très (/hautement) quanifiée"
+					}
+				]
+			},
+			{
 				"nom": " Facultatif 1 (Institution)",
 				"words": [
 					{

@@ -1114,8 +1114,8 @@ anglais_tech =
                 "nom": " Clothes 1",
                 "words": [
                     {
-                        "fr": "To carry / Carring ",
-                        "al": " Porter/Portant"
+                        "fr": "An earring ",
+                        "al": "Boucle d'oreille"
                     },
                     {
                         "fr": "Top ",
@@ -1328,7 +1328,7 @@ anglais_tech =
                     },
                     {
                         "fr": "A pants ",
-                        "al": " Une culotte"
+                        "al": "Slip d’homme"
                     },
                     {
                         "fr": "The right side ",
@@ -1341,6 +1341,10 @@ anglais_tech =
                     {
                         "fr": "A slit ",
                         "al": " Une fente"
+                    },
+                    {
+                        "fr": "Wellington boots ",
+                        "al": "Botte de pluit"
                     }
                 ]
             },
