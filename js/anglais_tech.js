@@ -2,19 +2,6 @@ anglais_tech =
     {
         "cat": [
             {
-                "nom": " Leçon",
-                "words": [
-                    {
-                        "fr": "How ",
-                        "al": " + Adj"
-                    },
-                    {
-                        "fr": "What ",
-                        "al": " + Nom"
-                    }
-                ]
-            } ,
-            {
                 "nom": "Human body",
                 "words": [
                     {
@@ -1501,12 +1488,12 @@ anglais_tech =
                         "al": " Terne"
                     },
                     {
-                        "fr": "Light / Pale ",
-                        "al": " Clair"
+                        "fr": "Pâle ",
+                        "al": " Pale"
                     },
                     {
-                        "fr": "Bright ",
-                        "al": " Brillant"
+                        "fr": "Bright / Flashy",
+                        "al": "Vif / Brillant / Flashy"
                     },
                     {
                         "fr": "Flashy ",
@@ -1557,6 +1544,110 @@ anglais_tech =
                     {
                         "fr": "Undress ",
                         "al": " Se déshabiller"
+                    },
+                    {
+                        "fr": "To fit ",
+                        "al": " Aller à qql (taille)"
+                    },
+                    {
+                        "fr": "To match ",
+                        "al": " Aller ensemble / Être assortie"
+                    },
+                    {
+                        "fr": "To suit ",
+                        "al": " Aller à qql (le look)"
+                    },
+                    {
+                        "fr": "Too big ",
+                        "al": " Large"
+                    },
+                    {
+                        "fr": "Too loose / It’s loose-fitting ",
+                        "al": " Ample"
+                    },
+                    {
+                        "fr": "Too tight / It’s tight-fitting ",
+                        "al": " Serré"
+                    }
+                ]
+            },
+            {
+                "nom": " Shapes",
+                "words": [
+                    {
+                        "fr": "Square (or square-shaped) ",
+                        "al": " Carré (de forme carré)"
+                    },
+                    {
+                        "fr": "Star (or star-shaped) ",
+                        "al": " Étoile (de forme étoile)"
+                    },
+                    {
+                        "fr": "Circle (or circle-shaped) ",
+                        "al": " Cercle (de forme d’un cercle)"
+                    },
+                    {
+                        "fr": "Semi-Circle (or semi-circle-shaped) ",
+                        "al": " Demi cercle (de forme d’un demi cercle)"
+                    },
+                    {
+                        "fr": "Heart (or heart-shaped) ",
+                        "al": " Coeur (de forme de coeur)"
+                    },
+                    {
+                        "fr": "A ball or spherical (shape) ",
+                        "al": " (De forme) rond ou sphérique"
+                    },
+                    {
+                        "fr": "A cubic (shape) ",
+                        "al": " (De forme) cubic"
+                    },
+                    {
+                        "fr": "Pointed shape ",
+                        "al": " (De forme) pointue"
+                    }
+                ]
+            },
+            {
+                "nom": " L1 - How / What",
+                "words": [
+                    {
+                        "fr": "How ",
+                        "al": " + Adj"
+                    },
+                    {
+                        "fr": "What ",
+                        "al": " + Nom"
+                    }
+                ]
+            } ,
+            {
+                "nom": " L2 - Ish",
+                "words": [
+                    {
+                        "fr": "-ish ",
+                        "al": " -âtre"
+                    },
+                    {
+                        "fr": "Whitish ",
+                        "al": " Blanchâtre"
+                    },
+                    {
+                        "fr": "Greyish ",
+                        "al": " Grisâtre "
+                    }
+                ]
+            },
+            {
+                "nom": " L3 - Ordre des mots",
+                "words": [
+                    {
+                        "fr": "O - S - CP - O - M - U - N ",
+                        "al": " Opinion - Size - Colors Patterns - Origins - Material - Use - Noun "
+                    },
+                    {
+                        "fr": "Exemple ",
+                        "al": " Traditional long blue Scottish denim ? jacket"
                     }
                 ]
             }

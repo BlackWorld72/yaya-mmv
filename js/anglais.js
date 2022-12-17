@@ -1721,6 +1721,297 @@ anglais =
 						"al": " Une personne très (/hautement) quanifiée"
 					}
 				]
+			},
+			{
+				"nom": "7a - CV",
+				"words": [
+					{
+						"fr": "Disguising ",
+						"al": " Déguiser"
+					},
+					{
+						"fr": "A spell in prision ",
+						"al": " Un séjour en prison"
+					},
+					{
+						"fr": "Hitch-hiking ",
+						"al": " Randonné"
+					},
+					{
+						"fr": "Spoil ",
+						"al": " Gacher"
+					},
+					{
+						"fr": "Inflate ",
+						"al": " Gonfler"
+					},
+					{
+						"fr": "Claim ",
+						"al": " Prétendre / Réclamation"
+					},
+					{
+						"fr": "Short-sighted ",
+						"al": " Myope / A court terme"
+					},
+					{
+						"fr": "Wages ",
+						"al": " Salaire"
+					},
+					{
+						"fr": "Feet up ",
+						"al": " Mettre les pieds dans le plat"
+					},
+					{
+						"fr": "Telly ",
+						"al": " Télé"
+					},
+					{
+						"fr": "Accuracy ",
+						"al": " Exactitude"
+					},
+					{
+						"fr": "Survey ",
+						"al": " Etude"
+					},
+					{
+						"fr": "Academic ",
+						"al": " Universitaire"
+					},
+					{
+						"fr": "Achieve ",
+						"al": " Réussir"
+					},
+					{
+						"fr": "A couple of ",
+						"al": " Quelques"
+					},
+					{
+						"fr": "To stand out ",
+						"al": " Se démarquer"
+					},
+					{
+						"fr": "To multiply ",
+						"al": " Multiplier"
+					},
+					{
+						"fr": "To divide ",
+						"al": " Diviser"
+					},
+					{
+						"fr": "To dubstract ",
+						"al": " Soustraire"
+					},
+					{
+						"fr": "To add ",
+						"al": " Additionner"
+					},
+					{
+						"fr": "Percentage ",
+						"al": " Pourcentage (Percent)"
+					},
+					{
+						"fr": "To be face with ",
+						"al": " Etre confronté à"
+					},
+					{
+						"fr": "Falsehoods ",
+						"al": " Mensonges"
+					},
+				]
+			},
+			{
+				"nom": "7b - CV",
+				"words": [
+					{
+						"fr": "To state ",
+						"al": " Déclarer"
+					},
+					{
+						"fr": "Fully aware ",
+						"al": " Pleinement conscient"
+					},
+					{
+						"fr": "Can't be held liable for ",
+						"al": " Ne pas être tenu responsable de (justice)"
+					},
+					{
+						"fr": "Empty ",
+						"al": " Vide"
+					},
+					{
+						"fr": "Spell of time ",
+						"al": " Période de temps"
+					},
+					{
+						"fr": "To jeopardize (To put at risk) ",
+						"al": " Mettre en danger, en péril"
+					},
+					{
+						"fr": "Would-be employer ",
+						"al": " Potentiel employé"
+					},
+					{
+						"fr": "Senseless ",
+						"al": " Incensé"
+					},
+					{
+						"fr": "Couch potatoes ",
+						"al": " Glandouiller (expression)"
+					},
+					{
+						"fr": "To steers ",
+						"al": " Diriger"
+					},
+					{
+						"fr": "Relevant ",
+						"al": " Pertinent"
+					},
+					{
+						"fr": "Odd jobs ",
+						"al": " Petit boulot"
+					},
+					{
+						"fr": "Extra-curricular ",
+						"al": " Extra scolaire"
+					},
+					{
+						"fr": "Enclose ",
+						"al": " Joindre"
+					},
+					{
+						"fr": "Snap ",
+						"al": " Un cliché / Une photo"
+					},
+					{
+						"fr": "Highlight ",
+						"al": " Mettre en évidence"
+					},
+					{
+						"fr": "To attend ",
+						"al": " Fréquenter"
+					},
+					{
+						"fr": "Former ",
+						"al": " Ancien"
+					},
+					{
+						"fr": "Punchy ",
+						"al": " Combatif"
+					},
+					{
+						"fr": "To the point ",
+						"al": " Au point"
+					},
+					{
+						"fr": "Targeted ",
+						"al": " Ciblé"
+					},
+					{
+						"fr": "Skills-based ",
+						"al": " Basé sur les compétence"
+					},
+				]
+			},
+			{
+				"nom": "7c - CV",
+				"words": [
+					{
+						"fr": "Outgoing ",
+						"al": " Sociable"
+					},
+					{
+						"fr": "Messy ",
+						"al": " Désordonné"
+					},
+					{
+						"fr": "Consistent ",
+						"al": " Cohérent"
+					},
+					{
+						"fr": "Inconsistent ",
+						"al": " Incohérent"
+					},
+					{
+						"fr": "Businesslike ",
+						"al": " Professionnel"
+					},
+					{
+						"fr": "Cramped ",
+						"al": " Chargé"
+					},
+					{
+						"fr": "Crowded ",
+						"al": " Encombré"
+					},
+					{
+						"fr": "Well-laid-out ",
+						"al": " Bien aménagée"
+					},
+					{
+						"fr": "Plain ",
+						"al": " Simple"
+					},
+					{
+						"fr": "Accurate ",
+						"al": " Précis"
+					},
+					{
+						"fr": "Concise ",
+						"al": " Concis (s'exprimer en peu de mot)"
+					},
+					{
+						"fr": "Software ",
+						"al": " Logiciel"
+					},
+					{
+						"fr": "Barwork ",
+						"al": " Au bar"
+					},
+					{
+						"fr": "Cashing up ",
+						"al": " Encaisser"
+					},
+					{
+						"fr": "A wide veriety ",
+						"al": " Une grande variété"
+					},
+					{
+						"fr": "Booking ",
+						"al": " Réservation"
+					},
+					{
+						"fr": "Accounts Clerk ",
+						"al": " Commis comptable"
+					},
+					{
+						"fr": "Enquiries ",
+						"al": " Demandes"
+					},
+					{
+						"fr": "Fundraised ",
+						"al": " Collecte de fonds"
+					},
+					{
+						"fr": "Engangered ",
+						"al": " En voie de disparition"
+					},
+					{
+						"fr": "Eye-Catching ",
+						"al": " Accrocheur"
+					},
+					{
+						"fr": "Taught ",
+						"al": " Enseigné à"
+					},
+					{
+						"fr": "Current ",
+						"al": " Actuel"
+					},
+					{
+						"fr": "Upon request ",
+						"al": " Sur demande"
+					}
+				]
 			}
 		]
 	}
