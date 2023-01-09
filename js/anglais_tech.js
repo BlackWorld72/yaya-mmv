@@ -1053,6 +1053,38 @@ anglais_tech =
                     {
                         "fr": "Synthetic ",
                         "al": " Synthétique"
+                    },
+                    {
+                        "fr": "A Taffeta ",
+                        "al": " Taffetas (Une matière brillante avec 2 couleurs)"
+                    },
+                    {
+                        "fr": "A thread ",
+                        "al": " Un fil (qu'on coud)"
+                    },
+                    {
+                        "fr": "A yarm ",
+                        "al": " Un fil (pour fabriquer tissu)"
+                    },
+                    {
+                        "fr": "The weft yarm ",
+                        "al": " Fil de tram"
+                    },
+                    {
+                        "fr": "The selvedge ",
+                        "al": " Lisière"
+                    },
+                    {
+                        "fr": "The warp yarm ",
+                        "al": " Fil de chaine"
+                    },
+                    {
+                        "fr": "The bias ",
+                        "al": " Le biais"
+                    },
+                    {
+                        "fr": "The width ",
+                        "al": " Largeur / Laize"
                     }
                 ]
             },
@@ -1332,6 +1364,294 @@ anglais_tech =
                     {
                         "fr": "Wellington boots ",
                         "al": "Botte de pluit"
+                    }
+                ]
+            },
+
+            {
+                "nom": " Clothes 3",
+                "words": [
+                    {
+                        "fr": "A dinner jacket / A tuxedo ",
+                        "al": " Un smoking"
+                    },
+                    {
+                        "fr": "Tail coat ",
+                        "al": " Queue de pie"
+                    },
+                    {
+                        "fr": "Evening-dress ",
+                        "al": " Tenue de soirée"
+                    },
+                    {
+                        "fr": "A vest / waistcoat ",
+                        "al": " Un gilet (de costume 3 pièces)"
+                    },
+                    {
+                        "fr": "A safari jacket ",
+                        "al": " Une saharienne"
+                    },
+                    {
+                        "fr": "A tank top ",
+                        "al": " Pull sans manche, débardeur"
+                    },
+                    {
+                        "fr": "A polo neck ",
+                        "al": " un col roulé"
+                    },
+                    {
+                        "fr": "Slacks ",
+                        "al": " Un pantalon décontracté"
+                    },
+                    {
+                        "fr": "Knickers / plus-fours ",
+                        "al": " Pantalon de golf/knicker"
+                    },
+                    {
+                        "fr": "Jodhpurs ",
+                        "al": " Culotte de cavalier"
+                    },
+                    {
+                        "fr": "Chinos ",
+                        "al": " Pantalon kaki"
+                    },
+                    {
+                        "fr": "Tapered pants/Ski pants ",
+                        "al": " Fuseaux"
+                    },
+                    {
+                        "fr": "Tracksuit ",
+                        "al": " Survêtement"
+                    },
+                    {
+                        "fr": "Plimsoll ",
+                        "al": " Tennis"
+                    },
+                    {
+                        "fr": "A swimming trunk / Bathing suit ",
+                        "al": " Un slip de bain"
+                    },
+                    {
+                        "fr": "A bodice ",
+                        "al": " Un corsage "
+                    },
+                    {
+                        "fr": "A lounge coat / House coat ",
+                        "al": " Robe d'intérieur "
+                    },
+                    {
+                        "fr": "Home wear / At home wear ",
+                        "al": " Vêtements d'intérieur"
+                    },
+                    {
+                        "fr": "A leotard / Body suit ",
+                        "al": " Un justaucorps"
+                    },
+                    {
+                        "fr": "A dressing gown ",
+                        "al": " Une robe de chambre"
+                    },
+                    {
+                        "fr": "A night shirt ",
+                        "al": " Une chemise de nuit"
+                    },
+                    {
+                        "fr": "A tube top ",
+                        "al": " Un bustier"
+                    },
+                    {
+                        "fr": "A cropped top ",
+                        "al": " Une brassière femme / haut court"
+                    },
+                    {
+                        "fr": "A halter top ",
+                        "al": " Dos nu / Un haut sans manche"
+                    },
+                    {
+                        "fr": "A bolero ",
+                        "al": " Un boléro"
+                    }
+                ]
+            },
+            {
+                "nom": " Clothes 4",
+                "words": [
+                    {
+                        "fr": "A bathing robe ",
+                        "al": " Un peignoir"
+                    },
+                    {
+                        "fr": "A sarong ",
+                        "al": " Un paréo"
+                    },
+                    {
+                        "fr": "Overalls/Dungarees ",
+                        "al": " Salopette"
+                    },
+                    {
+                        "fr": "Undershirt ",
+                        "al": " Maillot de corps "
+                    },
+                    {
+                        "fr": "Briefs ",
+                        "al": " Un slip (kangourou)"
+                    },
+                    {
+                        "fr": "Trunks ",
+                        "al": " Un caleçon"
+                    },
+                    {
+                        "fr": "Long johns ",
+                        "al": " Caleçon long"
+                    },
+                    {
+                        "fr": "Hosiery ",
+                        "al": " Bonneterie"
+                    },
+                    {
+                        "fr": "A strapless bra ",
+                        "al": " Un bustier (soutien-gorge)"
+                    },
+                    {
+                        "fr": "Half-cup bra ",
+                        "al": " Soutien gorge à balconnet / corbeille"
+                    },
+                    {
+                        "fr": "Uplift ",
+                        "al": " Pigeonnant"
+                    },
+                    {
+                        "fr": "Underwired bra ",
+                        "al": " Soutien-gorge à armatures"
+                    },
+                    {
+                        "fr": "A petticoat / A half slip ",
+                        "al": " Un jupon"
+                    },
+                    {
+                        "fr": "Thongs ",
+                        "al": " String ficelle"
+                    },
+                    {
+                        "fr": "Tongs ",
+                        "al": " Sandales"
+                    },
+                    {
+                        "fr": "G-string ",
+                        "al": " String"
+                    },
+                    {
+                        "fr": "A slip ",
+                        "al": " Combinaison de dame, jupon"
+                    },
+                    {
+                        "fr": "Suspenders/Garter ",
+                        "al": " Jaretelles jarretière"
+                    },
+                    {
+                        "fr": "Stockings ",
+                        "al": " Bas"
+                    },
+                    {
+                        "fr": "A topcoat ",
+                        "al": " Un pardessus/Parelot"
+                    },
+                    {
+                        "fr": "A leather jacket ",
+                        "al": " Un blouson en cuur"
+                    },
+                    {
+                        "fr": "A reefer / Pea jacket ",
+                        "al": " Un caban"
+                    },
+                    {
+                        "fr": "A shawl ",
+                        "al": " Un châle"
+                    },
+                    {
+                        "fr": "A cape/cloak ",
+                        "al": " Une cape"
+                    },
+                    {
+                        "fr": "Hodded cape ",
+                        "al": " Pelerine"
+                    }
+                ]
+            },
+            {
+                "nom": " Clothes 5",
+                "words": [
+                    {
+                        "fr": "A mask / baclava ",
+                        "al": " Une cagoule"
+                    },
+                    {
+                        "fr": "A stole ",
+                        "al": " Une étole"
+                    },
+                    {
+                        "fr": "A peaked cap ",
+                        "al": " Un képi"
+                    },
+                    {
+                        "fr": "A bathing cap ",
+                        "al": " Un bonnet de bain"
+                    },
+                    {
+                        "fr": "A riding cap ",
+                        "al": " Une bombe (cheval)"
+                    },
+                    {
+                        "fr": "A wooly hat ",
+                        "al": " Un bonnet de laine"
+                    },
+                    {
+                        "fr": "A helmet ",
+                        "al": " Un casque"
+                    },
+                    {
+                        "fr": "Rompers ",
+                        "al": " Une baarboteuse"
+                    },
+                    {
+                        "fr": "Bibbed apron ",
+                        "al": " Tablier d'enfant"
+                    },
+                    {
+                        "fr": "Baby's vest / Undershirt ",
+                        "al": " Brassière (de bébé)"
+                    },
+                    {
+                        "fr": "Ready to wear ",
+                        "al": " Prêt à porter"
+                    },
+                    {
+                        "fr": "Bespoke ",
+                        "al": " Sur mesure"
+                    },
+                    {
+                        "fr": "Strap ",
+                        "al": " Lanière (sac)"
+                    },
+                    {
+                        "fr": "Flap ",
+                        "al": " Rabat (sac)"
+                    },
+                    {
+                        "fr": "Waistband ",
+                        "al": " Ceinture"
+                    },
+                    {
+                        "fr": "Crown ",
+                        "al": " Calotte (Haut du chapeau)"
+                    },
+                    {
+                        "fr": "Brim ",
+                        "al": " Bord (d'un chapeau)"
+                    },
+                    {
+                        "fr": "Cuff ",
+                        "al": " Manchette"
                     }
                 ]
             },
