@@ -446,6 +446,24 @@ anglais =
 						"al": " A + Adj qualificatif (Complément) + Nom (Sujet) "
 					}
 				]
+			},
+
+			{
+				"nom": " L20 - At To Of ",
+				"words": [
+					{
+						"fr": "At ",
+						"al": " Vb ing (degré d'excellence)"
+					},
+					{
+						"fr": "To ",
+						"al": " Vb BV"
+					},
+					{
+						"fr": "Of ",
+						"al": " Vb ing"
+					}
+				]
 			}
 		]
 	}

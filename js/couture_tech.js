@@ -393,6 +393,31 @@ couture_tech =
 			]
 		},
 		{
+			"nom": "Coût de revient",
+			"words": [
+				{
+					"fr": "",
+					"al": "<img> IMG_2781"
+				},
+				{
+					"fr": "",
+					"al": "<img> IMG_2794"
+				},
+				{
+					"fr": "",
+					"al": "<img> IMG_2796"
+				},
+				{
+					"fr": "",
+					"al": "<img> IMG_2798"
+				},
+				{
+					"fr": "",
+					"al": "<img> IMG_2799"
+				}
+			]
+		},
+		{
 			"nom": "Cols 1",
 			"words": [
 				{

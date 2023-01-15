@@ -2012,6 +2012,130 @@ anglais =
 						"al": " Sur demande"
 					}
 				]
+			},
+
+			{
+				"nom": " 7d - CV",
+				"words": [
+					{
+						"fr": "Hence ",
+						"al": " D'ou"
+					},
+					{
+						"fr": "Assets ",
+						"al": " Atoux"
+					},
+					{
+						"fr": "Wirdowed ",
+						"al": " Veuve.f"
+					},
+					{
+						"fr": "Student representative ",
+						"al": " Délégué"
+					},
+					{
+						"fr": "Volunteer ",
+						"al": " Bénévol"
+					},
+					{
+						"fr": "Relevant ",
+						"al": " Pertinant"
+					},
+					{
+						"fr": "Accurate ",
+						"al": " Précs"
+					},
+					{
+						"fr": "Spelling ",
+						"al": " Orthographe"
+					},
+					{
+						"fr": "The sweet spot ",
+						"al": " Le point fort"
+					},
+					{
+						"fr": "Bold ",
+						"al": " Gras"
+					},
+					{
+						"fr": "Typefaces ",
+						"al": " Typographie"
+					},
+					{
+						"fr": "Headings ",
+						"al": " Entête"
+					},
+					{
+						"fr": "Stick ",
+						"al": " Focaliser"
+					},
+					{
+						"fr": "Sizes ",
+						"al": " Police (ordi texte)"
+					}
+				]
+			},
+
+			{
+				"nom": " 7e - CV",
+				"words": [
+					{
+						"fr": "Substantial ",
+						"al": " Bonne qualité"
+					},
+					{
+						"fr": "To fold ",
+						"al": " Plier"
+					},
+					{
+						"fr": "Creased ",
+						"al": " Froissé"
+					},
+					{
+						"fr": "Sensible ",
+						"al": " Censé"
+					},
+					{
+						"fr": "Ahead ",
+						"al": " A l'avance"
+					},
+					{
+						"fr": "To cope ",
+						"al": " Surmonter / Faire face à"
+					},
+					{
+						"fr": "Reliable ",
+						"al": " Fiable"
+					},
+					{
+						"fr": "To mind up ",
+						"al": " Se décider"
+					},
+					{
+						"fr": "Proficiency ",
+						"al": " La maîtrise"
+					},
+					{
+						"fr": "Be provided ",
+						"al": " Etre fourni"
+					},
+					{
+						"fr": "Training ",
+						"al": " Formation"
+					},
+					{
+						"fr": "Proficient ",
+						"al": " Compétent"
+					},
+					{
+						"fr": "An excellent command of ",
+						"al": " Maîtrise de "
+					},
+					{
+						"fr": "A goos working knowledge of ",
+						"al": " Connaissance pratique de"
+					}
+				]
 			}
 		]
 	}
