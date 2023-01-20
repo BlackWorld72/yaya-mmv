@@ -449,20 +449,16 @@ anglais =
 			},
 
 			{
-				"nom": " L20 - At To Of ",
+				"nom": " L20 - Préposition ",
 				"words": [
 					{
-						"fr": "At ",
-						"al": " Vb ing (degré d'excellence)"
+						"fr": "Vb ing ",
+						"al": "At (degré d’excellence), of, be used to, on, to agree with, to cope with"
 					},
 					{
-						"fr": "To ",
-						"al": " Vb BV"
+						"fr": "Vb BV ",
+						"al": "To, used to "
 					},
-					{
-						"fr": "Of ",
-						"al": " Vb ing"
-					}
 				]
 			}
 		]
