@@ -1015,7 +1015,7 @@ anglais_tech =
                         "al": " Velours"
                     },
                     {
-                        "fr": "Corduray ",
+                        "fr": "Corduroy ",
                         "al": " Velours côtelé"
                     },
                     {
@@ -1085,6 +1085,26 @@ anglais_tech =
                     {
                         "fr": "The width ",
                         "al": " Largeur / Laize"
+                    },
+                    {
+                        "fr": "A row ",
+                        "al": " Une rangé"
+                    },
+                    {
+                        "fr": "A column ",
+                        "al": " Une colonne"
+                    },
+                    {
+                        "fr": "A (k)nit ",
+                        "al": " Une maille"
+                    },
+                    {
+                        "fr": "Rubber ",
+                        "al": " Caoutchouc"
+                    },
+                    {
+                        "fr": "Suede ",
+                        "al": " Daim"
                     }
                 ]
             },
@@ -1101,7 +1121,11 @@ anglais_tech =
                     },
                     {
                         "fr": "Trendy ",
-                        "al": " À la mode"
+                        "al": " Tendance (d'ajd)"
+                    },
+                    {
+                        "fr": "Fashionable ",
+                        "al": "Tendance (en general)"
                     },
                     {
                         "fr": "Loose ",
@@ -1126,7 +1150,7 @@ anglais_tech =
                     {
                         "fr": "Scruffy ",
                         "al": " Négligé / Peu soigné"
-                    }
+                    },
                 ]
             },
             {
@@ -1221,8 +1245,12 @@ anglais_tech =
                         "al": " Jeans"
                     },
                     {
-                        "fr": "Trainers / Sneakers ",
-                        "al": " Baskets"
+                        "fr": "Trainers ",
+                        "al": " Baskets (au quotidien)"
+                    },
+                    {
+                        "fr": "Sneackers ",
+                        "al": " Baskets (sport)"
                     },
                     {
                         "fr": "Socks ",
@@ -1652,6 +1680,38 @@ anglais_tech =
                     {
                         "fr": "Cuff ",
                         "al": " Manchette"
+                    },
+                    {
+                        "fr": "Turteneck ",
+                        "al": " Col roulé"
+                    },
+                    {
+                        "fr": "A choker ",
+                        "al": " Un collier ras le cou"
+                    },
+                    {
+                        "fr": "A handkerchief ",
+                        "al": " Mouchoir en tissus"
+                    },
+                    {
+                        "fr": "Dressing grown ",
+                        "al": " Robe de chambre"
+                    },
+                    {
+                        "fr": "Stiletto heels ",
+                        "al": " Talon aiguille"
+                    },
+                    {
+                        "fr": "Hairband ",
+                        "al": " Bandeau cheveux"
+                    },
+                    {
+                        "fr": "Purse ",
+                        "al": " Sac à main"
+                    },
+                    {
+                        "fr": "Chain ",
+                        "al": " Chaîne"
                     }
                 ]
             },
@@ -1888,6 +1948,18 @@ anglais_tech =
                     {
                         "fr": "Too tight / It’s tight-fitting ",
                         "al": " Serré"
+                    },
+                    {
+                        "fr": "To enhance ",
+                        "al": " Pour compléter"
+                    },
+                    {
+                        "fr": "Knitter ",
+                        "al": " Tricoteuse"
+                    },
+                    {
+                        "fr": "Seamstress ",
+                        "al": " Couturière"
                     }
                 ]
             },

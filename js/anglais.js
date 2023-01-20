@@ -2136,6 +2136,79 @@ anglais =
 						"al": " Connaissance pratique de"
 					}
 				]
+			},
+			{
+				"nom": " 8a - Cover letter",
+				"words": [
+					{
+						"fr": "Rely (V) / Reliability (N) / Reliable (A) ",
+						"al": " Fiable"
+					},
+					{
+						"fr": "Simple past ",
+						"al": " Prétérit"
+					},
+					{
+						"fr": "To withdraw ",
+						"al": " Retirer"
+					},
+					{
+						"fr": "To found ",
+						"al": " Créer"
+					},
+					{
+						"fr": "Ago ",
+						"al": " Il y a (temporelle)"
+					},
+					{
+						"fr": "To owe ",
+						"al": " Devoir (V)"
+					},
+					{
+						"fr": "To sack ",
+						"al": " Virer"
+					},
+					{
+						"fr": "The race ",
+						"al": " La course"
+					},
+					{
+						"fr": "Burglars ",
+						"al": " Cambrioleurs"
+					},
+					{
+						"fr": "Thief ",
+						"al": " Voleur"
+					},
+					{
+						"fr": "To award ",
+						"al": " Attribuer"
+					},
+					{
+						"fr": "To complete ",
+						"al": " Achever/Terminer"
+					},
+					{
+						"fr": "To hold ",
+						"al": " Tenir"
+					},
+					{
+						"fr": "To deal ",
+						"al": " Traiter"
+					},
+					{
+						"fr": "Trade ",
+						"al": " Commerce"
+					},
+					{
+						"fr": "Embroidery ",
+						"al": " Broderie"
+					},
+					{
+						"fr": "Supplier ",
+						"al": " Fournisseur"
+					}
+				]
 			}
 		]
 	}

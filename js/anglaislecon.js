@@ -447,7 +447,6 @@ anglais =
 					}
 				]
 			},
-
 			{
 				"nom": " L20 - Préposition ",
 				"words": [
@@ -459,6 +458,49 @@ anglais =
 						"fr": "Vb BV ",
 						"al": "To, used to "
 					},
+				]
+			},
+			{
+				"nom": " L21 Degré d excellence ",
+				"words": [
+					{
+						"fr": "Language ",
+						"al": " Native user -> bilingual -> proficient -> intermediate -> good working -> technical knowledge -> beginner"
+					},
+					{
+						"fr": "Basique ",
+						"al": " Proficient in -> (good) command of -> working knowledge of"
+					}
+				]
+			},
+			{
+				"nom": " L22 Négations",
+				"words": [
+					{
+						"fr": "Normal ",
+						"al": " Dis, In, Un"
+					},
+					{
+						"fr": "Particuliers ",
+						"al": " Ir + r / Il + l / non + nom"
+					}
+				]
+			},
+			{
+				"nom": " L23 Modes verbes",
+				"words": [
+					{
+						"fr": "Mode progressif ",
+						"al": " Be + Ving"
+					},
+					{
+						"fr": "Futur progressif ",
+						"al": " Will + Bv / Will be + Vbing"
+					},
+					{
+						"fr": "Conditionnel progressif ",
+						"al": " Would + Bv / Would be + Vbing"
+					}
 				]
 			}
 		]
