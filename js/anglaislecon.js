@@ -32,20 +32,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L3 - Since et for",
-				"words": [
-					{
-						"fr": "Since ",
-						"al": " Date / Moments précis du passé (toujours au passé)"
-					},
-					{
-						"fr": "For ",
-						"al": " Durée (peut être au passé et au futur)"
-					}
-				]
-			},
-			{
-				"nom": " L4 - Prononciation ed ",
+				"nom": " L3 - Prononciation ed ",
 				"words": [
 					{
 						"fr": "Ce qui finit par k, s, ch, sh, the, p, gh ",
@@ -62,7 +49,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L5 - Dérivation",
+				"nom": " L4 - Dérivation",
 				"words": [
 					{
 						"fr": "Forme en ed ",
@@ -83,7 +70,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L6 - Look, watch, see",
+				"nom": " L5 - Look, watch, see",
 				"words": [
 					{
 						"fr": "See ",
@@ -100,7 +87,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L7 - Comparison et Description ",
+				"nom": " L6 - Comparison et Description ",
 				"words": [
 					{
 						"fr": "Comparaison ",
@@ -113,7 +100,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L8 - Adjectives ed-ing",
+				"nom": " L7 - Adjectives ed-ing",
 				"words": [
 					{
 						"fr": "Ing ",
@@ -126,7 +113,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L9 - Locations ",
+				"nom": " L8 - Locations ",
 				"words": [
 					{
 						"fr": "Towards ",
@@ -156,7 +143,7 @@ anglais =
 			},
 
 			{
-				"nom": " L10 - Probability",
+				"nom": " L9 - Probability",
 				"words": [
 					{
 						"fr": "Mod + BV ",
@@ -194,7 +181,7 @@ anglais =
 			},
 
 			{
-				"nom": " L11 - Habits",
+				"nom": " L10 - Habits",
 				"words": [
 					{
 						"fr": "Passé révolu",
@@ -216,7 +203,7 @@ anglais =
 			},
 
 			{
-				"nom": " L12 - Dénombrable/Indénombrables",
+				"nom": " L11 - Dénombrable/Indénombrables",
 				"words": [
 					{
 						"fr": "Noms dénombrables règles ",
@@ -242,7 +229,7 @@ anglais =
 			},
 
 			{
-				"nom": " L13 - Notion/Abstrait",
+				"nom": " L12 - Notion/Abstrait",
 				"words": [
 					{
 						"fr": "+hood ",
@@ -256,7 +243,7 @@ anglais =
 			},
 
 			{
-				"nom": " L14 - Pronoms",
+				"nom": " L13 - Pronoms",
 				"words": [
 					{
 						"fr": "Pronoms personnels sujets ",
@@ -285,7 +272,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L15 - Quantifieurs",
+				"nom": " L14 - Quantifieurs",
 				"words": [
 					{
 						"fr": "Basic positif ",
@@ -339,7 +326,7 @@ anglais =
 			},
 
 			{
-				"nom": " L16 - Le but",
+				"nom": " L15 - Le but",
 				"words": [
 					{
 						"fr": "To + BV ",
@@ -361,7 +348,7 @@ anglais =
 			},
 
 			{
-				"nom": " L17 - Diplômes",
+				"nom": " L16 - Diplômes",
 				"words": [
 					{
 						"fr": "Baccalauréat professionnel ",
@@ -422,7 +409,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L18 - EE ER",
+				"nom": " L17 - EE ER",
 				"words": [
 					{
 						"fr": "ER ",
@@ -435,7 +422,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L19 - Substentivation",
+				"nom": " L18 - Substentivation",
 				"words": [
 					{
 						"fr": "A course that lasts two years ",
@@ -448,7 +435,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L20 - Préposition ",
+				"nom": " L19 - Préposition ",
 				"words": [
 					{
 						"fr": "Vb ing ",
@@ -461,7 +448,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L21 Degré d excellence ",
+				"nom": " L20 Degré d excellence ",
 				"words": [
 					{
 						"fr": "Language ",
@@ -474,7 +461,7 @@ anglais =
 				]
 			},
 			{
-				"nom": " L22 Négations",
+				"nom": " L21 Négations",
 				"words": [
 					{
 						"fr": "Normal ",
@@ -487,19 +474,135 @@ anglais =
 				]
 			},
 			{
-				"nom": " L23 Modes verbes",
+				"nom": " L22 The simple past",
 				"words": [
 					{
-						"fr": "Mode progressif ",
-						"al": " Be + Ving"
+						"fr": "Remplace en français  ",
+						"al": " Le passé simple, le passé composé, et l’imparfait "
 					},
 					{
-						"fr": "Futur progressif ",
-						"al": " Will + Bv / Will be + Vbing"
+						"fr": "Représente ",
+						"al": " Une action fini dans le passé "
 					},
 					{
-						"fr": "Conditionnel progressif ",
-						"al": " Would + Bv / Would be + Vbing"
+						"fr": "Auxiliaire ",
+						"al": " Do"
+					},
+					{
+						"fr": "Forme interrogative ",
+						"al": " did + s + bv"
+					},
+					{
+						"fr": "Forme negative ",
+						"al": " s + did + not + bv"
+					},
+					{
+						"fr": "Forme affirmative ",
+						"al": " s + Vb (ed régulier OU deuxième colonne)"
+					},
+					{
+						"fr": "Be ",
+						"al": " aussi auxiliaire "
+					},
+					{
+						"fr": "Ago ",
+						"al": " « il y a » (pour temporelle) toujours à la fin"
+					},
+					{
+						"fr": "For ",
+						"al": " + Sp = Pendant"
+					}
+				]
+			},
+
+			{
+				"nom": " L23 The continuous past",
+				"words": [
+					{
+						"fr": "Représente ",
+						"al": " Une action en cours dans le passé"
+					},
+					{
+						"fr": "Construction ",
+						"al": " Be au preterit (was/were) + Vb ing"
+					},
+					{
+						"fr": "Exemple ",
+						"al": " The children were dancing when their parents came back"
+					}
+				]
+			},
+
+			{
+				"nom": " L24 Futur prog",
+				"words": [
+					{
+						"fr": "Construction ",
+						"al": " Will + BV  ET Will be + Vb ing"
+					}
+				]
+			},
+
+			{
+				"nom": " L25 Conditionnel prog",
+				"words": [
+					{
+						"fr": "Construction ",
+						"al": " Would + bv ET Would be + Vb ing"
+					}
+				]
+			},
+			{
+				"nom": " L26 The present perfect ",
+				"words": [
+					{
+						"fr": "Représente ",
+						"al": "Action passé ayant des conséquences sur le présent ET/OU Action passée qui continue dans le présent"
+					},
+					{
+						"fr": "Construction ",
+						"al": " Have/Has (aux) + Vb participe passé (3ème colonne ou -ed)"
+					},
+					{
+						"fr": "Affirmative ",
+						"al": " S + Have + Pp + reste"
+					},
+					{
+						"fr": "Negative ",
+						"al": " S + Have + Not + Pp + reste"
+					},
+					{
+						"fr": "Interrogative ",
+						"al": " Have + S + Pp + reste"
+					},
+					{
+						"fr": "For ",
+						"al": " + Pp = depuis (durée) "
+					},
+					{
+						"fr": "Since ",
+						"al": " + Pp = depuis (date précise, point de départ)"
+					}
+				]
+			},
+			{
+				"nom": " L27 : Prépositions",
+				"words": [
+					{
+						"fr": "In ",
+						"al": " Date (année et mois) + lieu + matière"
+					},
+					{
+						"fr": "With ",
+						"al": " Diplôme"
+					},
+					{
+						"fr": "From ",
+						"al": " Un lieu d’origine (j’ai eu mon diplôme from…)"
+					},
+					{
+						"fr": "At ",
+						"al": " Lieu"
 					}
 				]
 			}

@@ -2209,6 +2209,107 @@ anglais =
 						"al": " Fournisseur"
 					}
 				]
+			},
+			{
+				"nom": " 8b - Cover letter",
+				"words": [
+					{
+						"fr": "The waiter ",
+						"al": " Le serveur"
+					},
+					{
+						"fr": "The tube ",
+						"al": " Le métro"
+					},
+					{
+						"fr": "Independence ",
+						"al": " Autonomie"
+					},
+					{
+						"fr": "Interpersonal skills ",
+						"al": " Interaction"
+					},
+					{
+						"fr": "Self-awareness ",
+						"al": " Conscience de soi même"
+					},
+					{
+						"fr": "Analytical ",
+						"al": " Analytique"
+					},
+					{
+						"fr": "Self-confidence ",
+						"al": " Confiance en soi"
+					},
+					{
+						"fr": "Data ",
+						"al": " Données"
+					},
+					{
+						"fr": "Effective ",
+						"al": " Efficace"
+					},
+					{
+						"fr": "Effectively ",
+						"al": " Efficacement"
+					},
+					{
+						"fr": "To conduct ",
+						"al": " Mener"
+					},
+					{
+						"fr": "A survey ",
+						"al": " Une étude"
+					},
+					{
+						"fr": "To chair ",
+						"al": " Présider"
+					},
+					{
+						"fr": "To delegate ",
+						"al": " Déléguer"
+					},
+					{
+						"fr": "Implement ",
+						"al": " Mettre en place"
+					},
+					{
+						"fr": "To meet ",
+						"al": " Respecter"
+					},
+					{
+						"fr": "To support ",
+						"al": " Soutenir"
+					},
+					{
+						"fr": "A belief ",
+						"al": " Une croyance"
+					},
+					{
+						"fr": "Ahead ",
+						"al": " Anticiper"
+					},
+					{
+						"fr": "To spot ",
+						"al": " Repérer "
+					},
+					{
+						"fr": "Sustained ",
+						"al": " Durable"
+					},
+					{
+						"fr": "It ",
+						"al": " Informatique"
+					},
+					{
+						"fr": "Reliability ",
+						"al": " De confiance"
+					},
+					{
+						"fr": "Overseas ",
+						"al": " L'outre-mer"
+					}
+				]
 			}
 		]
 	}
