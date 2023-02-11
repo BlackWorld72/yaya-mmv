@@ -934,5 +934,62 @@ couture_tech =
 				}
 			]
 		},
+		{
+			"nom": "Les différents types de travaux",
+			"words": [
+				{
+					"fr": "Couture couchée",
+					"al": "<img> couture_couchee1 couture_couchee2 couture_couchee3"
+				},
+				{
+					"fr": "Couture ouverte",
+					"al": "<img> couture_ouverte1 couture_ouverte2 couture_ouverte3"
+				},
+				{
+					"fr": "Couture rabattue",
+					"al": "<img> couture_rabattue1 couture_rabattue2 couture_rabattue3"
+				},
+				{
+					"fr": "Couture parisienne",
+					"al": "<img> couture_parisienne1 couture_parisienne2 couture_parisienne3"
+				},
+				{
+					"fr": "Couture anglaise",
+					"al": "<img> couture_anglaise1 couture_anglaise2 couture_anglaise3"
+				},
+				{
+					"fr": "Couché à droite surpiqûre nervure",
+					"al": "<img> couche_a_droite_surpiqure_nervure1 couche_a_droite_surpiqure_nervure2 couche_a_droite_surpiqure_nervure3"
+				},
+				{
+					"fr": "Couché à gauche surpiqûre distance",
+					"al": "<img> couche_a_gauche_surpiqure_distance1 couche_a_gauche_surpiqure_distance2 couche_a_gauche_surpiqure_distance3"
+				},
+				{
+					"fr": "Coulissage",
+					"al": "<img> coulissage1 coulissage2 coulissage3"
+				},
+				{
+					"fr": "Plaquage",
+					"al": "<img> plaquage1 plaquage2 plaquage3"
+				},
+				{
+					"fr": "Remplis",
+					"al": "<img> remplis1 remplis2"
+				},
+				{
+					"fr": "Ourlet régulier",
+					"al": "<img> ourlet_regulier1 ourlet_regulier2 ourlet_regulier3"
+				},
+				{
+					"fr": "Ourlet irrégulier",
+					"al": "<img> ourlet_irregulier1 ourlet_irregulier2 ourlet_irregulier3"
+				},
+				{
+					"fr": "/!\\ Attention /!\\",
+					"al": "Pour écrire le vc, on écrit la mesure SANS la vc + la vc entre parenthèse"
+				}
+			]
+		},
 	] 
 }

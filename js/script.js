@@ -289,13 +289,16 @@ function changeSelectAllWord(value) {
         vava = sss.cat[j].words[i].al
         if (vava.includes("<img>")) {
           h2.textContent = sss.cat[j].words[i].fr + " > " //+ sss.cat[j].words[i].al
-          idp = document.createElement("img")
-          idp.src = "./img/" + vava.split(" ")[1] + ".png"
-          let w = idp.naturalWidth
-          let h = idp.naturalHeight
-          let v = 300 * (h / w)
-          idp.style = "width: 300px; height: " + v + "px;"
-          h2.append(idp)
+          let liste_des_images = vava.split(" ")
+          for (let index_img = 1 ; index_img < liste_des_images.length ; index_img++) {
+            idp = document.createElement("img")
+            idp.src = "./img/" + vava.split(" ")[index_img] + ".png"
+            let w = idp.naturalWidth
+            let h = idp.naturalHeight
+            let v = 300 * (h / w)
+            idp.style = "width: 300px; height: " + v + "px;"
+            h2.append(idp)
+          }
         }
         else {
           h2.textContent = sss.cat[j].words[i].fr + " > " + sss.cat[j].words[i].al
@@ -316,13 +319,16 @@ function changeSelectAllWord(value) {
       vava = sss.cat[j].words[i].al
       if (vava.includes("<img>")) {
         h2.textContent = sss.cat[j].words[i].fr + " > " //+ sss.cat[j].words[i].al
-        idp = document.createElement("img")
-        idp.src = "./img/" + vava.split(" ")[1] + ".png"
-        let w = idp.naturalWidth
-        let h = idp.naturalHeight
-        let v = 300 * (h / w)
-        idp.style = "width: 300px; height: " + v + "px;"
-        h2.append(idp)
+        let liste_des_images = vava.split(" ")
+        for (let index_img = 1 ; index_img < liste_des_images.length ; index_img++) {
+          idp = document.createElement("img")
+          idp.src = "./img/" + vava.split(" ")[index_img] + ".png"
+          let w = idp.naturalWidth
+          let h = idp.naturalHeight
+          let v = 300 * (h / w)
+          idp.style = "width: 300px; height: " + v + "px;"
+          h2.append(idp)
+        }
       }
       else {
         h2.textContent = sss.cat[j].words[i].fr + " > " + sss.cat[j].words[i].al
