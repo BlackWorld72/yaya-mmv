@@ -551,13 +551,16 @@ function changeSelect(isNew) {
   else {
     vava = allwords[word][1]
     if (vava.includes("<img>")) {
-      idp = document.createElement("img")
-      idp.src = "./img/" + vava.split(" ")[1] + ".png"
-      let w = idp.naturalWidth
-      let h = idp.naturalHeight
-      let v = 300 * (h / w)
-      idp.style = "width: 300px; height: " + v + "px;"
-      h2.append(idp)
+      let liste_des_images = vava.split(" ")
+      for (let index_img = 1 ; index_img < liste_des_images.length ; index_img++) {
+        idp = document.createElement("img")
+        idp.src = "./img/" + vava.split(" ")[index_img] + ".png"
+        let w = idp.naturalWidth
+        let h = idp.naturalHeight
+        let v = 300 * (h / w)
+        idp.style = "width: 300px; height: " + v + "px;"
+        h2.append(idp)
+      }
     }
     else {
       h2.textContent = allwords[word][1]
@@ -580,13 +583,16 @@ function validate() {
   if (lang == 1) {
     vava = allwords[word][1]
     if (vava.includes("<img>")) {
-      idp = document.createElement("img")
-      idp.src = "./img/" + vava.split(" ")[1] + ".png"
-      let w = idp.naturalWidth
-      let h = idp.naturalHeight
-      let v = 300 * (h / w)
-      idp.style = "width: 300px; height: " + v + "px;"
-      h2.append(idp)
+      let liste_des_images = vava.split(" ")
+      for (let index_img = 1 ; index_img < liste_des_images.length ; index_img++) {
+        idp = document.createElement("img")
+        idp.src = "./img/" + vava.split(" ")[index_img] + ".png"
+        let w = idp.naturalWidth
+        let h = idp.naturalHeight
+        let v = 300 * (h / w)
+        idp.style = "width: 300px; height: " + v + "px;"
+        h2.append(idp)
+      }
     }
     else {
       h2.textContent = allwords[word][1]
