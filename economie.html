@@ -29,15 +29,17 @@
     <input type="checkbox" id="s3" name="s3" value="s3" onclick="letsGo()">
     <label for="s3"> La stratégie marketing</label><br>
     <input type="checkbox" id="s4" name="s4" value="s4" onclick="letsGo()">
-    <label for="s4"> Mercatique</label><br>
+    <label for="s4"> Chaque stratégie</label><br>
     <input type="checkbox" id="s5" name="s5" value="s5" onclick="letsGo()">
-    <label for="s5"> Objectif marketing</label><br>
+    <label for="s5"> La segmentation</label><br>
     <input type="checkbox" id="s6" name="s6" value="s6" onclick="letsGo()">
-    <label for="s6"> La démarche stratégique</label><br>
+    <label for="s6"> L'attractivité</label><br>
     <input type="checkbox" id="s7" name="s7" value="s7" onclick="letsGo()">
-    <label for="s7"> Les cycles de vie de produits</label><br>
+    <label for="s7"> La compétitivité</label><br>
     <input type="checkbox" id="s8" name="s8" value="s8" onclick="letsGo()">
-    <label for="s8"> La méthode des 4P</label><br>
+    <label for="s8"> Les cycles de vie de produits</label><br>
+    <input type="checkbox" id="s9" name="s9" value="s9" onclick="letsGo()">
+    <label for="s9"> La méthode des 4P</label><br>
 
     <audio id="player" controls>
         Ca ne supporte pas
@@ -72,38 +74,46 @@
 
             if (document.getElementById("s4").checked) {
                 poupi = document.createElement("source")
-                poupi.src = "4.m4a"
-                sources.push("4.m4a")
+                poupi.src = "chaque_strategie.m4a"
+                sources.push("chaque_strategie.m4a")
                 document.getElementById("player").append(poupi)
             }
 
             if (document.getElementById("s5").checked) {
                 poupi = document.createElement("source")
-                poupi.src = "5.m4a"
-                sources.push("5.m4a")
+                poupi.src = "segmentation.m4a"
+                sources.push("segmentation.m4a")
                 document.getElementById("player").append(poupi)
             }
 
             if (document.getElementById("s6").checked) {
                 poupi = document.createElement("source")
-                poupi.src = "6.m4a"
-                sources.push("6.m4a")
+                poupi.src = "attractivite.m4a"
+                sources.push("attractivite.m4a")
                 document.getElementById("player").append(poupi)
             }
 
             if (document.getElementById("s7").checked) {
+                poupi = document.createElement("source")
+                poupi.src = "competitivite.m4a"
+                sources.push("competitivite.m4a")
+                document.getElementById("player").append(poupi)
+            }
+
+            if (document.getElementById("s8").checked) {
                 poupi = document.createElement("source")
                 poupi.src = "7.m4a"
                 sources.push("7.m4a")
                 document.getElementById("player").append(poupi)
             }
 
-            if (document.getElementById("s8").checked) {
+            if (document.getElementById("s9").checked) {
                 poupi = document.createElement("source")
                 poupi.src = "8.m4a"
                 sources.push("8.m4a")
                 document.getElementById("player").append(poupi)
             }
+
             player.addEventListener('ended', function() {
             index++;
             if (index >= sources.length) {
