@@ -191,10 +191,7 @@ function createVoc() {
     return
   }
 
-  selectMatiere = document.getElementById("selectMatiere").value
-  if (selectMatiere == "0") {
-    return
-  }
+  check = document.getElementById("needlangue").checked;
   /*
   anglais_tech =
 {
@@ -212,22 +209,30 @@ function createVoc() {
   for (mot in mots) {
     frw = ""
     alw = ""
-    val = mots[mot].split(":")
-    asasa = val[0].split("\"")
-    for (let k = 0 ; k < asasa.length ; k++) {
-      frw += asasa[k]
-      if (k < asasa.length - 1) {
-        frw += "\\\""
-      }
+    if (mots[mot].includes(':')) {
+      val = mots[mot].split(":")
     }
-    asasa = val[1].split("\"")
-    for (let k = 0 ; k < asasa.length ; k++) {
-      alw += asasa[k]
-      if (k < asasa.length - 1) {
-        alw += "\\\""
-      }
+    else if (mots[mot].includes('>')) {
+      val = mots[mot].split(">")
     }
-    words += "\n\t\t\t\t{ \n\t\t\t\t\t\"fr\": \"" + frw + "\",\n\t\t\t\t\t\"al\": \"" + alw + "\" \n\t\t\t\t}"
+
+    if (check) {
+      lang1 = String(JSON.parse(httpGet("https://www.googleapis.com/language/translate/v2/detect?q=" + val[0] +"&key=AIzaSyCzOGc-tMN-VqMeYBpYgkPrMHmSJ1wzk2M")).data.detections[0][0].language)
+      lang2 = String(JSON.parse(httpGet("https://www.googleapis.com/language/translate/v2/detect?q=" + val[1] +"&key=AIzaSyCzOGc-tMN-VqMeYBpYgkPrMHmSJ1wzk2M")).data.detections[0][0].language)
+
+      value1 = {"text": val[0], "lang": lang1}
+      value2 = {"text": val[1], "lang": lang2}
+    }
+    else {
+      value1 = {"text": val[0], "lang": ""}
+      value2 = {"text": val[1], "lang": ""}
+    }
+
+
+    //console.log({"text1": value1, "text2":value2})
+
+    //words += "\n\t\t\t\t{ \n\t\t\t\t\t\"fr\": \"" + frw + "\",\n\t\t\t\t\t\"al\": \"" + alw + "\" \n\t\t\t\t}"
+    words += JSON.stringify({"text1": value1, "text2":value2}) + "\n"
     if (mot < mots.length-1) {
       words += ","
     }
@@ -237,6 +242,102 @@ function createVoc() {
 
   document.getElementById("donneaallan").style = "visibility: show: display: block;"
   document.getElementById("allan").value = text
+}
+
+function swapImgAudio(i) {
+  if (i == 0) {
+    my_img = document.getElementById("img_play_pause")
+    my_img.src = "./img/bouton-pause.png"
+    my_img.setAttribute("onclick", "swapImgAudio(1)");
+  }
+  else {
+    my_img = document.getElementById("img_play_pause")
+    my_img.src = "./img/jouer.png"
+    my_img.setAttribute("onclick", "swapImgAudio(0)");
+  }
+}
+
+function httpGet(theUrl)
+{
+  var xmlHttp = new XMLHttpRequest();
+  xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
+  xmlHttp.send( null );
+  return xmlHttp.responseText;
+}
+
+function changeCatAudio(value) {
+  if (value === -1) return;
+  let j = parseInt(value)-1
+  var sources = []
+  var index = 0;
+  var my_audio = document.getElementById("player")
+  my_audio.innerHTML = "Ca ne supporte pas"
+
+  for (let i = 0 ; i < sss.cat[j].words.length ; i++) {
+    if (sss.cat[j].words[i].fr == null) {
+      my_source = document.createElement("source")
+      my_source.src = "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=" + sss.cat[j].words[i].text1.text + "&tl=" + sss.cat[j].words[i].text1.lang + "&client=tw-ob"
+      sources.push("https://translate.google.com.vn/translate_tts?ie=UTF-8&q=" + sss.cat[j].words[i].text1.text + "&tl=" + sss.cat[j].words[i].text1.lang + "&client=tw-ob")
+      my_audio.append(my_source)
+
+      my_source = document.createElement("source")
+      my_source.src = "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=" + sss.cat[j].words[i].text2.text + "&tl=" + sss.cat[j].words[i].text2.lang + "&client=tw-ob"
+      sources.push("https://translate.google.com.vn/translate_tts?ie=UTF-8&q=" + sss.cat[j].words[i].text2.text + "&tl=" + sss.cat[j].words[i].text2.lang + "&client=tw-ob")
+      my_audio.append(my_source)
+    }
+  }
+
+  my_audio.addEventListener('ended', function() {
+    index++;
+    if (index >= sources.length) {
+      index = 0;
+    }
+    my_audio.src = sources[index];
+    if ((index % 2) == 0) {
+      sleepFor(2000);
+    }
+    my_audio.play();
+  });
+}
+
+function sleepFor(sleepDuration){
+  var now = new Date().getTime();
+  while(new Date().getTime() < now + sleepDuration){
+    /* Do nothing */
+  }
+}
+
+function createSelectAudio(data) {
+  qs = document.getElementById("qs")
+  document.getElementById("qs").innerHTML = "";
+  sss = data
+
+  select = document.createElement("select")
+  select.setAttribute("onChange", "changeCatAudio(this.value)")
+  select.setAttribute("class", "inpanswer")
+
+  opt = document.createElement('option')
+  opt.textContent = "Selectionne une catégorie"
+  opt.setAttribute("value", -1);
+  select.append(opt)
+
+  for (let j = 0 ; j < data.cat.length ; j++) {
+    opt = document.createElement('option')
+    opt.textContent = data.cat[j].nom
+    opt.setAttribute("value", j+1);
+    select.append(opt)
+  }
+
+  qs.append(select)
+  qs.append(document.createElement("br"))
+  qs.append(document.createElement("br"))
+  qs.append(document.createElement("br"))
+
+  my_audio = document.createElement("audio")
+  my_audio.id = "player"
+  my_audio.controls = true
+  my_audio.innerHTML = "Ca ne supporte pas"
+  qs.append(my_audio)
 }
 
 function listWords(data) {
@@ -274,37 +375,55 @@ function listWords(data) {
   changeSelectAllWord("all")
 }
 
+function renderWords(cat) {
+  x = document.getElementById("jetest")
+  for (let i = 0 ; i < cat.words.length ; i++) {
+    h2 = document.createElement("h3")
+    h2.setAttribute("id", "inpDIVAllWords")
+    if (cat.words[i].al == null) {
+      vava = cat.words[i].text2.text
+    } else {
+      vava = cat.words[i].al
+    }
+
+    if (vava.includes("<img>")) {
+      if (cat.words[i].al == null) {
+        h2.textContent = cat.words[i].text1.text + " > "
+      } else {
+        h2.textContent = cat.words[i].fr + " > "
+      }
+
+      let liste_des_images = vava.split(" ")
+      for (let index_img = 1; index_img < liste_des_images.length; index_img++) {
+        idp = document.createElement("img")
+        idp.src = "./img/" + vava.split(" ")[index_img] + ".png"
+        let w = idp.naturalWidth
+        let h = idp.naturalHeight
+        let v = 300 * (h / w)
+        idp.style = "width: 300px; height: " + v + "px;"
+        h2.append(idp)
+      }
+    } else {
+      if (cat.words[i].al == null) {
+        h2.textContent = cat.words[i].text1.text + " > " + cat.words[i].text2.text
+      } else {
+        h2.textContent = cat.words[i].fr + " > " + cat.words[i].al
+      }
+    }
+    x.append(h2)
+  }
+}
+
 function changeSelectAllWord(value) {
   x = document.getElementById("jetest")
   x.innerHTML = "";
 
-  if (value == "all") {
+  if (value === "all") {
     for (let j = 0 ; j < sss.cat.length ; j++) {
       h2 = document.createElement("h2")
       h2.textContent = sss.cat[j].nom
       x.append(h2)
-      for (let i = 0 ; i < sss.cat[j].words.length ; i++) {
-        h2 = document.createElement("h3")
-        h2.setAttribute("id","inpDIVAllWords")
-        vava = sss.cat[j].words[i].al
-        if (vava.includes("<img>")) {
-          h2.textContent = sss.cat[j].words[i].fr + " > " //+ sss.cat[j].words[i].al
-          let liste_des_images = vava.split(" ")
-          for (let index_img = 1 ; index_img < liste_des_images.length ; index_img++) {
-            idp = document.createElement("img")
-            idp.src = "./img/" + vava.split(" ")[index_img] + ".png"
-            let w = idp.naturalWidth
-            let h = idp.naturalHeight
-            let v = 300 * (h / w)
-            idp.style = "width: 300px; height: " + v + "px;"
-            h2.append(idp)
-          }
-        }
-        else {
-          h2.textContent = sss.cat[j].words[i].fr + " > " + sss.cat[j].words[i].al
-        }
-        x.append(h2)
-      }
+      renderWords(sss.cat[j])
     }
   }
   else {
@@ -312,29 +431,7 @@ function changeSelectAllWord(value) {
     h2 = document.createElement("h2")
     h2.textContent = sss.cat[j].nom
     x.append(h2)
-    for (let i = 0 ; i < sss.cat[j].words.length ; i++) { 
-      h2 = document.createElement("h3")
-      h2.setAttribute("id","inpDIVAllWords")
-      
-      vava = sss.cat[j].words[i].al
-      if (vava.includes("<img>")) {
-        h2.textContent = sss.cat[j].words[i].fr + " > " //+ sss.cat[j].words[i].al
-        let liste_des_images = vava.split(" ")
-        for (let index_img = 1 ; index_img < liste_des_images.length ; index_img++) {
-          idp = document.createElement("img")
-          idp.src = "./img/" + vava.split(" ")[index_img] + ".png"
-          let w = idp.naturalWidth
-          let h = idp.naturalHeight
-          let v = 300 * (h / w)
-          idp.style = "width: 300px; height: " + v + "px;"
-          h2.append(idp)
-        }
-      }
-      else {
-        h2.textContent = sss.cat[j].words[i].fr + " > " + sss.cat[j].words[i].al
-      }
-      x.append(h2)
-    }
+    renderWords(sss.cat[j])
   }
 }
 
@@ -492,7 +589,12 @@ function getAllWordsFromCat(id) {
   data = sss
   list = []
   for (let i = 0 ; i < data.cat[id].words.length ; i++) {
-    list.push([data.cat[id].words[i].fr, data.cat[id].words[i].al])
+    if (data.cat[id].words[i].fr == null) {
+      list.push([data.cat[id].words[i].text1.text, data.cat[id].words[i].text2.text])
+    }
+    else {
+      list.push([data.cat[id].words[i].fr, data.cat[id].words[i].al])
+    }
   }
   return list
 }

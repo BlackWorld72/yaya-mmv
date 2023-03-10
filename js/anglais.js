@@ -1,2315 +1,732 @@
 anglais =
-	{
-		"cat": [
-			{
-				"nom": "0 - Introduction",
-				"words": [
-					{
-						"fr": "D'un côté ",
-						"al": " on the one hand"
-					},
-					{
-						"fr": "D'un autre côté ",
-						"al": " on the other hand"
-					},
-					{
-						"fr": "En raison de ",
-						"al": " Owing to / Due to"
-					},
-					{
-						"fr": "Grâce à ",
-						"al": " Thanks to "
-					},
-					{
-						"fr": "Faute de / Manque de",
-						"al": " For lack of"
-					},
-					{
-						"fr": "Par conséquent ",
-						"al": " Therefore"
-					},
-					{
-						"fr": "En d'autres termes ",
-						"al": " In other words"
-					},
-					{
-						"fr": "En quelque sorte ",
-						"al": " Somehow"
-					},
-					{
-						"fr": "C'est à dire ",
-						"al": " That is to say"
-					},
-					{
-						"fr": "De plus ",
-						"al": " Moreover"
-					},
-					{
-						"fr": "De la même façon ",
-						"al": " Likewise"
-					},
-					{
-						"fr": "En revanche ",
-						"al": " Conversely"
-					},
-					{
-						"fr": "Cependant ",
-						"al": " However"
-					},
-					{
-						"fr": "Néanmoins ",
-						"al": " Nevertheless"
-					},
-					{
-						"fr": "En ce qui concerne ",
-						"al": " Concernings"
-					},
-					{
-						"fr": "Pour résumer ",
-						"al": " To summarize"
-					},
-					{
-						"fr": "En résumé ",
-						"al": " To sum up"
-					},
-					{
-						"fr": "En gros ",
-						"al": " Roughly"
-					},
-					{
-						"fr": "Il remonte à ",
-						"al": " It dates back to"
-					},
-					{
-						"fr": "Il traite de ",
-						"al": " It deals with"
-					},
-					{
-						"fr": "Souligner ",
-						"al": " Underline"
-					},
-					{
-						"fr": "Ce qui est frappant ",
-						"al": " What is striking is that"
-					},
-					{
-						"fr": "Ce qui me frappe, c'est que ",
-						"al": " What strikes me is that"
-					},
-					{
-						"fr": "On a l'impression que ",
-						"al": " We are given the impression that"
-					},
-					{
-						"fr": "Nous ne pouvons pas nous empêcher de penser que/à ",
-						"al": " We can't help thinking that/of"
-					}
-				]
-			},
-			{
-				"nom": "1 - Emotions",
-				"words": [
-					{
-						"fr": "Rather ",
-						"al": " Plutôt"
-					},
-					{
-						"fr": "A slob ",
-						"al": " Un plouc"
-					},
-					{
-						"fr": "Bungee-jumping ",
-						"al": " Saut à l'élastique"
-					},
-					{
-						"fr": "To be ashamed (of) // ahamed - ... // a shame ",
-						"al": " Avoir honte de // honteux // une honte"
-					},
-					{
-						"fr": "To be disappointed (of) - To disappoint (someone) // disappointed - disappointing // a disappointment ",
-						"al": " Etre déçu de - déçevoir (qlq) // déçu - décevant // une déception"
-					},
-					{
-						"fr": "... // gloomy - ... // a gloom ",
-						"al": " ... // sombre ou triste // une obscurité ou tristesse"
-					},
-					{
-						"fr": "To be upset (of) - to upset (someone) // upset - upsetting // ... ",
-						"al": " être bouleversé de - bouleverser (qlq) // bouleversé - bouleversant // ..."
-					},
-					{
-						"fr": "To be joyful (of) // joyful - cheerful // a joy ",
-						"al": " être joyeux // joyeux // une joie"
-					},
-					{
-						"fr": "To be frightened (of) - to frighten (someone) // frightened - frightening // a fright ",
-						"al": " être effrayé de - effrayer (qlq) // effrayé - effrayant // une frayeur"
-					},
-					{
-						"fr": "To be relieved (of) - to relieve (someone) // relieve - ... // a relief ",
-						"al": " être soulagé de - soulager (qlq) // soulagé - ... // un soulagement"
-					},
-					{
-						"fr": "... // easy going // ... ",
-						"al": " ... // facile à vivre // ..."
-					},
-					{
-						"fr": "To cheer someone up // cheerful - cheering // a cheerfulness  ",
-						"al": "rendre (qlq) joyeux //  joyeux - …  // une joie"
-					},
-					{
-						"fr": "To be amazed (of) - to amaze (someone) // amazed - amazing // an amazement ",
-						"al": " être étonné - étonner (qlq) // étonné - étonnant // un étonnement"
-					},
-					{
-						"fr": "To be fearful (of) // fearful - ... // a fear ",
-						"al": " être craintif de // craintif - ... // une crainte"
-					},
-					{
-						"fr": "To be pleased (of) - to please (someone) // pleased - pleasing // ... ",
-						"al": " être heureux de - rendre (qlq) heureux // heureux - plaisant // ..."
-					},
-					{
-						"fr": "To be moody // moody - ... // a mood ",
-						"al": " être lunatique // lunatique - ... // une humeur"
-					},
-					{
-						"fr": "To whistle // ... - whistling // a whistling ",
-						"al": " siffler // ... - sifflant // un sifflement "
-					},
-					{
-						"fr": "To be concerned (of) - to concern (someone) // concerned - concerning // a concern ",
-						"al": " être inquiet de - inquiéter (qlq) // inquiet - inquiétant // une inquiétude"
-					},
-					{
-						"fr": "To be decieved (by) - to decieved (someone) // decieved - decieving // a deception ",
-						"al": " être trompé par - tromper (qlq) // trompé - trompant // une tromperie"
-					},
-					{
-						"fr": "To be moved (by) - to move (someone) // moved - moving // ... ",
-						"al": " être ému par - émouvoir (qlq) // ému - émouvant // ..."
-					},
-					{
-						"fr": "To be astound (by) - to astound (someone) // astounded - astounding // an astonishment ",
-						"al": " être stupéfié (de ou par) - stupéfier (qlq) // stupéfié - stupéfiant // une stupéfaction"
-					},
-					{
-						"fr": "To be excited (of) - to excite (someone) // excited - exciting // an excitement ",
-						"al": " être excité de - exciter (qlq) // excité - excitant // une excitation"
-					},
-					{
-						"fr": "To be exhilarated (by) - to exhilarate (someone) // exhilarated - exhilarating // an exhilaration ",
-						"al": " être enthousiaste - enthousiasmer (qlq) // enthousiaste - enthousiasment // un enthousiasme"
-					},
-					{
-						"fr": "To be thrilled (by) - to thrill (someone) - thrilled - thrilling // a thrill ",
-						"al": "être excité de - exciter (qlq) // excité - excitant // une excitation (ravir)"
-					},
-					{
-						"fr": "To dry // dried - drying // a drought ",
-						"al": " sécher // sec - séchant // une sécheresse"
-					},
-					{
-						"fr": "To make wisecracks // wisecracked - wisecracking // a wisecrack ",
-						"al": " Faire des blagues // .. - blagueur // un sarcasme"
-					},
-					{
-						"fr": "Understatment",
-						"al": "Euphémisme"
-					},
-					{
-						"fr": "Startled",
-						"al": "Effrayé par surprise"
-					},
-					{
-						"fr": "Stiff",
-						"al": "Rigide"
-					},
-					{
-						"fr": "Amused",
-						"al": "Amusé"
-					}
-				]
-			},
-			{
-				"nom": " 2 - The senses",
-				"words": [
-					{
-						"fr": "The sight ",
-						"al": " La vue"
-					},
-					{
-						"fr": "To look ",
-						"al": " Regarder"
-					},
-					{
-						"fr": "The hearing ",
-						"al": " L’ouïe"
-					},
-					{
-						"fr": "To sound ",
-						"al": " Entendre"
-					},
-					{
-						"fr": "The smell ",
-						"al": " L’odorat"
-					},
-					{
-						"fr": "To smell ",
-						"al": " Sentir"
-					},
-					{
-						"fr": "The touch ",
-						"al": " Le toucher"
-					},
-					{
-						"fr": "The feeling ",
-						"al": " Le sentiment"
-					},
-					{
-						"fr": "To feel ",
-						"al": " Ressentir"
-					},
-					{
-						"fr": "The taste ",
-						"al": " Le goût"
-					},
-					{
-						"fr": "To taste ",
-						"al": " Goûter"
-					},
-					{
-						"fr": "Gasoline ",
-						"al": " Essence"
-					},
-					{
-						"fr": "Jellyfish ",
-						"al": " Méduse"
-					},
-					{
-						"fr": "Mussels ",
-						"al": " Moules"
-					},
-					{
-						"fr": "Ill ",
-						"al": " Malade"
-					},
-					{
-						"fr": "Chips ",
-						"al": " Frites"
-					},
-					{
-						"fr": "To have cold ",
-						"al": " Avoir un rhume "
-					},
-					{
-						"fr": "Awful ",
-						"al": " Affreux"
-					},
-					{
-						"fr": "To be short-sighted ",
-						"al": " Être myope"
-					},
-					{
-						"fr": "To be deaf ",
-						"al": " Être sourd"
-					},
-					{
-						"fr": "To be mute ",
-						"al": " Être muet"
-					},
-					{
-						"fr": "The blindness ",
-						"al": " Cécité"
-					},
-					{
-						"fr": "The deafness ",
-						"al": " Surdité"
-					},
-					{
-						"fr": "The muteness ",
-						"al": " Le fait d’être muet"
-					},
-					{
-						"fr": "The feel ",
-						"al": " Le toucher (uniquement)"
-					},
-					{
-						"fr": "Silk ",
-						"al": " Soie"
-					},
-					{
-						"fr": "Soft ",
-						"al": " Doux"
-					},
-					{
-						"fr": "To faint ",
-						"al": " S’évanouir "
-					},
-					{
-						"fr": "Rotten ",
-						"al": " Pourri (qqlch)"
-					},
-					{
-						"fr": "Homesick ",
-						"al": " Mal du pays"
-					},
-					{
-						"fr": "Terrible ",
-						"al": " Terrible (Négatif)"
-					},
-					{
-						"fr": "Terrific ",
-						"al": " Terrible (Positif)"
-					}
-				]
-			},
-			{
-				"nom": " 3 - School",
-				"words": [
-					{
-						"fr": "To release ",
-						"al": " Libérer/publier"
-					},
-					{
-						"fr": "A headline ",
-						"al": " Un titre"
-					},
-					{
-						"fr": "A clue ",
-						"al": " Un indice"
-					},
-					{
-						"fr": "Pupils ",
-						"al": " Élèves entre 5 à 18ans"
-					},
-					{
-						"fr": "An issue ",
-						"al": " Problème/publication"
-					},
-					{
-						"fr": "The gist ",
-						"al": " Le sujet (d’un doc par ex)"
-					},
-					{
-						"fr": "To greet ",
-						"al": " Saluer/Accueillir"
-					},
-					{
-						"fr": "A major ",
-						"al": " Spécialité (matière école)"
-					},
-					{
-						"fr": "A degree ",
-						"al": " Un diplôme "
-					},
-					{
-						"fr": "Landscape ",
-						"al": " Paysage"
-					},
-					{
-						"fr": "A testimony ",
-						"al": " Témoignage"
-					},
-					{
-						"fr": "To testify ",
-						"al": " Témoigner"
-					},
-					{
-						"fr": "A graduate ",
-						"al": " Diplôme"
-					},
-					{
-						"fr": "A college/University ",
-						"al": " Université"
-					},
-					{
-						"fr": "A boarder ",
-						"al": " Un interne"
-					},
-					{
-						"fr": "A roommate ",
-						"al": " Un camarade de chambre"
-					},
-					{
-						"fr": "A dorm/a dormitory ",
-						"al": " Un dortoir"
-					},
-					{
-						"fr": "A double room ",
-						"al": " Une chambre de 2"
-					},
-					{
-						"fr": "A refectory/a dining hall ",
-						"al": " Un réfectoire"
-					},
-					{
-						"fr": "A canteen ",
-						"al": " Une cantine"
-					},
-					{
-						"fr": "A cafeteria ",
-						"al": " Une cafétéria "
-					},
-					{
-						"fr": "Un étudiant de 1er année ",
-						"al": " A freshman"
-					},
-					{
-						"fr": "Un étudiant de 2e année ",
-						"al": " A sophomore"
-					},
-					{
-						"fr": "Un étudiant de 3e année ",
-						"al": " A junior"
-					},
-					{
-						"fr": "Un étudiant de 4e année ",
-						"al": " A senior"
-					},
-					{
-						"fr": "A flat ",
-						"al": " Un appartement"
-					},
-					{
-						"fr": "An accommodation ",
-						"al": " Un logement"
-					},
-					{
-						"fr": "A noise ",
-						"al": " Un bruit"
-					},
-					{
-						"fr": "Gradually ",
-						"al": " Progressivement"
-					},
-					{
-						"fr": "To handle ",
-						"al": " Gérer/traiter"
-					},
-					{
-						"fr": "Eventhough ",
-						"al": " Même si"
-					},
-					{
-						"fr": "To mingle/ing ",
-						"al": " Se mélanger"
-					},
-					{
-						"fr": "Scenery ",
-						"al": " Paysage"
-					},
-					{
-						"fr": "Yet ",
-						"al": " Pourtant "
-					},
-					{
-						"fr": "Inherited ",
-						"al": " Hérité de"
-					},
-					{
-						"fr": "to Last ",
-						"al": " Durer"
-					},
-					{
-						"fr": "Be cut of ",
-						"al": " Être couper de"
-					},
-					{
-						"fr": "Root ",
-						"al": " Racine"
-					},
-					{
-						"fr": "To life ",
-						"al": " À la vie"
-					},
-					{
-						"fr": "Custom ",
-						"al": " Coutume"
-					},
-					{
-						"fr": "Surrounded ",
-						"al": " Entouré de"
-					},
-					{
-						"fr": "Outgoing ",
-						"al": " Sociable"
-					},
-					{
-						"fr": "Outspoken ",
-						"al": " Franc / Spontané"
-					},
-					{
-						"fr": "Encounter ",
-						"al": " Rencontrer"
-					},
-					{
-						"fr": "Reassurded ",
-						"al": " Rassuré"
-					},
-					{
-						"fr": "Enriching ",
-						"al": " Enrichissant"
-					},
-					{
-						"fr": "Relying ",
-						"al": " Compter sur"
-					},
-					{
-						"fr": "To cope by ",
-						"al": " Faire face à"
-					},
-					{
-						"fr": "Shift ",
-						"al": " Roulement (ex taff matin puis soir)"
-					},
-					{
-						"fr": "Adulthood ",
-						"al": " L’âge adulte"
-					},
-					{
-						"fr": "Neighborhood ",
-						"al": " Voisinage"
-					},
-					{
-						"fr": "Childhood ",
-						"al": " Enfance"
-					},
-					{
-						"fr": "Incredible ",
-						"al": " Incroyable"
-					},
-					{
-						"fr": "Giant ",
-						"al": " Géant"
-					},
-					{
-						"fr": "To part ",
-						"al": " Être séparé"
-					},
-					{
-						"fr": "Scattered in ",
-						"al": " Éparpiller"
-					},
-					{
-						"fr": "Schooling fees ",
-						"al": " Frai de scolarité"
-					},
-					{
-						"fr": "A mark ",
-						"al": " Un repaire"
-					},
-					{
-						"fr": "Nest ",
-						"al": " Nid"
-					},
-					{
-						"fr": "Cosy ",
-						"al": " Qqlch de relaxant"
-					},
-					{
-						"fr": "A motto ",
-						"al": " Un proverbe/devise"
-					},
-					{
-						"fr": "Skyscrapers ",
-						"al": " Building"
-					},
-					{
-						"fr": "A beehive ",
-						"al": " Ruche d’abeille"
-					},
-					{
-						"fr": "An anthill ",
-						"al": " Fourmilière"
-					},
-					{
-						"fr": "A restless place ",
-						"al": " Un lieu actif"
-					},
-					{
-						"fr": "A commotion ",
-						"al": " Noise + Agitation"
-					},
-					{
-						"fr": "Pace ",
-						"al": " Rythme"
-					},
-					{
-						"fr": "Bearings ",
-						"al": " Prendre ses marques"
-					},
-					{
-						"fr": "A load ",
-						"al": " Une charge (fictive)"
-					},
-					{
-						"fr": "A grocery shopping ",
-						"al": " Faire ses courses (food)"
-					},
-					{
-						"fr": "Running errands ",
-						"al": " Faire ses courses"
-					},
-					{
-						"fr": "Within ",
-						"al": " Au sein de"
-					},
-					{
-						"fr": "The rent ",
-						"al": " Le loyer"
-					},
-					{
-						"fr": "Invoices ",
-						"al": " Factures"
-					},
-					{
-						"fr": "Living space ",
-						"al": " Escape vital"
-					},
-					{
-						"fr": "Tight / Tiny ",
-						"al": " Petit"
-					},
-					{
-						"fr": "Newly ",
-						"al": " Nouvellement"
-					},
-					{
-						"fr": "Furniture ",
-						"al": " Meuble"
-					},
-					{
-						"fr": "Dedicated / Devoted to ",
-						"al": " Dédié à"
-					},
-					{
-						"fr": "Fluency ",
-						"al": " Savoir parler couramment une langue"
-					},
-					{
-						"fr": "Availability ",
-						"al": " Disponibilité"
-					},
-					{
-						"fr": "Involvement ",
-						"al": " Implication"
-					}
-				]
-			},
+    {
+        "cat": [
 
-			{
-				"nom": " 4a - Education and training",
-				"words": [
-					{
-						"fr": "Academic standards ",
-						"al": " Niveau d'études"
-					},
-					{
-						"fr": "Academic year ",
-						"al": " Année scolaire"
-					},
-					{
-						"fr": "Achieve high academic standards ",
-						"al": " Avoir un niveau d'étude élevé"
-					},
-					{
-						"fr": "Acquire knowledge ",
-						"al": " Acquérir des connaissances"
-					},
-					{
-						"fr": "adulte literacy ",
-						"al": " Alphabétisation"
-					},
-					{
-						"fr": "A failure",
-						"al": "Un echec"
-					},
-					{
-						"fr": "Attend school ",
-						"al": " Fréquenter l'école"
-					},
-					{
-						"fr": "Basic skills ",
-						"al": " Matières fondamentales"
-					},
-					{
-						"fr": "Be a low achiever ",
-						"al": " Etre en situation d'échec scolaire"
-					},
-					{
-						"fr": "Be self educated ",
-						"al": " Etre autodidacte"
-					},
-					{
-						"fr": "Bridge / Close a gap ",
-						"al": " Combler un fossé"
-					},
-					{
-						"fr": "Compulsory / Mandatory education ",
-						"al": " Education obligatoire"
-					},
-					{
-						"fr": "Developing country ",
-						"al": " Pays en voie de développement"
-					},
-					{
-						"fr": "Drop out ouf school ",
-						"al": " Abandonner ses études"
-					},
-					{
-						"fr": "Equal opportunities ",
-						"al": " Egalité des chances"
-					},
-					{
-						"fr": "Fail an exam ",
-						"al": " Echouer un examen"
-					},
-					{
-						"fr": "Fall behind ",
-						"al": " Prendre du retard (sur)"
-					},
-					{
-						"fr": "Further education ",
-						"al": " Enseignement supérieur"
-					},
-					{
-						"fr": "Go to night school ",
-						"al": " Suivre des cours du soir"
-					},
-					{
-						"fr": "Graduate ",
-						"al": " Diplôme / Obtenir un diplôme"
-					},
-					{
-						"fr": "Have a solid grounding ",
-						"al": " Avoir de solides connaissances"
-					},
-					{
-						"fr": "Have high expectations ",
-						"al": " Avoir de grandes ambitions"
-					},
-					{
-						"fr": "Learned ",
-						"al": " Erudit"
-					},
-					{
-						"fr": "Lecture ",
-						"al": " Cours (conférence)"
-					},
-					{
-						"fr": "Pass an exam ",
-						"al": " Réussir un examen"
-					},
-					{
-						"fr": "Pay fees ",
-						"al": " Payer les frai de scolarité"
-					},
-					{
-						"fr": "Raise standards ",
-						"al": " Elever les critères de séléction"
-					},
-					{
-						"fr": "Raise the educational level ",
-						"al": " Elever le niveau d'éducation"
-					},
-					{
-						"fr": "Scolarship / Grant ",
-						"al": " Bourse"
-					},
-					{
-						"fr": "Skill / Qualification ",
-						"al": " Compétences"
-					},
-					{
-						"fr": "Suitable ",
-						"al": " Qui convient"
-					},
-					{
-						"fr": "Take an exam ",
-						"al": " Passer un examen"
-					},
-					{
-						"fr": "Take up a career ",
-						"al": " Embrasser une carrière"
-					},
-					{
-						"fr": "Thirst for knowledge ",
-						"al": " Soif de connaisances"
-					},
-					{
-						"fr": "Train ",
-						"al": " Suivre / Donner une formation"
-					},
-					{
-						"fr": "Training scheme ",
-						"al": " Stage de formation"
-					},
-					{
-						"fr": "Transmit values ",
-						"al": " Transmettre des valeurs"
-					},
-					{
-						"fr": "Vocational training ",
-						"al": " Formation professionnelle "
-					},
-					{
-						"fr": "Win a scolarship ",
-						"al": " Obtenir une bourse"
-					},
-					{
-						"fr": "Youth training scheme ",
-						"al": " Formation des jeunes"
-					},
-					{
-						"fr": "Cornerstones ",
-						"al": " Pilliers"
-					},
-					{
-						"fr": "Provided ",
-						"al": " Fourni par"
-					},
-					{
-						"fr": "Curricula ",
-						"al": " Cursus"
-					},
-					{
-						"fr": "Diploma ",
-						"al": " Diplôme papier"
-					},
-					{
-						"fr": "Sets of courses ",
-						"al": " Ensemble de cours"
-					},
-					{
-						"fr": "Undergraduate ",
-						"al": " Pas encore diplômé"
-					},
-					{
-						"fr": "Complete ",
-						"al": " Achever"
-					},
-					{
-						"fr": "Teaching ",
-						"al": " Enseignement"
-					},
-					{
-						"fr": "Lectures ",
-						"al": " Conférences"
-					},
-					{
-						"fr": "Art subject ",
-						"al": " Matière littéraire"
-					},
-					{
-						"fr": "Library ",
-						"al": " Bibliothèque"
-					}
-				]
-			},
+            {
+                "nom": "0 - Introduction",
+                "words": [
+                      {
+                        "text1": {"text": "D'un côté ", "lang": "fr"},
+                        "text2": {"text": " on the one hand", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "D'un autre côté ", "lang": "fr"},
+                        "text2": {"text": " on the other hand", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "En raison de ", "lang": "fr"},
+                        "text2": {"text": " Owing to / Due to", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "Grâce à ", "lang": "fr"},
+                        "text2": {"text": " Thanks to", "lang": "en"}}
+                    , {
+                        "text1": {"text": "Faute de / Manque de ", "lang": "fr"},
+                        "text2": {"text": " For lack of", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "Par conséquent ", "lang": "fr"},
+                        "text2": {"text": " Therefore", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "En d'autres termes ", "lang": "fr"},
+                        "text2": {"text": " In other words", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "En quelque sorte ", "lang": "fr"},
+                        "text2": {"text": " Somehow", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "C'est à dire ", "lang": "fr"},
+                        "text2": {"text": " That is to say", "lang": "en"}
+                    }
+                    , {"text1": {"text": "De plus ", "lang": "fr"}, "text2": {"text": " Moreover", "lang": "en"}}
+                    , {
+                        "text1": {"text": "De la même façon ", "lang": "fr"},
+                        "text2": {"text": " Likewise", "lang": "en"}
+                    }
+                    , {"text1": {"text": "En revanche ", "lang": "fr"}, "text2": {"text": " Conversely", "lang": "en"}}
+                    , {"text1": {"text": "Cependant ", "lang": "fr"}, "text2": {"text": " However", "lang": "en"}}
+                    , {"text1": {"text": "Néanmoins ", "lang": "fr"}, "text2": {"text": " Nevertheless", "lang": "en"}}
+                    , {
+                        "text1": {"text": "En ce qui concerne ", "lang": "fr"},
+                        "text2": {"text": " Concernings", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "Pour résumer ", "lang": "fr"},
+                        "text2": {"text": " To summarize", "lang": "en"}
+                    }
+                    , {"text1": {"text": "En résumé ", "lang": "fr"}, "text2": {"text": " To sum up", "lang": "en"}}
+                    , {"text1": {"text": "En gros ", "lang": "fr"}, "text2": {"text": " Roughly", "lang": "en"}}
+                    , {
+                        "text1": {"text": "Il remonte à ", "lang": "fr"},
+                        "text2": {"text": " It dates back to", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "Il traite de ", "lang": "fr"},
+                        "text2": {"text": " It deals with", "lang": "en"}
+                    }
+                    , {"text1": {"text": "Souligner ", "lang": "fr"}, "text2": {"text": " Underline", "lang": "en"}}
+                    , {
+                        "text1": {"text": "Ce qui est frappant ", "lang": "fr"},
+                        "text2": {"text": " What is striking is that", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "Ce qui me frappe, c'est que ", "lang": "fr"},
+                        "text2": {"text": " What strikes me is that", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "On a l'impression que ", "lang": "es"},
+                        "text2": {"text": " We are given the impression that", "lang": "en"}
+                    }
+                    , {
+                        "text1": {"text": "Nous ne pouvons pas nous empêcher de penser que/à ", "lang": "fr"},
+                        "text2": {"text": " We can't help thinking that/of", "lang": "en"}
+                    }
 
-			{
-				"nom": " 4b - Education and training",
-				"words": [
-					{
-						"fr": "Apprentice ",
-						"al": " Apprenti"
-					},
-					{
-						"fr": "Apprenticeship ",
-						"al": " Apprentissage "
-					},
-					{
-						"fr": "Ability / Qualification ",
-						"al": " Aptitude"
-					},
-					{
-						"fr": "Promote, upgrade ",
-						"al": " Donner de l'avancement "
-					},
-					{
-						"fr": "Add jobs ",
-						"al": " Boulots (petits)"
-					},
-					{
-						"fr": "Executive ",
-						"al": " Cadre"
-					},
-					{
-						"fr": "Career ",
-						"al": " Carrière "
-					},
-					{
-						"fr": "Office manager ",
-						"al": " Chef de bureau"
-					},
-					{
-						"fr": "Department manager ",
-						"al": " Chef de service"
-					},
-					{
-						"fr": "Skill / Qualification / Expertise ",
-						"al": " Compétence"
-					},
-					{
-						"fr": "Class ",
-						"al": " Cours (leçon)"
-					},
-					{
-						"fr": "Refresher classes ",
-						"al": " Cours de remise à niveau"
-					},
-					{
-						"fr": "Evening classes ",
-						"al": " Cours du soir"
-					},
-					{
-						"fr": "Correspondence courses ",
-						"al": " Cours par correspondance"
-					},
-					{
-						"fr": "Junior ",
-						"al": " Débutant"
-					},
-					{
-						"fr": "Degree / Qualifications ",
-						"al": " Diplôme (obtenu)"
-					},
-					{
-						"fr": "Diploms ",
-						"al": " Diplôme (document)"
-					},
-					{
-						"fr": "Graduate ",
-						"al": " Diplômé (être/un)"
-					},
-					{
-						"fr": "Undergraduate ",
-						"al": " Diplômé (pas encore)"
-					},
-					{
-						"fr": "Grade ",
-						"al": " Echelon"
-					},
-					{
-						"fr": "Business school ",
-						"al": " Ecole de commerce"
-					},
-					{
-						"fr": "Hire / Take on ",
-						"al": " Embaucher"
-					},
-					{
-						"fr": "Job guarantee ",
-						"al": " Garanti de l'emploi "
-					},
-					{
-						"fr": "Employment ",
-						"al": " L'emploi"
-					},
-					{
-						"fr": "Permanent job ",
-						"al": " Emploi permanent"
-					},
-					{
-						"fr": "Seasonal job ",
-						"al": " Emploi saisonnier"
-					},
-					{
-						"fr": "Job security ",
-						"al": " Sécurité de l'emploi"
-					},
-					{
-						"fr": "Steady job ",
-						"al": " Emploi stable"
-					},
-					{
-						"fr": "Temporary job ",
-						"al": " Emploi temporaire"
-					},
-					{
-						"fr": "Job ",
-						"al": " Un emploi"
-					},
-					{
-						"fr": "Clerk / Clerical worker ",
-						"al": " Employé de bureau"
-					},
-					{
-						"fr": "Hire on probation ",
-						"al": " Engager à l'essai"
-					},
-					{
-						"fr": "Team ",
-						"al": " Equipe"
-					},
-					{
-						"fr": "Teamwork ",
-						"al": " Travail d'équipe"
-					},
-					{
-						"fr": "Shift work ",
-						"al": " Travail en équipe"
-					},
-					{
-						"fr": "Probation period ",
-						"al": " Période d'essai"
-					},
-					{
-						"fr": "Studies ",
-						"al": " Etudes"
-					},
-					{
-						"fr": "Follow-up studies ",
-						"al": " Etudes complémentaires"
-					},
-					{
-						"fr": "Assessment / asses (v) ",
-						"al": " Evaluation"
-					},
-					{
-						"fr": "Training / train (v) ",
-						"al": " Formation"
-					},
-					{
-						"fr": "Training centre ",
-						"al": " Centre de formation"
-					},
-					{
-						"fr": "Continuing education ",
-						"al": " Formation continue"
-					},
-					{
-						"fr": "In-house training ",
-						"al": " Formation dans l'entreprise"
-					},
-					{
-						"fr": "Staff training ",
-						"al": " Formation du personnel"
-					},
-					{
-						"fr": "Part-time / Sandwich course ",
-						"al": " Formation en alternance"
-					},
-					{
-						"fr": "Professional / Vocational training ",
-						"al": " Formation professionnelle"
-					}
-				]
-			},
+                ]
+            },
 
-			{
-				"nom": " 4c - Education and training",
-				"words": [
-					{
-						"fr": "Get training / take a training course ",
-						"al": " Suivre une formation"
-					},
-					{
-						"fr": "On-the-job training ",
-						"al": " Formation sur le tas"
-					},
-					{
-						"fr": "Tutor ",
-						"al": " Maître de stage"
-					},
-					{
-						"fr": "Level ",
-						"al": " Niveau"
-					},
-					{
-						"fr": "Guidance / advice on courses and careers ",
-						"al": " Orientation (scolaire)"
-					},
-					{
-						"fr": "Carers guidance / advising ",
-						"al": " orientation (professionnelle)"
-					},
-					{
-						"fr": "Specialise in / Turn to ",
-						"al": " S'orienter vers"
-					},
-					{
-						"fr": "Job opportunities ",
-						"al": " Perspective d'emploi"
-					},
-					{
-						"fr": "Post / position ",
-						"al": " Post"
-					},
-					{
-						"fr": "Vacant post / vacancy ",
-						"al": " Poste libre"
-					},
-					{
-						"fr": "Dead-end job ",
-						"al": " Poste sans avenir"
-					},
-					{
-						"fr": "Prospective ",
-						"al": " Potentiel"
-					},
-					{
-						"fr": "Job / occupation ",
-						"al": " Profession"
-					},
-					{
-						"fr": "Professions ",
-						"al": " Professions libérales"
-					},
-					{
-						"fr": "Curriculum ",
-						"al": " Proramme d'étude"
-					},
-					{
-						"fr": "Promotion ",
-						"al": " Promotion"
-					},
-					{
-						"fr": "Promote / upgrade ",
-						"al": " Promouvoir"
-					},
-					{
-						"fr": "Hob hunting / Seeking ",
-						"al": " Recherche d'emploi"
-					},
-					{
-						"fr": "Work experience / work placement ",
-						"al": " Stage"
-					},
-					{
-						"fr": "Crash course ",
-						"al": " Stage en formation accélérée"
-					},
-					{
-						"fr": "Trainee ",
-						"al": " Stagiraire"
-					},
-					{
-						"fr": "Senior ",
-						"al": " Supérieur (cadre)"
-					},
-					{
-						"fr": "Casual worker ",
-						"al": " Travailleur occasionnel"
-					},
-					{
-						"fr": "Academic ",
-						"al": " Universitaire "
-					}
-				]
-			},
 
-			{
-				"nom": " 5a - Jobs",
-				"words": [
-					{
-						"fr": "A doctor / A physician / A practitioner ",
-						"al": " Un docteur / Un médecin"
-					},
-					{
-						"fr": "A surgeon ",
-						"al": " Un chirurgien"
-					},
-					{
-						"fr": "A physiotherapist ",
-						"al": " Un kinésithérapeute"
-					},
-					{
-						"fr": "An anaesthetist ",
-						"al": " Un anesthésiologiste"
-					},
-					{
-						"fr": "A cancer therapist ",
-						"al": " Cancérologue"
-					},
-					{
-						"fr": "A respiratory therapist ",
-						"al": " Pneumologue"
-					},
-					{
-						"fr": "A nurse ",
-						"al": " Une infirmière"
-					},
-					{
-						"fr": "A radiologist ",
-						"al": " Un radiologue"
-					},
-					{
-						"fr": "A psychiatric therapist ",
-						"al": " Un thérapeute psychiatrique"
-					},
-					{
-						"fr": "A dentist ",
-						"al": " Un dentist"
-					},
-					{
-						"fr": "A pharmacist / A chemist ",
-						"al": " Un pharmacien"
-					},
-					{
-						"fr": "A vetenarian ",
-						"al": " Un vétérinaire"
-					},
-					{
-						"fr": "A forensic doctor ",
-						"al": " Un médecin légiste"
-					},
-					{
-						"fr": "An engineer ",
-						"al": " Un ingénieur"
-					},
-					{
-						"fr": "A bank manager ",
-						"al": " Un directeur de banque"
-					},
-					{
-						"fr": "An economist ",
-						"al": " Un économiste"
-					},
-					{
-						"fr": "A trader ",
-						"al": " Une personne qui achète et vend des actions"
-					},
-					{
-						"fr": "A journalist ",
-						"al": " Un journalist"
-					},
-					{
-						"fr": "A lawyer / A solicitor / An attorney ",
-						"al": " Un avocat"
-					},
-					{
-						"fr": "A judge / A magistrate ",
-						"al": " Un juge"
-					}
-				]
-			},
+            {
+                "nom": " 1 - Feelings ",
+                "words": [ {"text1":{"text":"Rather ","lang":"en"},"text2":{"text":" Plutôt","lang":"fr"}}
+                    ,{"text1":{"text":"A slob ","lang":"en"},"text2":{"text":" Un paresseux","lang":"fr"}}
+                    ,{"text1":{"text":"Bungee-jumping ","lang":"en"},"text2":{"text":" Saut à l'élastique","lang":"fr"}}
+                    ,{"text1":{"text":"To be ashamed (of) // ahamed - ... // a shame ","lang":"en"},"text2":{"text":" Avoir honte de // honteux // une honte","lang":"fr"}}
+                    ,{"text1":{"text":"To be disappointed (of) - To disappoint (someone) // disappointed - disappointing // a disappointment ","lang":"en"},"text2":{"text":" Etre déçu de - déçevoir (qlq) // déçu - décevant // une déception","lang":"fr"}}
+                    ,{"text1":{"text":"... // gloomy - ... // a gloom ","lang":"en"},"text2":{"text":" ... // sombre ou triste // une obscurité ou tristesse","lang":"fr"}}
+                    ,{"text1":{"text":"To be upset (of) - to upset (someone) // upset - upsetting // ... ","lang":"en"},"text2":{"text":" être bouleversé de - bouleverser (qlq) // bouleversé - bouleversant // ...","lang":"fr"}}
+                    ,{"text1":{"text":"To be joyful (of) // joyful - cheerful // a joy ","lang":"en"},"text2":{"text":" être joyeux // joyeux // une joie","lang":"fr"}}
+                    ,{"text1":{"text":"To be frightened (of) - to frighten (someone) // frightened - frightening // a fright ","lang":"en"},"text2":{"text":" être effrayé de - effrayer (qlq) // effrayé - effrayant // une frayeur","lang":"fr"}}
+                    ,{"text1":{"text":"To be relieved (of) - to relieve (someone) // relieve - ... // a relief ","lang":"en"},"text2":{"text":" être soulagé de - soulager (qlq) // soulagé - ... // un soulagement","lang":"fr"}}
+                    ,{"text1":{"text":"... // easy going // ... ","lang":"en"},"text2":{"text":" ... // facile à vivre // ...","lang":"fr"}}
+                    ,{"text1":{"text":"To cheer someone up // cheerful - cheering // a cheerfulness ","lang":"en"},"text2":{"text":" rendre (qlq) joyeux // joyeux - … // une joie","lang":"fr"}}
+                    ,{"text1":{"text":"To be amazed (of) - to amaze (someone) // amazed - amazing // an amazement ","lang":"en"},"text2":{"text":" être étonné - étonner (qlq) // étonné - étonnant // un étonnement","lang":"fr"}}
+                    ,{"text1":{"text":"To be fearful (of) // fearful - ... // a fear ","lang":"en"},"text2":{"text":" être craintif de // craintif - ... // une crainte","lang":"fr"}}
+                    ,{"text1":{"text":"To be pleased (of) - to please (someone) // pleased - pleasing // ... ","lang":"en"},"text2":{"text":" être heureux de - rendre (qlq) heureux // heureux - plaisant // ...","lang":"fr"}}
+                    ,{"text1":{"text":"To be moody // moody - ... // a mood ","lang":"en"},"text2":{"text":" être lunatique // lunatique - ... // une humeur ","lang":"fr"}}
+                    ,{"text1":{"text":"To whistle // ... - whistling // a whistling ","lang":"en"},"text2":{"text":" siffler // ... - sifflant // un sifflement","lang":"fr"}}
+                    ,{"text1":{"text":"To be concerned (of) - to concern (someone) // concerned - concerning // a concern ","lang":"en"},"text2":{"text":" être inquiet de - inquiéter (qlq) // inquiet - inquiétant // une inquiétude","lang":"fr"}}
+                    ,{"text1":{"text":"To be decieved (by) - to decieved (someone) // decieved - decieving // a deception ","lang":"en"},"text2":{"text":" être trompé par - tromper (qlq) // trompé - trompant // une tromperie","lang":"fr"}}
+                    ,{"text1":{"text":"To be moved (by) - to move (someone) // moved - moving // ... ","lang":"en"},"text2":{"text":" être ému par - émouvoir (qlq) // ému - émouvant // ...","lang":"fr"}}
+                    ,{"text1":{"text":"To be astound (by) - to astound (someone) // astounded - astounding // an astonishment ","lang":"en"},"text2":{"text":" être stupéfié (de ou par) - stupéfier (qlq) // stupéfié - stupéfiant // une stupéfaction","lang":"fr"}}
+                    ,{"text1":{"text":"To be excited (of) - to excite (someone) // excited - exciting // an excitement ","lang":"en"},"text2":{"text":" être excité de - exciter (qlq) // excité - excitant // une excitation","lang":"fr"}}
+                    ,{"text1":{"text":"To be exhilarated (by) - to exhilarate (someone) // exhilarated - exhilarating // an exhilaration ","lang":"en"},"text2":{"text":" être enthousiaste - enthousiasmer (qlq) // enthousiaste - enthousiasment // un enthousiasme","lang":"fr"}}
+                    ,{"text1":{"text":"To be thrilled (by) - to thrill (someone) - thrilled - thrilling // a thrill ","lang":"en"},"text2":{"text":" être excité de - exciter (qlq) // excité - excitant // une excitation (ravir)","lang":"fr"}}
+                    ,{"text1":{"text":"To dry // dried - drying // a drought ","lang":"en"},"text2":{"text":" sécher // sec - séchant // une sécheresse","lang":"fr"}}
+                    ,{"text1":{"text":"To make wisecracks // wisecracked - wisecracking // a wisecrack ","lang":"en"},"text2":{"text":" Faire des blagues // .. - blagueur // un sarcasme","lang":"fr"}}
+                    ,{"text1":{"text":"Understatment ","lang":"en"},"text2":{"text":" Euphémisme","lang":"fr"}}
+                    ,{"text1":{"text":"Startled ","lang":"en"},"text2":{"text":" Effrayé par surprise","lang":"fr"}}
+                    ,{"text1":{"text":"Stiff ","lang":"en"},"text2":{"text":" Rigide","lang":"fr"}}
+                    ,{"text1":{"text":"Amused ","lang":"en"},"text2":{"text":" Amusé","lang":"fr"}}
 
-			{
-				"nom": " 5b - Jobs",
-				"words": [
-					{
-						"fr": "A prosecutor ",
-						"al": " Un procureur"
-					},
-					{
-						"fr": "A notary ",
-						"al": " Un notaire "
-					},
-					{
-						"fr": "A count bailiff ",
-						"al": " Un huissier"
-					},
-					{
-						"fr": "An architect (ch = k) ",
-						"al": " Un architecte"
-					},
-					{
-						"fr": "A home/space designer ",
-						"al": " Un décorateur d’intérieur"
-					},
-					{
-						"fr": "A real estate agent ",
-						"al": " Un agent immobilier"
-					},
-					{
-						"fr": "A psychologist ",
-						"al": " Un psychologue"
-					},
-					{
-						"fr": "A mental health consellor ",
-						"al": " Un conseiller en santé mentale"
-					},
-					{
-						"fr": "An educator ",
-						"al": " Un éducateur"
-					},
-					{
-						"fr": "An addiction therapist ",
-						"al": " Un thérapeute en toxicomanie"
-					},
-					{
-						"fr": "A computer scientist ",
-						"al": " Un informaticien "
-					},
-					{
-						"fr": "A software developer ",
-						"al": " Un développeur de logiciels"
-					},
-					{
-						"fr": "A web/game designer ",
-						"al": " Un web/game designer"
-					},
-					{
-						"fr": "A businessman/woman ",
-						"al": " Un homme/Une femme d’affaire"
-					},
-					{
-						"fr": "A CEO (Chief Executive Officer) ",
-						"al": " Un PDG (Président Directeur Général)"
-					},
-					{
-						"fr": "An entrepreneur ",
-						"al": " Un entrepreneur"
-					},
-					{
-						"fr": "A human resource manager ",
-						"al": " Un gestionnaire des ressources humaines"
-					},
-					{
-						"fr": "A salesman/ A saleswoman ",
-						"al": " Un vendeur / Une vendeuse"
-					},
-					{
-						"fr": "A financial advisor ",
-						"al": " Un conseiller financier"
-					},
-					{
-						"fr": "An accountant ",
-						"al": " Un comptable"
-					}
-				]
-			},
+                ]
+            },
 
-			{
-				"nom": " 6a - Work",
-				"words": [
-					{
-						"fr": "A manager / The company head / The chairman / Chief Executive Officer / Managing director ",
-						"al": " Patron / Directeur"
-					},
-					{
-						"fr": "(Tho have/To hold ) A job / A position / A post / An occupation / An employment ",
-						"al": " (Avoir) Un travail"
-					},
-					{
-						"fr": "To apply for a job ",
-						"al": " Postuler pour un travail"
-					},
-					{
-						"fr": "To apply to a company ",
-						"al": " Postuler à une entreprise"
-					},
-					{
-						"fr": "To hire / To taken on ",
-						"al": " Engager"
-					},
-					{
-						"fr": "To fire / To sack ",
-						"al": " Virer"
-					},
-					{
-						"fr": "To dismiss ",
-						"al": " Renvoyer"
-					},
-					{
-						"fr": "Jobless / Unemployed / On the dole ",
-						"al": " Chômage"
-					},
-					{
-						"fr": "An odd job ",
-						"al": " Petit boulot"
-					},
-					{
-						"fr": "A temp(orary) job ",
-						"al": " Un travail en intérim"
-					},
-					{
-						"fr": "Employer ",
-						"al": " Employeur"
-					},
-					{
-						"fr": "Job seeker ",
-						"al": " Chercheur d'emploi"
-					},
-					{
-						"fr": "Applicant ",
-						"al": " Candidat"
-					},
-					{
-						"fr": "Recruiter ",
-						"al": " Recruteur"
-					},
-					{
-						"fr": "Consultant ",
-						"al": " Conseiller"
-					},
-					{
-						"fr": "Career ",
-						"al": " Carrière"
-					},
-					{
-						"fr": "Notice ",
-						"al": " Préavis / Démission"
-					},
-					{
-						"fr": "A living ",
-						"al": " Dans la vie"
-					},
-					{
-						"fr": "Staff ",
-						"al": " Personnel"
-					},
-				]
-			},
+            {
+                "nom": " 2 - Senses",
+                "words": [ {"text1":{"text":"The sight ","lang":"en"},"text2":{"text":" La vue","lang":"fr"}}
+                    ,{"text1":{"text":"To look ","lang":"en"},"text2":{"text":" Regarder","lang":"fr"}}
+                    ,{"text1":{"text":"The hearing ","lang":"en"},"text2":{"text":" L’ouïe","lang":"fr"}}
+                    ,{"text1":{"text":"To sound ","lang":"en"},"text2":{"text":" Entendre","lang":"fr"}}
+                    ,{"text1":{"text":"The smell ","lang":"en"},"text2":{"text":" L’odorat","lang":"fr"}}
+                    ,{"text1":{"text":"To smell ","lang":"en"},"text2":{"text":" Sentir","lang":"pt"}}
+                    ,{"text1":{"text":"The touch ","lang":"en"},"text2":{"text":" Le toucher","lang":"fr"}}
+                    ,{"text1":{"text":"The feeling ","lang":"en"},"text2":{"text":" Le sentiment","lang":"fr"}}
+                    ,{"text1":{"text":"To feel ","lang":"en"},"text2":{"text":" Ressentir","lang":"fr"}}
+                    ,{"text1":{"text":"The taste ","lang":"en"},"text2":{"text":" Le goût","lang":"fr"}}
+                    ,{"text1":{"text":"To taste ","lang":"el-Latn"},"text2":{"text":" Goûter","lang":"fr"}}
+                    ,{"text1":{"text":"Gasoline ","lang":"en"},"text2":{"text":" Essence","lang":"en"}}
+                    ,{"text1":{"text":"Jellyfish ","lang":"en"},"text2":{"text":" Méduse","lang":"fr"}}
+                    ,{"text1":{"text":"Mussels ","lang":"en"},"text2":{"text":" Moules","lang":"fr"}}
+                    ,{"text1":{"text":"Ill ","lang":"en"},"text2":{"text":" Malade","lang":"fr"}}
+                    ,{"text1":{"text":"Chips ","lang":"en"},"text2":{"text":" Frites","lang":"en"}}
+                    ,{"text1":{"text":"To have cold ","lang":"en"},"text2":{"text":" Avoir un rhume","lang":"fr"}}
+                    ,{"text1":{"text":"Awful ","lang":"en"},"text2":{"text":" Affreux","lang":"fr"}}
+                    ,{"text1":{"text":"To be short-sighted ","lang":"en"},"text2":{"text":" Être myope","lang":"fr"}}
+                    ,{"text1":{"text":"To be deaf ","lang":"en"},"text2":{"text":" Être sourd","lang":"fr"}}
+                    ,{"text1":{"text":"To be mute ","lang":"en"},"text2":{"text":" Être muet","lang":"fr"}}
+                    ,{"text1":{"text":"The blindness ","lang":"en"},"text2":{"text":" Cécité","lang":"fr"}}
+                    ,{"text1":{"text":"The deafness ","lang":"en"},"text2":{"text":" Surdité","lang":"fr"}}
+                    ,{"text1":{"text":"The muteness ","lang":"en"},"text2":{"text":" Le fait d’être muet","lang":"fr"}}
+                    ,{"text1":{"text":"The feel ","lang":"en"},"text2":{"text":" Le toucher (uniquement)","lang":"fr"}}
+                    ,{"text1":{"text":"Silk ","lang":"en"},"text2":{"text":" Soie","lang":"fr"}}
+                    ,{"text1":{"text":"Soft ","lang":"en"},"text2":{"text":" Doux","lang":"fr"}}
+                    ,{"text1":{"text":"To faint ","lang":"el-Latn"},"text2":{"text":" S’évanouir","lang":"fr"}}
+                    ,{"text1":{"text":"Rotten ","lang":"en"},"text2":{"text":" Pourri (qqlch)","lang":"fr"}}
+                    ,{"text1":{"text":"Homesick ","lang":"en"},"text2":{"text":" Mal du pays","lang":"fr"}}
+                    ,{"text1":{"text":"Terrible ","lang":"en"},"text2":{"text":" Terrible (Négatif)","lang":"fr"}}
+                    ,{"text1":{"text":"Terrific ","lang":"en"},"text2":{"text":" Terrible (Positif)","lang":"id"}}
 
-			{
-				"nom": " 6b - Work",
-				"words": [
-					{
-						"fr": "To hand smth ",
-						"al": " Remettre (en main propre)"
-					},
-					{
-						"fr": "Ouf of reach ",
-						"al": " Hors de portée"
-					},
-					{
-						"fr": "Reachable ",
-						"al": " Atteignable"
-					},
-					{
-						"fr": "A job ",
-						"al": " Un travail (professionnel)"
-					},
-					{
-						"fr": "A work ",
-						"al": " Un travail (scolaire)"
-					},
-					{
-						"fr": "For a living ",
-						"al": " Dans la vie"
-					},
-					{
-						"fr": "To look / To seek for a job ",
-						"al": " Chercher du travail"
-					},
-					{
-						"fr": "To earn a living ",
-						"al": " Gagner sa vie"
-					},
-					{
-						"fr": "To graduate ",
-						"al": " Terminer ses études / Etre diplomé de "
-					},
-					{
-						"fr": "Team spirit ",
-						"al": " Esprit d'équipe"
-					},
-					{
-						"fr": "Schedule / Time schedule / Timetable ",
-						"al": " Emploi du temps"
-					},
-					{
-						"fr": "To lead / To manage / To head ",
-						"al": " Diriger"
-					},
-					{
-						"fr": "Motivated / Dedicated / Devoded / Involved ",
-						"al": " Motivé"
-					},
-					{
-						"fr": "Motivation / Dedication / Devotion / Involvement ",
-						"al": " Motivation"
-					},
-					{
-						"fr": "Firm / Business / Company ",
-						"al": " Entreprise"
-					},
-					{
-						"fr": "Achieve / Reach a goal / an aim / A purpose ",
-						"al": " Atteindre un but"
-					},
-					{
-						"fr": "Training ",
-						"al": " Formation"
-					},
-					{
-						"fr": "Application ",
-						"al": " Candidature"
-					},
-					{
-						"fr": "Academic ",
-						"al": " Universitaire"
-					},
-				]
-			},
+                ]
+            },
 
-			{
-				"nom": " 6c - Work",
-				"words": [
-					{
-						"fr": "Former ",
-						"al": " Ancien / ex"
-					},
-					{
-						"fr": "Compulsory / Mandatory ",
-						"al": " Obligatoire"
-					},
-					{
-						"fr": "To attend ",
-						"al": " Fréquenter"
-					},
-					{
-						"fr": "Demand ",
-						"al": " Exigeance"
-					},
-					{
-						"fr": "To demand ",
-						"al": " Exiger"
-					},
-					{
-						"fr": "To deal with ",
-						"al": " Etre en contact avec"
-					},
-					{
-						"fr": "Joindre ",
-						"al": " To enclore"
-					},
-					{
-						"fr": "Correspondre ",
-						"al": " To fit"
-					},
-					{
-						"fr": "To carry out ",
-						"al": " Mener / Accomplir"
-					},
-					{
-						"fr": "To commute ",
-						"al": " Prendre les transports en commun"
-					},
-					{
-						"fr": "To hold ",
-						"al": " Avoir / Tenir  / Détenir"
-					},
-					{
-						"fr": "A stay ",
-						"al": " Un séjour"
-					},
-					{
-						"fr": "An application letter / A cover letter ",
-						"al": " Une lettre de candidature"
-					},
-					{
-						"fr": "A trainee ",
-						"al": " Un stagiaire"
-					},
-					{
-						"fr": "A CV (GB) / A résumé (US) ",
-						"al": " CV"
-					},
-					{
-						"fr": "An income / The earning / A salary ",
-						"al": " Un salaire"
-					},
-					{
-						"fr": "A job interview ",
-						"al": " Un entretien d'embauche"
-					},
-					{
-						"fr": "A work placement / A work experience / An internship / A training period ",
-						"al": " Un stage"
-					}
-				]
-			},
-			{
-				"nom": " 6d - Work",
-				"words": [
-					{
-						"fr": "To show-off / To boast ",
-						"al": " Vantard"
-					},
-					{
-						"fr": "Boastful ",
-						"al": " Qql qui se vante"
-					},
-					{
-						"fr": "It deals with / It tackles ",
-						"al": " Il traite de / Il s’attaque à"
-					},
-					{
-						"fr": "Setting ",
-						"al": " Cadre / Décor"
-					},
-					{
-						"fr": "An office ",
-						"al": " Un bureau (pièce)"
-					},
-					{
-						"fr": "Status ",
-						"al": " Statut"
-					},
-					{
-						"fr": "Desk ",
-						"al": " Bureau"
-					},
-					{
-						"fr": "Undergoing ",
-						"al": " Subir"
-					},
-					{
-						"fr": "At ease ",
-						"al": " À l’aise"
-					},
-					{
-						"fr": "Doubtful ",
-						"al": " Qql qui doute"
-					},
-					{
-						"fr": "Puzzled ",
-						"al": " Perplexe"
-					},
-					{
-						"fr": "Staring ",
-						"al": " Regardant fixement"
-					},
-					{
-						"fr": "Frowning ",
-						"al": " Qql qui fronce les sourcils"
-					},
-					{
-						"fr": "Misleading ",
-						"al": " Trompeur"
-					},
-					{
-						"fr": "Stand out ",
-						"al": " se démarquer"
-					},
-					{
-						"fr": "Overseas ",
-						"al": " International"
-					},
-					{
-						"fr": "In the field ",
-						"al": " Dans le domaine"
-					},
-					{
-						"fr": "To grow ",
-						"al": " Se développer"
-					},
-					{
-						"fr": "Enhance ",
-						"al": " Améliorer"
-					},
-					{
-						"fr": "Giving classes ",
-						"al": " Donner des cours"
-					},
-					{
-						"fr": "Cities ",
-						"al": " Villes"
-					},
-					{
-						"fr": "Countries ",
-						"al": " Pays"
-					},
-					{
-						"fr": "Highly regarded ",
-						"al": " Hautement estimé"
-					},
-					{
-						"fr": "Well regarded ",
-						"al": " Bien considéré"
-					},
-					{
-						"fr": "Further ",
-						"al": " Autre"
-					},
-					{
-						"fr": "A highly skilled person ",
-						"al": " Une personne très (/hautement) quanifiée"
-					}
-				]
-			},
-			{
-				"nom": "7a - CV",
-				"words": [
-					{
-						"fr": "Disguising ",
-						"al": " Déguiser"
-					},
-					{
-						"fr": "A spell in prision ",
-						"al": " Un séjour en prison"
-					},
-					{
-						"fr": "Hitch-hiking ",
-						"al": " Randonné"
-					},
-					{
-						"fr": "Spoil ",
-						"al": " Gacher"
-					},
-					{
-						"fr": "Inflate ",
-						"al": " Gonfler"
-					},
-					{
-						"fr": "Claim ",
-						"al": " Prétendre / Réclamation"
-					},
-					{
-						"fr": "Short-sighted ",
-						"al": " Myope / A court terme"
-					},
-					{
-						"fr": "Wages ",
-						"al": " Salaire"
-					},
-					{
-						"fr": "Feet up ",
-						"al": " Mettre les pieds dans le plat"
-					},
-					{
-						"fr": "Telly ",
-						"al": " Télé"
-					},
-					{
-						"fr": "Accuracy ",
-						"al": " Exactitude"
-					},
-					{
-						"fr": "Survey ",
-						"al": " Etude"
-					},
-					{
-						"fr": "Academic ",
-						"al": " Universitaire"
-					},
-					{
-						"fr": "Achieve ",
-						"al": " Réussir"
-					},
-					{
-						"fr": "A couple of ",
-						"al": " Quelques"
-					},
-					{
-						"fr": "To stand out ",
-						"al": " Se démarquer"
-					},
-					{
-						"fr": "To multiply ",
-						"al": " Multiplier"
-					},
-					{
-						"fr": "To divide ",
-						"al": " Diviser"
-					},
-					{
-						"fr": "To dubstract ",
-						"al": " Soustraire"
-					},
-					{
-						"fr": "To add ",
-						"al": " Additionner"
-					},
-					{
-						"fr": "Percentage ",
-						"al": " Pourcentage (Percent)"
-					},
-					{
-						"fr": "To be face with ",
-						"al": " Etre confronté à"
-					},
-					{
-						"fr": "Falsehoods ",
-						"al": " Mensonges"
-					},
-				]
-			},
-			{
-				"nom": "7b - CV",
-				"words": [
-					{
-						"fr": "To state ",
-						"al": " Déclarer"
-					},
-					{
-						"fr": "Fully aware ",
-						"al": " Pleinement conscient"
-					},
-					{
-						"fr": "Can't be held liable for ",
-						"al": " Ne pas être tenu responsable de (justice)"
-					},
-					{
-						"fr": "Empty ",
-						"al": " Vide"
-					},
-					{
-						"fr": "Spell of time ",
-						"al": " Période de temps"
-					},
-					{
-						"fr": "To jeopardize (To put at risk) ",
-						"al": " Mettre en danger, en péril"
-					},
-					{
-						"fr": "Would-be employer ",
-						"al": " Potentiel employé"
-					},
-					{
-						"fr": "Senseless ",
-						"al": " Incensé"
-					},
-					{
-						"fr": "Couch potatoes ",
-						"al": " Glandouiller (expression)"
-					},
-					{
-						"fr": "To steers ",
-						"al": " Diriger"
-					},
-					{
-						"fr": "Relevant ",
-						"al": " Pertinent"
-					},
-					{
-						"fr": "Odd jobs ",
-						"al": " Petit boulot"
-					},
-					{
-						"fr": "Extra-curricular ",
-						"al": " Extra scolaire"
-					},
-					{
-						"fr": "Enclose ",
-						"al": " Joindre"
-					},
-					{
-						"fr": "Snap ",
-						"al": " Un cliché / Une photo"
-					},
-					{
-						"fr": "Highlight ",
-						"al": " Mettre en évidence"
-					},
-					{
-						"fr": "To attend ",
-						"al": " Fréquenter"
-					},
-					{
-						"fr": "Former ",
-						"al": " Ancien"
-					},
-					{
-						"fr": "Punchy ",
-						"al": " Combatif"
-					},
-					{
-						"fr": "To the point ",
-						"al": " Au point"
-					},
-					{
-						"fr": "Targeted ",
-						"al": " Ciblé"
-					},
-					{
-						"fr": "Skills-based ",
-						"al": " Basé sur les compétence"
-					},
-				]
-			},
-			{
-				"nom": "7c - CV",
-				"words": [
-					{
-						"fr": "Outgoing ",
-						"al": " Sociable"
-					},
-					{
-						"fr": "Messy ",
-						"al": " Désordonné"
-					},
-					{
-						"fr": "Consistent ",
-						"al": " Cohérent"
-					},
-					{
-						"fr": "Inconsistent ",
-						"al": " Incohérent"
-					},
-					{
-						"fr": "Businesslike ",
-						"al": " Professionnel"
-					},
-					{
-						"fr": "Cramped ",
-						"al": " Chargé"
-					},
-					{
-						"fr": "Crowded ",
-						"al": " Encombré"
-					},
-					{
-						"fr": "Well-laid-out ",
-						"al": " Bien aménagée"
-					},
-					{
-						"fr": "Plain ",
-						"al": " Simple"
-					},
-					{
-						"fr": "Accurate ",
-						"al": " Précis"
-					},
-					{
-						"fr": "Concise ",
-						"al": " Concis (s'exprimer en peu de mot)"
-					},
-					{
-						"fr": "Software ",
-						"al": " Logiciel"
-					},
-					{
-						"fr": "Barwork ",
-						"al": " Au bar"
-					},
-					{
-						"fr": "Cashing up ",
-						"al": " Encaisser"
-					},
-					{
-						"fr": "A wide veriety ",
-						"al": " Une grande variété"
-					},
-					{
-						"fr": "Booking ",
-						"al": " Réservation"
-					},
-					{
-						"fr": "Accounts Clerk ",
-						"al": " Commis comptable"
-					},
-					{
-						"fr": "Enquiries ",
-						"al": " Demandes"
-					},
-					{
-						"fr": "Fundraised ",
-						"al": " Collecte de fonds"
-					},
-					{
-						"fr": "Engangered ",
-						"al": " En voie de disparition"
-					},
-					{
-						"fr": "Eye-Catching ",
-						"al": " Accrocheur"
-					},
-					{
-						"fr": "Taught ",
-						"al": " Enseigné à"
-					},
-					{
-						"fr": "Current ",
-						"al": " Actuel"
-					},
-					{
-						"fr": "Upon request ",
-						"al": " Sur demande"
-					}
-				]
-			},
 
-			{
-				"nom": " 7d - CV",
-				"words": [
-					{
-						"fr": "Hence ",
-						"al": " D'ou"
-					},
-					{
-						"fr": "Assets ",
-						"al": " Atoux"
-					},
-					{
-						"fr": "Wirdowed ",
-						"al": " Veuve.f"
-					},
-					{
-						"fr": "Student representative ",
-						"al": " Délégué"
-					},
-					{
-						"fr": "Volunteer ",
-						"al": " Bénévol"
-					},
-					{
-						"fr": "Relevant ",
-						"al": " Pertinant"
-					},
-					{
-						"fr": "Accurate ",
-						"al": " Précs"
-					},
-					{
-						"fr": "Spelling ",
-						"al": " Orthographe"
-					},
-					{
-						"fr": "The sweet spot ",
-						"al": " Le point fort"
-					},
-					{
-						"fr": "Bold ",
-						"al": " Gras"
-					},
-					{
-						"fr": "Typefaces ",
-						"al": " Typographie"
-					},
-					{
-						"fr": "Headings ",
-						"al": " Entête"
-					},
-					{
-						"fr": "Stick ",
-						"al": " Focaliser"
-					},
-					{
-						"fr": "Sizes ",
-						"al": " Police (ordi texte)"
-					}
-				]
-			},
+            {
+                "nom": " 3 - Class",
+                "words": [ {"text1":{"text":"To release ","lang":"en"},"text2":{"text":" Libérer/publier","lang":"fr"}}
+                    ,{"text1":{"text":"A headline ","lang":"en"},"text2":{"text":" Un titre","lang":"fr"}}
+                    ,{"text1":{"text":"A clue ","lang":"en"},"text2":{"text":" Un indice","lang":"it"}}
+                    ,{"text1":{"text":"Pupils ","lang":"en"},"text2":{"text":" Élèves entre 5 à 18ans","lang":"fr"}}
+                    ,{"text1":{"text":"An issue ","lang":"en"},"text2":{"text":" Problème/publication","lang":"fr"}}
+                    ,{"text1":{"text":"The gist ","lang":"en"},"text2":{"text":" Le sujet (d’un doc par ex)","lang":"fr"}}
+                    ,{"text1":{"text":"To greet ","lang":"en"},"text2":{"text":" Saluer/Accueillir","lang":"fr"}}
+                    ,{"text1":{"text":"A major ","lang":"en"},"text2":{"text":" Spécialité (matière école)","lang":"fr"}}
+                    ,{"text1":{"text":"A degree ","lang":"en"},"text2":{"text":" Un diplôme","lang":"fr"}}
+                    ,{"text1":{"text":"Landscape ","lang":"en"},"text2":{"text":" Paysage","lang":"fr"}}
+                    ,{"text1":{"text":"A testimony ","lang":"en"},"text2":{"text":" Témoignage","lang":"fr"}}
+                    ,{"text1":{"text":"To testify ","lang":"en"},"text2":{"text":" Témoigner","lang":"fr"}}
+                    ,{"text1":{"text":"A graduate ","lang":"en"},"text2":{"text":" Diplôme","lang":"fr"}}
+                    ,{"text1":{"text":"A college/University ","lang":"en"},"text2":{"text":" Université","lang":"fr"}}
+                    ,{"text1":{"text":"A boarder ","lang":"en"},"text2":{"text":" Un interne","lang":"fr"}}
+                    ,{"text1":{"text":"A roommate ","lang":"en"},"text2":{"text":" Un camarade de chambre","lang":"fr"}}
+                    ,{"text1":{"text":"A dorm/a dormitory ","lang":"en"},"text2":{"text":" Un dortoir","lang":"fr"}}
+                    ,{"text1":{"text":"A double room ","lang":"en"},"text2":{"text":" Une chambre de 2","lang":"fr"}}
+                    ,{"text1":{"text":"A refectory/a dining hall ","lang":"en"},"text2":{"text":" Un réfectoire","lang":"fr"}}
+                    ,{"text1":{"text":"A canteen ","lang":"en"},"text2":{"text":" Une cantine","lang":"fr"}}
+                    ,{"text1":{"text":"A cafeteria ","lang":"es"},"text2":{"text":" Une cafétéria","lang":"fr"}}
+                    ,{"text1":{"text":"Un étudiant de 1er année ","lang":"fr"},"text2":{"text":" A freshman","lang":"en"}}
+                    ,{"text1":{"text":"Un étudiant de 2e année ","lang":"fr"},"text2":{"text":" A sophomore","lang":"en"}}
+                    ,{"text1":{"text":"Un étudiant de 3e année ","lang":"fr"},"text2":{"text":" A junior","lang":"en"}}
+                    ,{"text1":{"text":"Un étudiant de 4e année ","lang":"fr"},"text2":{"text":" A senior","lang":"en"}}
+                    ,{"text1":{"text":"A flat ","lang":"en"},"text2":{"text":" Un appartement","lang":"fr"}}
+                    ,{"text1":{"text":"An accommodation ","lang":"en"},"text2":{"text":" Un logement","lang":"fr"}}
+                    ,{"text1":{"text":"A noise ","lang":"en"},"text2":{"text":" Un bruit","lang":"fr"}}
+                    ,{"text1":{"text":"Gradually ","lang":"en"},"text2":{"text":" Progressivement","lang":"fr"}}
+                    ,{"text1":{"text":"To handle ","lang":"en"},"text2":{"text":" Gérer/traiter","lang":"fr"}}
+                    ,{"text1":{"text":"Eventhough ","lang":"en"},"text2":{"text":" Même si","lang":"fr"}}
+                    ,{"text1":{"text":"To mingle/ing ","lang":"en"},"text2":{"text":" Se mélanger","lang":"fr"}}
+                    ,{"text1":{"text":"Scenery ","lang":"en"},"text2":{"text":" Paysage","lang":"fr"}}
+                    ,{"text1":{"text":"Yet ","lang":"en"},"text2":{"text":" Pourtant","lang":"fr"}}
+                    ,{"text1":{"text":"Inherited ","lang":"en"},"text2":{"text":" Hérité de","lang":"fr"}}
+                    ,{"text1":{"text":"to Last ","lang":"en"},"text2":{"text":" Durer","lang":"fr"}}
+                    ,{"text1":{"text":"Be cut of ","lang":"en"},"text2":{"text":" Être couper de","lang":"fr"}}
+                    ,{"text1":{"text":"Root ","lang":"en"},"text2":{"text":" Racine","lang":"en"}}
+                    ,{"text1":{"text":"To life ","lang":"en"},"text2":{"text":" À la vie","lang":"fr"}}
+                    ,{"text1":{"text":"Custom ","lang":"en"},"text2":{"text":" Coutume","lang":"fr"}}
+                    ,{"text1":{"text":"Surrounded ","lang":"en"},"text2":{"text":" Entouré de","lang":"fr"}}
+                    ,{"text1":{"text":"Outgoing ","lang":"en"},"text2":{"text":" Sociable","lang":"en"}}
+                    ,{"text1":{"text":"Outspoken ","lang":"en"},"text2":{"text":" Franc / Spontané","lang":"fr"}}
+                    ,{"text1":{"text":"Encounter ","lang":"en"},"text2":{"text":" Rencontrer","lang":"fr"}}
+                    ,{"text1":{"text":"Reassurded ","lang":"en"},"text2":{"text":" Rassuré","lang":"fr"}}
+                    ,{"text1":{"text":"Enriching ","lang":"en"},"text2":{"text":" Enrichissant","lang":"fr"}}
+                    ,{"text1":{"text":"Relying ","lang":"en"},"text2":{"text":" Compter sur","lang":"fr"}}
+                    ,{"text1":{"text":"To cope by ","lang":"en"},"text2":{"text":" Faire face à","lang":"fr"}}
+                    ,{"text1":{"text":"Shift ","lang":"en"},"text2":{"text":" Roulement (ex taff matin puis soir)","lang":"fr"}}
+                    ,{"text1":{"text":"Adulthood ","lang":"en"},"text2":{"text":" L’âge adulte","lang":"fr"}}
+                    ,{"text1":{"text":"Neighborhood ","lang":"en"},"text2":{"text":" Voisinage","lang":"fr"}}
+                    ,{"text1":{"text":"Childhood ","lang":"en"},"text2":{"text":" Enfance","lang":"fr"}}
+                    ,{"text1":{"text":"Incredible ","lang":"en"},"text2":{"text":" Incroyable","lang":"fr"}}
+                    ,{"text1":{"text":"Giant ","lang":"en"},"text2":{"text":" Géant","lang":"fr"}}
+                    ,{"text1":{"text":"To part ","lang":"en"},"text2":{"text":" Être séparé","lang":"fr"}}
+                    ,{"text1":{"text":"Scattered in ","lang":"en"},"text2":{"text":" Éparpiller","lang":"fr"}}
+                    ,{"text1":{"text":"Schooling fees ","lang":"en"},"text2":{"text":" Frai de scolarité","lang":"fr"}}
+                    ,{"text1":{"text":"A mark ","lang":"en"},"text2":{"text":" Un repaire","lang":"fr"}}
+                    ,{"text1":{"text":"Nest ","lang":"en"},"text2":{"text":" Nid","lang":"cy"}}
+                    ,{"text1":{"text":"Cosy ","lang":"en"},"text2":{"text":" Qqlch de relaxant","lang":"fr"}}
+                    ,{"text1":{"text":"A motto ","lang":"en"},"text2":{"text":" Un proverbe/devise","lang":"fr"}}
+                    ,{"text1":{"text":"Skyscrapers ","lang":"en"},"text2":{"text":" Building","lang":"en"}}
+                    ,{"text1":{"text":"A beehive ","lang":"en"},"text2":{"text":" Ruche d’abeille","lang":"fr"}}
+                    ,{"text1":{"text":"An anthill ","lang":"en"},"text2":{"text":" Fourmilière","lang":"fr"}}
+                    ,{"text1":{"text":"A restless place ","lang":"en"},"text2":{"text":" Un lieu actif","lang":"fr"}}
+                    ,{"text1":{"text":"A commotion ","lang":"en"},"text2":{"text":" Noise + Agitation","lang":"en"}}
+                    ,{"text1":{"text":"Pace ","lang":"en"},"text2":{"text":" Rythme","lang":"fr"}}
+                    ,{"text1":{"text":"Bearings ","lang":"en"},"text2":{"text":" Prendre ses marques","lang":"fr"}}
+                    ,{"text1":{"text":"A load ","lang":"en"},"text2":{"text":" Une charge (fictive)","lang":"fr"}}
+                    ,{"text1":{"text":"A grocery shopping ","lang":"en"},"text2":{"text":" Faire ses courses (food)","lang":"fr"}}
+                    ,{"text1":{"text":"Running errands ","lang":"en"},"text2":{"text":" Faire ses courses","lang":"fr"}}
+                    ,{"text1":{"text":"Within ","lang":"en"},"text2":{"text":" Au sein de","lang":"fr"}}
+                    ,{"text1":{"text":"The rent ","lang":"en"},"text2":{"text":" Le loyer","lang":"fr"}}
+                    ,{"text1":{"text":"Invoices ","lang":"en"},"text2":{"text":" Factures","lang":"fr"}}
+                    ,{"text1":{"text":"Living space ","lang":"en"},"text2":{"text":" Escape vital","lang":"en"}}
+                    ,{"text1":{"text":"Tight / Tiny ","lang":"en"},"text2":{"text":" Petit","lang":"fr"}}
+                    ,{"text1":{"text":"Newly ","lang":"en"},"text2":{"text":" Nouvellement","lang":"fr"}}
+                    ,{"text1":{"text":"Furniture ","lang":"en"},"text2":{"text":" Meuble","lang":"fr"}}
+                    ,{"text1":{"text":"Dedicated / Devoted to ","lang":"en"},"text2":{"text":" Dédié à","lang":"fr"}}
+                    ,{"text1":{"text":"Fluency ","lang":"en"},"text2":{"text":" Savoir parler couramment une langue","lang":"fr"}}
+                    ,{"text1":{"text":"Availability ","lang":"en"},"text2":{"text":" Disponibilité","lang":"fr"}}
+                    ,{"text1":{"text":"Involvement ","lang":"en"},"text2":{"text":" Implication","lang":"en"}}
 
-			{
-				"nom": " 7e - CV",
-				"words": [
-					{
-						"fr": "Substantial ",
-						"al": " Bonne qualité"
-					},
-					{
-						"fr": "To fold ",
-						"al": " Plier"
-					},
-					{
-						"fr": "Creased ",
-						"al": " Froissé"
-					},
-					{
-						"fr": "Sensible ",
-						"al": " Censé"
-					},
-					{
-						"fr": "Ahead ",
-						"al": " A l'avance"
-					},
-					{
-						"fr": "To cope ",
-						"al": " Surmonter / Faire face à"
-					},
-					{
-						"fr": "Reliable ",
-						"al": " Fiable"
-					},
-					{
-						"fr": "To mind up ",
-						"al": " Se décider"
-					},
-					{
-						"fr": "Proficiency ",
-						"al": " La maîtrise"
-					},
-					{
-						"fr": "Be provided ",
-						"al": " Etre fourni"
-					},
-					{
-						"fr": "Training ",
-						"al": " Formation"
-					},
-					{
-						"fr": "Proficient ",
-						"al": " Compétent"
-					},
-					{
-						"fr": "An excellent command of ",
-						"al": " Maîtrise de "
-					},
-					{
-						"fr": "A goos working knowledge of ",
-						"al": " Connaissance pratique de"
-					}
-				]
-			},
-			{
-				"nom": " 8a - Cover letter",
-				"words": [
-					{
-						"fr": "Rely (V) / Reliability (N) / Reliable (A) ",
-						"al": " Fiable"
-					},
-					{
-						"fr": "Simple past ",
-						"al": " Prétérit"
-					},
-					{
-						"fr": "To withdraw ",
-						"al": " Retirer"
-					},
-					{
-						"fr": "To found ",
-						"al": " Créer"
-					},
-					{
-						"fr": "Ago ",
-						"al": " Il y a (temporelle)"
-					},
-					{
-						"fr": "To owe ",
-						"al": " Devoir (V)"
-					},
-					{
-						"fr": "To sack ",
-						"al": " Virer"
-					},
-					{
-						"fr": "The race ",
-						"al": " La course"
-					},
-					{
-						"fr": "Burglars ",
-						"al": " Cambrioleurs"
-					},
-					{
-						"fr": "Thief ",
-						"al": " Voleur"
-					},
-					{
-						"fr": "To award ",
-						"al": " Attribuer"
-					},
-					{
-						"fr": "To complete ",
-						"al": " Achever/Terminer"
-					},
-					{
-						"fr": "To hold ",
-						"al": " Tenir"
-					},
-					{
-						"fr": "To deal ",
-						"al": " Traiter"
-					},
-					{
-						"fr": "Trade ",
-						"al": " Commerce"
-					},
-					{
-						"fr": "Embroidery ",
-						"al": " Broderie"
-					},
-					{
-						"fr": "Supplier ",
-						"al": " Fournisseur"
-					}
-				]
-			},
-			{
-				"nom": " 8b - Cover letter",
-				"words": [
-					{
-						"fr": "The waiter ",
-						"al": " Le serveur"
-					},
-					{
-						"fr": "The tube ",
-						"al": " Le métro"
-					},
-					{
-						"fr": "Independence ",
-						"al": " Autonomie"
-					},
-					{
-						"fr": "Interpersonal skills ",
-						"al": " Interaction"
-					},
-					{
-						"fr": "Self-awareness ",
-						"al": " Conscience de soi même"
-					},
-					{
-						"fr": "Analytical ",
-						"al": " Analytique"
-					},
-					{
-						"fr": "Self-confidence ",
-						"al": " Confiance en soi"
-					},
-					{
-						"fr": "Data ",
-						"al": " Données"
-					},
-					{
-						"fr": "Effective ",
-						"al": " Efficace"
-					},
-					{
-						"fr": "Effectively ",
-						"al": " Efficacement"
-					},
-					{
-						"fr": "To conduct ",
-						"al": " Mener"
-					},
-					{
-						"fr": "A survey ",
-						"al": " Une étude"
-					},
-					{
-						"fr": "To chair ",
-						"al": " Présider"
-					},
-					{
-						"fr": "To delegate ",
-						"al": " Déléguer"
-					},
-					{
-						"fr": "Implement ",
-						"al": " Mettre en place"
-					},
-					{
-						"fr": "To meet ",
-						"al": " Respecter"
-					},
-					{
-						"fr": "To support ",
-						"al": " Soutenir"
-					},
-					{
-						"fr": "A belief ",
-						"al": " Une croyance"
-					},
-					{
-						"fr": "Ahead ",
-						"al": " Anticiper"
-					},
-					{
-						"fr": "To spot ",
-						"al": " Repérer "
-					},
-					{
-						"fr": "Sustained ",
-						"al": " Durable"
-					},
-					{
-						"fr": "It ",
-						"al": " Informatique"
-					},
-					{
-						"fr": "Reliability ",
-						"al": " De confiance"
-					},
-					{
-						"fr": "Overseas ",
-						"al": " L'outre-mer"
-					}
-				]
-			}
-		]
-	}
+                ]
+            },
+
+
+            {
+                "nom": " 4 - CV - Educations",
+                "words": [ {"text1":{"text":"Academic standards ","lang":"en"},"text2":{"text":" Niveau d'études","lang":"fr"}}
+                    ,{"text1":{"text":"Academic year ","lang":"en"},"text2":{"text":" Année scolaire","lang":"fr"}}
+                    ,{"text1":{"text":"Achieve high academic standards ","lang":"en"},"text2":{"text":" Avoir un niveau d'étude élevé","lang":"fr"}}
+                    ,{"text1":{"text":"Acquire knowledge ","lang":"en"},"text2":{"text":" Acquérir des connaissances","lang":"fr"}}
+                    ,{"text1":{"text":"adulte literacy ","lang":"en"},"text2":{"text":" Alphabétisation","lang":"fr"}}
+                    ,{"text1":{"text":"A failure ","lang":"en"},"text2":{"text":" Un echec","lang":"fr"}}
+                    ,{"text1":{"text":"Attend school ","lang":"en"},"text2":{"text":" Fréquenter l'école","lang":"fr"}}
+                    ,{"text1":{"text":"Basic skills ","lang":"en"},"text2":{"text":" Matières fondamentales","lang":"fr"}}
+                    ,{"text1":{"text":"Be a low achiever ","lang":"en"},"text2":{"text":" Etre en situation d'échec scolaire","lang":"fr"}}
+                    ,{"text1":{"text":"Be self educated ","lang":"en"},"text2":{"text":" Etre autodidacte","lang":"fr"}}
+                    ,{"text1":{"text":"Bridge / Close a gap ","lang":"en"},"text2":{"text":" Combler un fossé","lang":"fr"}}
+                    ,{"text1":{"text":"Compulsory / Mandatory education ","lang":"en"},"text2":{"text":" Education obligatoire","lang":"fr"}}
+                    ,{"text1":{"text":"Developing country ","lang":"en"},"text2":{"text":" Pays en voie de développement","lang":"fr"}}
+                    ,{"text1":{"text":"Drop out ouf school ","lang":"en"},"text2":{"text":" Abandonner ses études","lang":"fr"}}
+                    ,{"text1":{"text":"Equal opportunities ","lang":"en"},"text2":{"text":" Egalité des chances","lang":"fr"}}
+                    ,{"text1":{"text":"Fail an exam ","lang":"en"},"text2":{"text":" Echouer un examen","lang":"fr"}}
+                    ,{"text1":{"text":"Fall behind ","lang":"en"},"text2":{"text":" Prendre du retard (sur)","lang":"fr"}}
+                    ,{"text1":{"text":"Further education ","lang":"en"},"text2":{"text":" Enseignement supérieur","lang":"fr"}}
+                    ,{"text1":{"text":"Go to night school ","lang":"en"},"text2":{"text":" Suivre des cours du soir","lang":"fr"}}
+                    ,{"text1":{"text":"Graduate ","lang":"en"},"text2":{"text":" Diplôme / Obtenir un diplôme","lang":"fr"}}
+                    ,{"text1":{"text":"Have a solid grounding ","lang":"en"},"text2":{"text":" Avoir de solides connaissances","lang":"fr"}}
+                    ,{"text1":{"text":"Have high expectations ","lang":"en"},"text2":{"text":" Avoir de grandes ambitions","lang":"fr"}}
+                    ,{"text1":{"text":"Learned ","lang":"en"},"text2":{"text":" Erudit","lang":"es"}}
+                    ,{"text1":{"text":"Lecture ","lang":"en"},"text2":{"text":" Cours (conférence)","lang":"fr"}}
+                    ,{"text1":{"text":"Pass an exam ","lang":"en"},"text2":{"text":" Réussir un examen","lang":"fr"}}
+                    ,{"text1":{"text":"Pay fees ","lang":"en"},"text2":{"text":" Payer les frai de scolarité","lang":"fr"}}
+                    ,{"text1":{"text":"Raise standards ","lang":"en"},"text2":{"text":" Elever les critères de séléction","lang":"fr"}}
+                    ,{"text1":{"text":"Raise the educational level ","lang":"en"},"text2":{"text":" Elever le niveau d'éducation","lang":"fr"}}
+                    ,{"text1":{"text":"Scolarship / Grant ","lang":"en"},"text2":{"text":" Bourse","lang":"fr"}}
+                    ,{"text1":{"text":"Skill / Qualification ","lang":"en"},"text2":{"text":" Compétences","lang":"fr"}}
+                    ,{"text1":{"text":"Suitable ","lang":"en"},"text2":{"text":" Qui convient","lang":"fr"}}
+                    ,{"text1":{"text":"Take an exam ","lang":"en"},"text2":{"text":" Passer un examen","lang":"fr"}}
+                    ,{"text1":{"text":"Take up a career ","lang":"en"},"text2":{"text":" Embrasser une carrière","lang":"fr"}}
+                    ,{"text1":{"text":"Thirst for knowledge ","lang":"en"},"text2":{"text":" Soif de connaisances","lang":"fr"}}
+                    ,{"text1":{"text":"Train ","lang":"en"},"text2":{"text":" Suivre / Donner une formation","lang":"fr"}}
+                    ,{"text1":{"text":"Training scheme ","lang":"en"},"text2":{"text":" Stage de formation","lang":"fr"}}
+                    ,{"text1":{"text":"Transmit values ","lang":"en"},"text2":{"text":" Transmettre des valeurs","lang":"fr"}}
+                    ,{"text1":{"text":"Vocational training ","lang":"en"},"text2":{"text":" Formation professionnelle","lang":"fr"}}
+                    ,{"text1":{"text":"Win a scolarship ","lang":"en"},"text2":{"text":" Obtenir une bourse","lang":"fr"}}
+                    ,{"text1":{"text":"Youth training scheme ","lang":"en"},"text2":{"text":" Formation des jeunes","lang":"fr"}}
+                    ,{"text1":{"text":"Cornerstones ","lang":"en"},"text2":{"text":" Pilliers","lang":"lb"}}
+                    ,{"text1":{"text":"Provided ","lang":"en"},"text2":{"text":" Fourni par","lang":"fr"}}
+                    ,{"text1":{"text":"Curricula ","lang":"en"},"text2":{"text":" Cursus","lang":"nl"}}
+                    ,{"text1":{"text":"Diploma ","lang":"en"},"text2":{"text":" Diplôme papier","lang":"fr"}}
+                    ,{"text1":{"text":"Sets of courses ","lang":"en"},"text2":{"text":" Ensemble de cours","lang":"fr"}}
+                    ,{"text1":{"text":"Undergraduate ","lang":"en"},"text2":{"text":" Pas encore diplômé","lang":"fr"}}
+                    ,{"text1":{"text":"Complete ","lang":"en"},"text2":{"text":" Achever","lang":"fr"}}
+                    ,{"text1":{"text":"Teaching ","lang":"en"},"text2":{"text":" Enseignement","lang":"fr"}}
+                    ,{"text1":{"text":"Lectures ","lang":"en"},"text2":{"text":" Conférences","lang":"fr"}}
+                    ,{"text1":{"text":"Art subject ","lang":"en"},"text2":{"text":" Matière littéraire","lang":"fr"}}
+                    ,{"text1":{"text":"Library ","lang":"en"},"text2":{"text":" Bibliothèque","lang":"fr"}}
+
+                ]
+            },
+
+
+            {
+                "nom": " 4 - CV - Jobs",
+                "words": [ {"text1":{"text":"A doctor / A physician / A practitioner ","lang":"en"},"text2":{"text":" Un docteur / Un médecin","lang":"fr"}}
+                    ,{"text1":{"text":"A surgeon ","lang":"en"},"text2":{"text":" Un chirurgien","lang":"fr"}}
+                    ,{"text1":{"text":"A physiotherapist ","lang":"en"},"text2":{"text":" Un kinésithérapeute","lang":"fr"}}
+                    ,{"text1":{"text":"An anaesthetist ","lang":"en"},"text2":{"text":" Un anesthésiologiste","lang":"fr"}}
+                    ,{"text1":{"text":"A cancer therapist ","lang":"en"},"text2":{"text":" Cancérologue","lang":"fr"}}
+                    ,{"text1":{"text":"A respiratory therapist ","lang":"en"},"text2":{"text":" Pneumologue","lang":"fr"}}
+                    ,{"text1":{"text":"A nurse ","lang":"en"},"text2":{"text":" Une infirmière","lang":"fr"}}
+                    ,{"text1":{"text":"A radiologist ","lang":"en"},"text2":{"text":" Un radiologue","lang":"fr"}}
+                    ,{"text1":{"text":"A psychiatric therapist ","lang":"en"},"text2":{"text":" Un thérapeute psychiatrique","lang":"fr"}}
+                    ,{"text1":{"text":"A dentist ","lang":"en"},"text2":{"text":" Un dentist","lang":"ro"}}
+                    ,{"text1":{"text":"A pharmacist / A chemist ","lang":"en"},"text2":{"text":" Un pharmacien","lang":"fr"}}
+                    ,{"text1":{"text":"A vetenarian ","lang":"es"},"text2":{"text":" Un vétérinaire","lang":"fr"}}
+                    ,{"text1":{"text":"A forensic doctor ","lang":"en"},"text2":{"text":" Un médecin légiste","lang":"fr"}}
+                    ,{"text1":{"text":"An engineer ","lang":"en"},"text2":{"text":" Un ingénieur","lang":"fr"}}
+                    ,{"text1":{"text":"A bank manager ","lang":"en"},"text2":{"text":" Un directeur de banque","lang":"fr"}}
+                    ,{"text1":{"text":"An economist ","lang":"en"},"text2":{"text":" Un économiste","lang":"fr"}}
+                    ,{"text1":{"text":"A trader ","lang":"en"},"text2":{"text":" Une personne qui achète et vend des actions","lang":"fr"}}
+                    ,{"text1":{"text":"A journalist ","lang":"en"},"text2":{"text":" Un journalist","lang":"fr"}}
+                    ,{"text1":{"text":"A lawyer / A solicitor / An attorney ","lang":"en"},"text2":{"text":" Un avocat","lang":"fr"}}
+                    ,{"text1":{"text":"A judge / A magistrate ","lang":"en"},"text2":{"text":" Un juge","lang":"fr"}}
+                    ,{"text1":{"text":"A prosecutor ","lang":"en"},"text2":{"text":" Un procureur","lang":"fr"}}
+                    ,{"text1":{"text":"A notary ","lang":"en"},"text2":{"text":" Un notaire","lang":"fr"}}
+                    ,{"text1":{"text":"A count bailiff ","lang":"en"},"text2":{"text":" Un huissier","lang":"fr"}}
+                    ,{"text1":{"text":"An architect (ch = k) ","lang":"en"},"text2":{"text":" Un architecte","lang":"fr"}}
+                    ,{"text1":{"text":"A home/space designer ","lang":"en"},"text2":{"text":" Un décorateur d’intérieur","lang":"fr"}}
+                    ,{"text1":{"text":"A real estate agent ","lang":"en"},"text2":{"text":" Un agent immobilier","lang":"fr"}}
+                    ,{"text1":{"text":"A psychologist ","lang":"en"},"text2":{"text":" Un psychologue","lang":"fr"}}
+                    ,{"text1":{"text":"A mental health consellor ","lang":"en"},"text2":{"text":" Un conseiller en santé mentale","lang":"fr"}}
+                    ,{"text1":{"text":"An educator ","lang":"en"},"text2":{"text":" Un éducateur","lang":"fr"}}
+                    ,{"text1":{"text":"An addiction therapist ","lang":"en"},"text2":{"text":" Un thérapeute en toxicomanie","lang":"fr"}}
+                    ,{"text1":{"text":"A computer scientist ","lang":"en"},"text2":{"text":" Un informaticien","lang":"fr"}}
+                    ,{"text1":{"text":"A software developer ","lang":"en"},"text2":{"text":" Un développeur de logiciels","lang":"fr"}}
+                    ,{"text1":{"text":"A web/game designer ","lang":"en"},"text2":{"text":" Un web/game designer","lang":"it"}}
+                    ,{"text1":{"text":"A businessman/woman ","lang":"en"},"text2":{"text":" Un homme/Une femme d’affaire","lang":"fr"}}
+                    ,{"text1":{"text":"A CEO (Chief Executive Officer) ","lang":"en"},"text2":{"text":" Un PDG (Président Directeur Général)","lang":"fr"}}
+                    ,{"text1":{"text":"An entrepreneur ","lang":"en"},"text2":{"text":" Un entrepreneur","lang":"fr"}}
+                    ,{"text1":{"text":"A human resource manager ","lang":"en"},"text2":{"text":" Un gestionnaire des ressources humaines","lang":"fr"}}
+                    ,{"text1":{"text":"A salesman/ A saleswoman ","lang":"en"},"text2":{"text":" Un vendeur / Une vendeuse","lang":"fr"}}
+                    ,{"text1":{"text":"A financial advisor ","lang":"en"},"text2":{"text":" Un conseiller financier","lang":"fr"}}
+                    ,{"text1":{"text":"An accountant ","lang":"en"},"text2":{"text":" Un comptable","lang":"fr"}}
+
+                ]
+            },
+
+
+            {
+                "nom": " 4 - CV - Work (A)",
+                "words": [ {"text1":{"text":"A manager / The company head / The chairman / Chief Executive Officer / Managing director ","lang":"en"},"text2":{"text":" Patron / Directeur","lang":"fr"}}
+                    ,{"text1":{"text":"(Tho have/To hold ) A job / A position / A post / An occupation / An employment ","lang":"en"},"text2":{"text":" (Avoir) Un travail","lang":"fr"}}
+                    ,{"text1":{"text":"To apply for a job ","lang":"en"},"text2":{"text":" Postuler pour un travail","lang":"fr"}}
+                    ,{"text1":{"text":"To apply to a company ","lang":"en"},"text2":{"text":" Postuler à une entreprise","lang":"fr"}}
+                    ,{"text1":{"text":"To hire / To taken on ","lang":"en"},"text2":{"text":" Engager","lang":"fr"}}
+                    ,{"text1":{"text":"To fire / To sack ","lang":"en"},"text2":{"text":" Virer","lang":"fr"}}
+                    ,{"text1":{"text":"To dismiss ","lang":"en"},"text2":{"text":" Renvoyer","lang":"fr"}}
+                    ,{"text1":{"text":"Jobless / Unemployed / On the dole ","lang":"en"},"text2":{"text":" Chômage","lang":"fr"}}
+                    ,{"text1":{"text":"An odd job ","lang":"en"},"text2":{"text":" Petit boulot","lang":"fr"}}
+                    ,{"text1":{"text":"A temp(orary) job ","lang":"en"},"text2":{"text":" Un travail en intérim","lang":"fr"}}
+                    ,{"text1":{"text":"Employer ","lang":"en"},"text2":{"text":" Employeur","lang":"fr"}}
+                    ,{"text1":{"text":"Job seeker ","lang":"en"},"text2":{"text":" Chercheur d'emploi","lang":"fr"}}
+                    ,{"text1":{"text":"Applicant ","lang":"en"},"text2":{"text":" Candidat","lang":"fr"}}
+                    ,{"text1":{"text":"Recruiter ","lang":"en"},"text2":{"text":" Recruteur","lang":"fr"}}
+                    ,{"text1":{"text":"Consultant ","lang":"en"},"text2":{"text":" Conseiller","lang":"fr"}}
+                    ,{"text1":{"text":"Career ","lang":"en"},"text2":{"text":" Carrière","lang":"fr"}}
+                    ,{"text1":{"text":"Notice ","lang":"en"},"text2":{"text":" Préavis / Démission","lang":"fr"}}
+                    ,{"text1":{"text":"A living ","lang":"en"},"text2":{"text":" Dans la vie","lang":"fr"}}
+                    ,{"text1":{"text":"Staff ","lang":"en"},"text2":{"text":" Personnel","lang":"en"}}
+                    ,{"text1":{"text":"To hand smth ","lang":"en"},"text2":{"text":" Remettre (en main propre)","lang":"fr"}}
+                    ,{"text1":{"text":"Ouf of reach ","lang":"en"},"text2":{"text":" Hors de portée","lang":"fr"}}
+                    ,{"text1":{"text":"Reachable ","lang":"en"},"text2":{"text":" Atteignable","lang":"fr"}}
+                    ,{"text1":{"text":"A job ","lang":"en"},"text2":{"text":" Un travail (professionnel)","lang":"fr"}}
+                    ,{"text1":{"text":"A work ","lang":"en"},"text2":{"text":" Un travail (scolaire)","lang":"fr"}}
+                    ,{"text1":{"text":"For a living ","lang":"en"},"text2":{"text":" Dans la vie","lang":"fr"}}
+                    ,{"text1":{"text":"To look / To seek for a job ","lang":"en"},"text2":{"text":" Chercher du travail","lang":"fr"}}
+                    ,{"text1":{"text":"To earn a living ","lang":"en"},"text2":{"text":" Gagner sa vie","lang":"fr"}}
+                    ,{"text1":{"text":"To graduate ","lang":"en"},"text2":{"text":" Terminer ses études / Etre diplomé de","lang":"fr"}}
+                    ,{"text1":{"text":"Team spirit ","lang":"en"},"text2":{"text":" Esprit d'équipe","lang":"fr"}}
+                    ,{"text1":{"text":"Schedule / Time schedule / Timetable ","lang":"en"},"text2":{"text":" Emploi du temps","lang":"fr"}}
+                    ,{"text1":{"text":"To lead / To manage / To head ","lang":"en"},"text2":{"text":" Diriger","lang":"fr"}}
+                    ,{"text1":{"text":"Motivated / Dedicated / Devoded / Involved ","lang":"en"},"text2":{"text":" Motivé","lang":"fr"}}
+                    ,{"text1":{"text":"Motivation / Dedication / Devotion / Involvement ","lang":"en"},"text2":{"text":" Motivation","lang":"en"}}
+                    ,{"text1":{"text":"Firm / Business / Company ","lang":"en"},"text2":{"text":" Entreprise","lang":"fr"}}
+                    ,{"text1":{"text":"Achieve / Reach a goal / an aim / A purpose ","lang":"en"},"text2":{"text":" Atteindre un but","lang":"fr"}}
+                    ,{"text1":{"text":"Training ","lang":"en"},"text2":{"text":" Formation","lang":"en"}}
+                    ,{"text1":{"text":"Application ","lang":"en"},"text2":{"text":" Candidature","lang":"en"}}
+                    ,{"text1":{"text":"Academic ","lang":"en"},"text2":{"text":" Universitaire ","lang":"fr"}}
+
+                ]
+            },
+
+
+            {
+                "nom": " 4 - CV - Work (B)",
+                "words": [ {"text1":{"text":"Former ","lang":"en"},"text2":{"text":" Ancien / ex","lang":"fr"}}
+                    ,{"text1":{"text":"Compulsory / Mandatory ","lang":"en"},"text2":{"text":" Obligatoire","lang":"fr"}}
+                    ,{"text1":{"text":"To attend ","lang":"en"},"text2":{"text":" Fréquenter","lang":"fr"}}
+                    ,{"text1":{"text":"Demand ","lang":"en"},"text2":{"text":" Exigeance","lang":"fr"}}
+                    ,{"text1":{"text":"To demand ","lang":"en"},"text2":{"text":" Exiger","lang":"fr"}}
+                    ,{"text1":{"text":"To deal with ","lang":"en"},"text2":{"text":" Etre en contact avec","lang":"fr"}}
+                    ,{"text1":{"text":"Joindre ","lang":"fr"},"text2":{"text":" To enclore","lang":"en"}}
+                    ,{"text1":{"text":"Correspondre ","lang":"fr"},"text2":{"text":" To fit","lang":"en"}}
+                    ,{"text1":{"text":"To carry out ","lang":"en"},"text2":{"text":" Mener / Accomplir","lang":"fr"}}
+                    ,{"text1":{"text":"To commute ","lang":"en"},"text2":{"text":" Prendre les transports en commun","lang":"fr"}}
+                    ,{"text1":{"text":"To hold ","lang":"en"},"text2":{"text":" Avoir / Tenir / Détenir","lang":"fr"}}
+                    ,{"text1":{"text":"A stay ","lang":"en"},"text2":{"text":" Un séjour","lang":"fr"}}
+                    ,{"text1":{"text":"An application letter / A cover letter ","lang":"en"},"text2":{"text":" Une lettre de candidature","lang":"fr"}}
+                    ,{"text1":{"text":"A trainee ","lang":"en"},"text2":{"text":" Un stagiaire","lang":"fr"}}
+                    ,{"text1":{"text":"A CV (GB) / A résumé (US) ","lang":"fr"},"text2":{"text":" CV","lang":"en"}}
+                    ,{"text1":{"text":"An income / The earning / A salary ","lang":"en"},"text2":{"text":" Un salaire","lang":"fr"}}
+                    ,{"text1":{"text":"A job interview ","lang":"en"},"text2":{"text":" Un entretien d'embauche","lang":"fr"}}
+                    ,{"text1":{"text":"A work placement / A work experience / An internship / A training period ","lang":"en"},"text2":{"text":" Un stage","lang":"fr"}}
+                    ,{"text1":{"text":"To show-off / To boast ","lang":"en"},"text2":{"text":" Vantard","lang":"fr"}}
+                    ,{"text1":{"text":"Boastful ","lang":"en"},"text2":{"text":" Qql qui se vante","lang":"fr"}}
+                    ,{"text1":{"text":"It deals with / It tackles ","lang":"en"},"text2":{"text":" Il traite de / Il s’attaque à","lang":"fr"}}
+                    ,{"text1":{"text":"Setting ","lang":"en"},"text2":{"text":" Cadre / Décor","lang":"fr"}}
+                    ,{"text1":{"text":"An office ","lang":"en"},"text2":{"text":" Un bureau (pièce)","lang":"fr"}}
+                    ,{"text1":{"text":"Status ","lang":"en"},"text2":{"text":" Statut","lang":"fr"}}
+                    ,{"text1":{"text":"Desk ","lang":"en"},"text2":{"text":" Bureau","lang":"en"}}
+                    ,{"text1":{"text":"Undergoing ","lang":"en"},"text2":{"text":" Subir","lang":"pt"}}
+                    ,{"text1":{"text":"At ease ","lang":"en"},"text2":{"text":" À l’aise","lang":"fr"}}
+                    ,{"text1":{"text":"Doubtful ","lang":"en"},"text2":{"text":" Qql qui doute","lang":"fr"}}
+                    ,{"text1":{"text":"Puzzled ","lang":"en"},"text2":{"text":" Perplexe","lang":"fr"}}
+                    ,{"text1":{"text":"Staring ","lang":"en"},"text2":{"text":" Regardant fixement","lang":"fr"}}
+                    ,{"text1":{"text":"Frowning ","lang":"en"},"text2":{"text":" Qql qui fronce les sourcils","lang":"fr"}}
+                    ,{"text1":{"text":"Misleading ","lang":"en"},"text2":{"text":" Trompeur","lang":"fr"}}
+                    ,{"text1":{"text":"Stand out ","lang":"en"},"text2":{"text":" se démarquer","lang":"fr"}}
+                    ,{"text1":{"text":"Overseas ","lang":"en"},"text2":{"text":" International","lang":"en"}}
+                    ,{"text1":{"text":"In the field ","lang":"en"},"text2":{"text":" Dans le domaine","lang":"fr"}}
+                    ,{"text1":{"text":"To grow ","lang":"en"},"text2":{"text":" Se développer","lang":"fr"}}
+                    ,{"text1":{"text":"Enhance ","lang":"en"},"text2":{"text":" Améliorer","lang":"fr"}}
+                    ,{"text1":{"text":"Giving classes ","lang":"en"},"text2":{"text":" Donner des cours","lang":"fr"}}
+                    ,{"text1":{"text":"Cities ","lang":"en"},"text2":{"text":" Villes","lang":"fr"}}
+                    ,{"text1":{"text":"Countries ","lang":"en"},"text2":{"text":" Pays","lang":"en"}}
+                    ,{"text1":{"text":"Highly regarded ","lang":"en"},"text2":{"text":" Hautement estimé","lang":"fr"}}
+                    ,{"text1":{"text":"Well regarded ","lang":"en"},"text2":{"text":" Bien considéré","lang":"fr"}}
+                    ,{"text1":{"text":"Further ","lang":"en"},"text2":{"text":" Autre","lang":"fr"}}
+                    ,{"text1":{"text":"A highly skilled person ","lang":"en"},"text2":{"text":" Une personne très (/hautement) quanifiée","lang":"fr"}}
+
+                ]
+            },
+
+
+            {
+                "nom": " 4 - CV - CV (A)",
+                "words": [ {"text1":{"text":"Disguising ","lang":"en"},"text2":{"text":" Déguiser","lang":"fr"}}
+                    ,{"text1":{"text":"A spell in prision ","lang":"en"},"text2":{"text":" Un séjour en prison","lang":"fr"}}
+                    ,{"text1":{"text":"Hitch-hiking ","lang":"en"},"text2":{"text":" Randonné","lang":"fr"}}
+                    ,{"text1":{"text":"Spoil ","lang":"en"},"text2":{"text":" Gacher","lang":"en"}}
+                    ,{"text1":{"text":"Inflate ","lang":"en"},"text2":{"text":" Gonfler","lang":"fr"}}
+                    ,{"text1":{"text":"Claim ","lang":"en"},"text2":{"text":" Prétendre / Réclamation","lang":"fr"}}
+                    ,{"text1":{"text":"Short-sighted ","lang":"en"},"text2":{"text":" Myope / A court terme","lang":"fr"}}
+                    ,{"text1":{"text":"Wages ","lang":"en"},"text2":{"text":" Salaire","lang":"fr"}}
+                    ,{"text1":{"text":"Feet up ","lang":"en"},"text2":{"text":" Mettre les pieds dans le plat","lang":"fr"}}
+                    ,{"text1":{"text":"Telly ","lang":"en"},"text2":{"text":" Télé","lang":"fr"}}
+                    ,{"text1":{"text":"Accuracy ","lang":"en"},"text2":{"text":" Exactitude","lang":"en"}}
+                    ,{"text1":{"text":"Survey ","lang":"en"},"text2":{"text":" Etude","lang":"en"}}
+                    ,{"text1":{"text":"Academic ","lang":"en"},"text2":{"text":" Universitaire","lang":"fr"}}
+                    ,{"text1":{"text":"Achieve ","lang":"en"},"text2":{"text":" Réussir","lang":"fr"}}
+                    ,{"text1":{"text":"A couple of ","lang":"en"},"text2":{"text":" Quelques","lang":"fr"}}
+                    ,{"text1":{"text":"To stand out ","lang":"en"},"text2":{"text":" Se démarquer","lang":"fr"}}
+                    ,{"text1":{"text":"To multiply ","lang":"en"},"text2":{"text":" Multiplier","lang":"en"}}
+                    ,{"text1":{"text":"To divide ","lang":"en"},"text2":{"text":" Diviser","lang":"fr"}}
+                    ,{"text1":{"text":"To dubstract ","lang":"en"},"text2":{"text":" Soustraire","lang":"fr"}}
+                    ,{"text1":{"text":"To add ","lang":"en"},"text2":{"text":" Additionner","lang":"fr"}}
+                    ,{"text1":{"text":"Percentage ","lang":"en"},"text2":{"text":" Pourcentage (Percent)","lang":"fr"}}
+                    ,{"text1":{"text":"To be face with ","lang":"en"},"text2":{"text":" Etre confronté à","lang":"fr"}}
+                    ,{"text1":{"text":"Falsehoods ","lang":"en"},"text2":{"text":" Mensonges","lang":"fr"}}
+                    ,{"text1":{"text":"To state ","lang":"en"},"text2":{"text":" Déclarer","lang":"fr"}}
+                    ,{"text1":{"text":"Fully aware ","lang":"en"},"text2":{"text":" Pleinement conscient","lang":"fr"}}
+                    ,{"text1":{"text":"Can't be held liable for ","lang":"en"},"text2":{"text":" Ne pas être tenu responsable de (justice)","lang":"fr"}}
+                    ,{"text1":{"text":"Empty ","lang":"en"},"text2":{"text":" Vide","lang":"en"}}
+                    ,{"text1":{"text":"Spell of time ","lang":"en"},"text2":{"text":" Période de temps","lang":"fr"}}
+                    ,{"text1":{"text":"To jeopardize (To put at risk) ","lang":"en"},"text2":{"text":" Mettre en danger, en péril","lang":"fr"}}
+                    ,{"text1":{"text":"Would-be employer ","lang":"en"},"text2":{"text":" Potentiel employé","lang":"fr"}}
+                    ,{"text1":{"text":"Senseless ","lang":"en"},"text2":{"text":" Incensé","lang":"fr"}}
+                    ,{"text1":{"text":"Couch potatoes ","lang":"en"},"text2":{"text":" Glandouiller (expression)","lang":"en"}}
+                    ,{"text1":{"text":"To steers ","lang":"en"},"text2":{"text":" Diriger","lang":"fr"}}
+                    ,{"text1":{"text":"Relevant ","lang":"en"},"text2":{"text":" Pertinent","lang":"en"}}
+                    ,{"text1":{"text":"Odd jobs ","lang":"en"},"text2":{"text":" Petit boulot","lang":"fr"}}
+                    ,{"text1":{"text":"Extra-curricular ","lang":"en"},"text2":{"text":" Extra scolaire","lang":"fr"}}
+                    ,{"text1":{"text":"Enclose ","lang":"en"},"text2":{"text":" Joindre","lang":"fr"}}
+                    ,{"text1":{"text":"Snap ","lang":"en"},"text2":{"text":" Un cliché / Une photo","lang":"fr"}}
+                    ,{"text1":{"text":"Highlight ","lang":"en"},"text2":{"text":" Mettre en évidence","lang":"fr"}}
+                    ,{"text1":{"text":"To attend ","lang":"en"},"text2":{"text":" Fréquenter","lang":"fr"}}
+                    ,{"text1":{"text":"Former ","lang":"en"},"text2":{"text":" Ancien","lang":"fr"}}
+                    ,{"text1":{"text":"Punchy ","lang":"en"},"text2":{"text":" Combatif","lang":"fr"}}
+                    ,{"text1":{"text":"To the point ","lang":"en"},"text2":{"text":" Au point","lang":"fr"}}
+                    ,{"text1":{"text":"Targeted ","lang":"en"},"text2":{"text":" Ciblé","lang":"fr"}}
+                    ,{"text1":{"text":"Skills-based ","lang":"en"},"text2":{"text":" Basé sur les compétence","lang":"fr"}}
+
+                ]
+            },
+
+
+            {
+                "nom": " 4 - CV - CV (B)",
+                "words": [ {"text1":{"text":"Outgoing ","lang":"en"},"text2":{"text":" Sociable","lang":"en"}}
+                    ,{"text1":{"text":"Messy ","lang":"en"},"text2":{"text":" Désordonné","lang":"fr"}}
+                    ,{"text1":{"text":"Consistent ","lang":"en"},"text2":{"text":" Cohérent","lang":"fr"}}
+                    ,{"text1":{"text":"Inconsistent ","lang":"en"},"text2":{"text":" Incohérent","lang":"fr"}}
+                    ,{"text1":{"text":"Businesslike ","lang":"en"},"text2":{"text":" Professionnel","lang":"fr"}}
+                    ,{"text1":{"text":"Cramped ","lang":"en"},"text2":{"text":" Chargé","lang":"fr"}}
+                    ,{"text1":{"text":"Crowded ","lang":"en"},"text2":{"text":" Encombré","lang":"fr"}}
+                    ,{"text1":{"text":"Well-laid-out ","lang":"en"},"text2":{"text":" Bien aménagée","lang":"fr"}}
+                    ,{"text1":{"text":"Plain ","lang":"en"},"text2":{"text":" Simple","lang":"en"}}
+                    ,{"text1":{"text":"Accurate ","lang":"en"},"text2":{"text":" Précis","lang":"fr"}}
+                    ,{"text1":{"text":"Concise ","lang":"en"},"text2":{"text":" Concis (s'exprimer en peu de mot)","lang":"fr"}}
+                    ,{"text1":{"text":"Software ","lang":"en"},"text2":{"text":" Logiciel","lang":"fr"}}
+                    ,{"text1":{"text":"Barwork ","lang":"en"},"text2":{"text":" Au bar","lang":"fr"}}
+                    ,{"text1":{"text":"Cashing up ","lang":"en"},"text2":{"text":" Encaisser","lang":"fr"}}
+                    ,{"text1":{"text":"A wide veriety ","lang":"en"},"text2":{"text":" Une grande variété","lang":"fr"}}
+                    ,{"text1":{"text":"Booking ","lang":"en"},"text2":{"text":" Réservation","lang":"fr"}}
+                    ,{"text1":{"text":"Accounts Clerk ","lang":"en"},"text2":{"text":" Commis comptable","lang":"fr"}}
+                    ,{"text1":{"text":"Enquiries ","lang":"en"},"text2":{"text":" Demandes","lang":"fr"}}
+                    ,{"text1":{"text":"Fundraised ","lang":"en"},"text2":{"text":" Collecte de fonds","lang":"nl"}}
+                    ,{"text1":{"text":"Engangered ","lang":"da"},"text2":{"text":" En voie de disparition","lang":"fr"}}
+                    ,{"text1":{"text":"Eye-Catching ","lang":"en"},"text2":{"text":" Accrocheur","lang":"fr"}}
+                    ,{"text1":{"text":"Taught ","lang":"en"},"text2":{"text":" Enseigné à","lang":"fr"}}
+                    ,{"text1":{"text":"Current ","lang":"en"},"text2":{"text":" Actuel","lang":"fr"}}
+                    ,{"text1":{"text":"Upon request ","lang":"en"},"text2":{"text":" Sur demande","lang":"fr"}}
+                    ,{"text1":{"text":"Hence ","lang":"en"},"text2":{"text":" D'ou","lang":"fr"}}
+                    ,{"text1":{"text":"Assets ","lang":"en"},"text2":{"text":" Atoux","lang":"en"}}
+                    ,{"text1":{"text":"Wirdowed ","lang":"en"},"text2":{"text":" Veuve.f","lang":"fr"}}
+                    ,{"text1":{"text":"Student representative ","lang":"en"},"text2":{"text":" Délégué","lang":"fr"}}
+                    ,{"text1":{"text":"Volunteer ","lang":"en"},"text2":{"text":" Bénévol","lang":"lb"}}
+                    ,{"text1":{"text":"Relevant ","lang":"en"},"text2":{"text":" Pertinant","lang":"la"}}
+                    ,{"text1":{"text":"Accurate ","lang":"en"},"text2":{"text":" Précs","lang":"en"}}
+                    ,{"text1":{"text":"Spelling ","lang":"en"},"text2":{"text":" Orthographe","lang":"fr"}}
+                    ,{"text1":{"text":"The sweet spot ","lang":"en"},"text2":{"text":" Le point fort","lang":"fr"}}
+                    ,{"text1":{"text":"Bold ","lang":"en"},"text2":{"text":" Gras","lang":"en"}}
+                    ,{"text1":{"text":"Typefaces ","lang":"en"},"text2":{"text":" Typographie","lang":"fr"}}
+                    ,{"text1":{"text":"Headings ","lang":"en"},"text2":{"text":" Entête","lang":"fr"}}
+                    ,{"text1":{"text":"Stick ","lang":"en"},"text2":{"text":" Focaliser","lang":"fr"}}
+                    ,{"text1":{"text":"Sizes ","lang":"en"},"text2":{"text":" Police (ordi texte)","lang":"fr"}}
+                    ,{"text1":{"text":"Substantial ","lang":"en"},"text2":{"text":" Bonne qualité","lang":"fr"}}
+                    ,{"text1":{"text":"To fold ","lang":"en"},"text2":{"text":" Plier","lang":"fr"}}
+                    ,{"text1":{"text":"Creased ","lang":"en"},"text2":{"text":" Froissé","lang":"fr"}}
+                    ,{"text1":{"text":"Sensible ","lang":"en"},"text2":{"text":" Censé","lang":"fr"}}
+                    ,{"text1":{"text":"Ahead ","lang":"en"},"text2":{"text":" A l'avance","lang":"fr"}}
+                    ,{"text1":{"text":"To cope ","lang":"en"},"text2":{"text":" Surmonter / Faire face à","lang":"fr"}}
+                    ,{"text1":{"text":"Reliable ","lang":"en"},"text2":{"text":" Fiable","lang":"fr"}}
+                    ,{"text1":{"text":"To mind up ","lang":"en"},"text2":{"text":" Se décider","lang":"fr"}}
+                    ,{"text1":{"text":"Proficiency ","lang":"en"},"text2":{"text":" La maîtrise","lang":"fr"}}
+                    ,{"text1":{"text":"Be provided ","lang":"en"},"text2":{"text":" Etre fourni","lang":"fr"}}
+                    ,{"text1":{"text":"Training ","lang":"en"},"text2":{"text":" Formation","lang":"en"}}
+                    ,{"text1":{"text":"Proficient ","lang":"en"},"text2":{"text":" Compétent","lang":"fr"}}
+                    ,{"text1":{"text":"An excellent command of ","lang":"en"},"text2":{"text":" Maîtrise de","lang":"fr"}}
+                    ,{"text1":{"text":"A goos working knowledge of ","lang":"en"},"text2":{"text":" Connaissance pratique de","lang":"fr"}}
+
+                ]
+            },
+
+
+            {
+                "nom": " 5 - Application letter - Vrac (A)",
+                "words": [ {"text1":{"text":"Rely (V) / Reliability (N) / Reliable (A) ","lang":"en"},"text2":{"text":" Fiable","lang":"fr"}}
+                    ,{"text1":{"text":"Simple past ","lang":"en"},"text2":{"text":" Prétérit","lang":"fr"}}
+                    ,{"text1":{"text":"To withdraw ","lang":"en"},"text2":{"text":" Retirer","lang":"fr"}}
+                    ,{"text1":{"text":"To found ","lang":"en"},"text2":{"text":" Créer","lang":"fr"}}
+                    ,{"text1":{"text":"Ago ","lang":"en"},"text2":{"text":" Il y a (temporelle)","lang":"fr"}}
+                    ,{"text1":{"text":"To owe ","lang":"pl"},"text2":{"text":" Devoir (V)","lang":"fr"}}
+                    ,{"text1":{"text":"To sack ","lang":"en"},"text2":{"text":" Virer","lang":"fr"}}
+                    ,{"text1":{"text":"The race ","lang":"en"},"text2":{"text":" La course","lang":"fr"}}
+                    ,{"text1":{"text":"Burglars ","lang":"en"},"text2":{"text":" Cambrioleurs","lang":"fr"}}
+                    ,{"text1":{"text":"A bulgary ","lang":"en"},"text2":{"text":" Un cambriolage","lang":"fr"}}
+                    ,{"text1":{"text":"Thief ","lang":"en"},"text2":{"text":" Voleur","lang":"fr"}}
+                    ,{"text1":{"text":"A theft ","lang":"en"},"text2":{"text":" Un vol","lang":"ca"}}
+                    ,{"text1":{"text":"To award ","lang":"en"},"text2":{"text":" Attribuer","lang":"fr"}}
+                    ,{"text1":{"text":"To complete ","lang":"en"},"text2":{"text":" Achever/Terminer","lang":"fr"}}
+                    ,{"text1":{"text":"To hold ","lang":"en"},"text2":{"text":" Tenir","lang":"ca"}}
+                    ,{"text1":{"text":"To deal ","lang":"en"},"text2":{"text":" Traiter","lang":"fr"}}
+                    ,{"text1":{"text":"Trade ","lang":"en"},"text2":{"text":" Commerce","lang":"en"}}
+                    ,{"text1":{"text":"Embroidery ","lang":"en"},"text2":{"text":" Broderie","lang":"fr"}}
+                    ,{"text1":{"text":"Supplier ","lang":"en"},"text2":{"text":" Fournisseur","lang":"fr"}}
+                    ,{"text1":{"text":"The waiter ","lang":"en"},"text2":{"text":" Le serveur","lang":"fr"}}
+                    ,{"text1":{"text":"The tube ","lang":"en"},"text2":{"text":" Le métro","lang":"fr"}}
+                    ,{"text1":{"text":"Independence ","lang":"en"},"text2":{"text":" Autonomie","lang":"fr"}}
+                    ,{"text1":{"text":"Interpersonal skills ","lang":"en"},"text2":{"text":" Interaction","lang":"en"}}
+                    ,{"text1":{"text":"Self-awareness ","lang":"en"},"text2":{"text":" Conscience de soi même","lang":"fr"}}
+                    ,{"text1":{"text":"Analytical ","lang":"en"},"text2":{"text":" Analytique","lang":"fr"}}
+                    ,{"text1":{"text":"Self-confidence ","lang":"en"},"text2":{"text":" Confiance en soi","lang":"fr"}}
+                    ,{"text1":{"text":"Data ","lang":"en"},"text2":{"text":" Données","lang":"fr"}}
+                    ,{"text1":{"text":"Effective ","lang":"en"},"text2":{"text":" Efficace","lang":"fr"}}
+                    ,{"text1":{"text":"Effectively ","lang":"en"},"text2":{"text":" Efficacement","lang":"fr"}}
+                    ,{"text1":{"text":"To conduct ","lang":"en"},"text2":{"text":" Mener","lang":"no"}}
+                    ,{"text1":{"text":"A survey ","lang":"en"},"text2":{"text":" Une étude","lang":"fr"}}
+                    ,{"text1":{"text":"To chair ","lang":"en"},"text2":{"text":" Présider","lang":"fr"}}
+                    ,{"text1":{"text":"To delegate ","lang":"en"},"text2":{"text":" Déléguer","lang":"fr"}}
+                    ,{"text1":{"text":"Implement ","lang":"en"},"text2":{"text":" Mettre en place","lang":"fr"}}
+                    ,{"text1":{"text":"To meet ","lang":"en"},"text2":{"text":" Respecter","lang":"fr"}}
+                    ,{"text1":{"text":"To support ","lang":"en"},"text2":{"text":" Soutenir","lang":"fr"}}
+                    ,{"text1":{"text":"A belief ","lang":"en"},"text2":{"text":" Une croyance","lang":"fr"}}
+                    ,{"text1":{"text":"Ahead ","lang":"en"},"text2":{"text":" Anticiper","lang":"fr"}}
+                    ,{"text1":{"text":"To spot ","lang":"en"},"text2":{"text":" Repérer","lang":"fr"}}
+                    ,{"text1":{"text":"Sustained ","lang":"en"},"text2":{"text":" Durable","lang":"en"}}
+                    ,{"text1":{"text":"It ","lang":"en"},"text2":{"text":" Informatique","lang":"fr"}}
+                    ,{"text1":{"text":"Reliability ","lang":"en"},"text2":{"text":" De confiance","lang":"fr"}}
+                    ,{"text1":{"text":"Overseas ","lang":"en"},"text2":{"text":" L'outre-mer","lang":"fr"}}
+
+                ]
+            },
+
+
+            {
+                "nom": " 5 - Application letter - Vrac (B)",
+                "words": [ {"text1":{"text":"Advertissement ","lang":"en"},"text2":{"text":" Annonce","lang":"fr"}}
+                    ,{"text1":{"text":"Interested in ","lang":"en"},"text2":{"text":" Intéressé","lang":"fr"}}
+                    ,{"text1":{"text":"To enable ","lang":"en"},"text2":{"text":" Permettre","lang":"fr"}}
+                    ,{"text1":{"text":"Both / At once ","lang":"en"},"text2":{"text":" A la fois","lang":"fr"}}
+                    ,{"text1":{"text":"Training program ","lang":"en"},"text2":{"text":" Programme de formation","lang":"fr"}}
+                    ,{"text1":{"text":"For your attention ","lang":"en"},"text2":{"text":" A votre attention ","lang":"fr"}}
+                    ,{"text1":{"text":"Vacancy ","lang":"en"},"text2":{"text":" Poste vacant","lang":"fr"}}
+                    ,{"text1":{"text":"To fit ","lang":"en"},"text2":{"text":" Correspondre","lang":"fr"}}
+                    ,{"text1":{"text":"Retail ","lang":"en"},"text2":{"text":" Détail","lang":"fr"}}
+                    ,{"text1":{"text":"To attend ","lang":"en"},"text2":{"text":" Suivre","lang":"fr"}}
+                    ,{"text1":{"text":"Since then ","lang":"en"},"text2":{"text":" Depuis lors","lang":"fr"}}
+                    ,{"text1":{"text":"Careers adviser ","lang":"en"},"text2":{"text":" Conseiller d'orientation","lang":"fr"}}
+                    ,{"text1":{"text":"Buisiness / Firm ","lang":"en"},"text2":{"text":" Entreprise","lang":"fr"}}
+                    ,{"text1":{"text":"Advisory ","lang":"en"},"text2":{"text":" Conseil","lang":"fr"}}
+                    ,{"text1":{"text":"Managerial ","lang":"en"},"text2":{"text":" Gestion","lang":"fr"}}
+                    ,{"text1":{"text":"Commitment ","lang":"en"},"text2":{"text":" Engagement","lang":"en"}}
+                    ,{"text1":{"text":"To carry out ","lang":"en"},"text2":{"text":" Réaliser","lang":"fr"}}
+                    ,{"text1":{"text":"Shortly ","lang":"en"},"text2":{"text":" Prochainement","lang":"fr"}}
+                    ,{"text1":{"text":"To look forward ","lang":"en"},"text2":{"text":" Etre impatient","lang":"fr"}}
+                    ,{"text1":{"text":"Hitting the phones ","lang":"en"},"text2":{"text":" Répondre au téléphone","lang":"fr"}}
+                    ,{"text1":{"text":"Computer literate ","lang":"en"},"text2":{"text":" Informatique","lang":"fr"}}
+                    ,{"text1":{"text":"Numerate ","lang":"it"},"text2":{"text":" Calcul","lang":"ro"}}
+                    ,{"text1":{"text":"Relevant ","lang":"en"},"text2":{"text":" Pernitent","lang":"la"}}
+                    ,{"text1":{"text":"Desk-based ","lang":"en"},"text2":{"text":" Documentaire","lang":"fr"}}
+                    ,{"text1":{"text":"A keen interest ","lang":"en"},"text2":{"text":" Un intérêt marqué ","lang":"fr"}}
+                    ,{"text1":{"text":"Related ","lang":"en"},"text2":{"text":" Lié","lang":"fr"}}
+                    ,{"text1":{"text":"A classified ad ","lang":"en"},"text2":{"text":" Une petite annonce","lang":"fr"}}
+                    ,{"text1":{"text":"Efficient ","lang":"en"},"text2":{"text":" Efficace","lang":"fr"}}
+                    ,{"text1":{"text":"Be willing ","lang":"en"},"text2":{"text":" Etre disposé","lang":"fr"}}
+                    ,{"text1":{"text":"To monitor ","lang":"en"},"text2":{"text":" Suivre, contrôler","lang":"fr"}}
+                    ,{"text1":{"text":"A broad ","lang":"en"},"text2":{"text":" Un large","lang":"fr"}}
+                    ,{"text1":{"text":"Implementation ","lang":"en"},"text2":{"text":" Mise en oeuvre","lang":"fr"}}
+                    ,{"text1":{"text":"To proofread ","lang":"en"},"text2":{"text":" Se relise","lang":"hi-Latn"}}
+                    ,{"text1":{"text":"Be vain ","lang":"fi"},"text2":{"text":" Etre prétentieux","lang":"fr"}}
+                    ,{"text1":{"text":"For fear that / Lest ","lang":"en"},"text2":{"text":" De peur que","lang":"fr"}}
+                    ,{"text1":{"text":"Emphasize on ","lang":"en"},"text2":{"text":" Mettre l'accent sur","lang":"fr"}}
+
+                ]
+            },
+
+
+            {
+                "nom": " 5 - Application letter - Link words ",
+                "words": [ {"text1":{"text":"To top it all ","lang":"en"},"text2":{"text":" Pour couronner le tout","lang":"fr"}}
+                    ,{"text1":{"text":"As ","lang":"en"},"text2":{"text":" Comme","lang":"fr"}}
+                    ,{"text1":{"text":"Although ","lang":"en"},"text2":{"text":" Bien que","lang":"es"}}
+                    ,{"text1":{"text":"Yet / However ","lang":"en"},"text2":{"text":" Cependant","lang":"fr"}}
+                    ,{"text1":{"text":"No wonder ","lang":"en"},"text2":{"text":" Rien d'étonnant à cela","lang":"fr"}}
+                    ,{"text1":{"text":"Besides / Incidentally ","lang":"en"},"text2":{"text":" D'ailleurs","lang":"fr"}}
+                    ,{"text1":{"text":"As usual ","lang":"en"},"text2":{"text":" Comme d'habitude","lang":"fr"}}
+                    ,{"text1":{"text":"Moreover ","lang":"en"},"text2":{"text":" De plus","lang":"fr"}}
+                    ,{"text1":{"text":"For instance / E.g","lang":"en"},"text2":{"text":" Par exemple","lang":"fr"}}
+                    ,{"text1":{"text":"By the way ","lang":"en"},"text2":{"text":" A ce propos","lang":"fr"}}
+                    ,{"text1":{"text":"In a nutshell ","lang":"en"},"text2":{"text":" En bref","lang":"nl"}}
+                    ,{"text1":{"text":"Roughly speaking ","lang":"en"},"text2":{"text":" Grosso modo","lang":"it"}}
+                    ,{"text1":{"text":"Eventually ","lang":"en"},"text2":{"text":" Finalement","lang":"fr"}}
+                    ,{"text1":{"text":"As though ","lang":"en"},"text2":{"text":" Comme si","lang":"fr"}}
+                    ,{"text1":{"text":"Presumably ","lang":"en"},"text2":{"text":" Probablement","lang":"fr"}}
+                    ,{"text1":{"text":"On the whole ","lang":"en"},"text2":{"text":" Dans l'ensemble","lang":"fr"}}
+                    ,{"text1":{"text":"Usually ","lang":"en"},"text2":{"text":" Géréralement","lang":"fr"}}
+                    ,{"text1":{"text":"Above all ","lang":"en"},"text2":{"text":" Ava,t tout","lang":"fr"}}
+                    ,{"text1":{"text":"As a matter of fact ","lang":"en"},"text2":{"text":" Enfait","lang":"fr"}}
+                    ,{"text1":{"text":"I.e ","lang":"bg-Latn"},"text2":{"text":" C'est à dire","lang":"fr"}}
+                    ,{"text1":{"text":"Regarding ","lang":"en"},"text2":{"text":" Concernant","lang":"fr"}}
+                    ,{"text1":{"text":"Therefore / As a result ","lang":"en"},"text2":{"text":" Par conséquent","lang":"fr"}}
+                    ,{"text1":{"text":"Disease ","lang":"en"},"text2":{"text":" Maladie","lang":"fr"}}
+                    ,{"text1":{"text":"Cripped ","lang":"en"},"text2":{"text":" Infirme","lang":"fr"}}
+                    ,{"text1":{"text":"Lame ","lang":"en"},"text2":{"text":" Estropié","lang":"fr"}}
+                    ,{"text1":{"text":"Harsh ","lang":"en"},"text2":{"text":" Sévère","lang":"fr"}}
+                    ,{"text1":{"text":"Freak ","lang":"en"},"text2":{"text":" Phénomène","lang":"fr"}}
+                    ,{"text1":{"text":"Lying down ","lang":"en"},"text2":{"text":" Allonger","lang":"fr"}}
+                    ,{"text1":{"text":"Snap ","lang":"en"},"text2":{"text":" Se briser","lang":"fr"}}
+
+                ]
+            },
+
+
+            {
+                "nom": " 5 - Application letter - Formel",
+                "words": [ {"text1":{"text":"Receive (f) ","lang":"en"},"text2":{"text":" Get (Inf)","lang":"en"}}
+                    ,{"text1":{"text":"Additional (f) ","lang":"en"},"text2":{"text":" Extra (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Would like (f) ","lang":"en"},"text2":{"text":" Want (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Require (f) ","lang":"en"},"text2":{"text":" Need (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Discuss (f) ","lang":"en"},"text2":{"text":" Talk about (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Contact (f) ","lang":"en"},"text2":{"text":" Get in touch with (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Concerning / Regarding (f) ","lang":"en"},"text2":{"text":" About (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Ensure (f) ","lang":"en"},"text2":{"text":" Make sure (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Provide somebody with (f) ","lang":"en"},"text2":{"text":" Give (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Inform (f) ","lang":"en"},"text2":{"text":" Tell (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Employer (f) ","lang":"en"},"text2":{"text":" Boss (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Further / Greater (f) ","lang":"en"},"text2":{"text":" More (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Searching (f) ","lang":"en"},"text2":{"text":" Looking (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Request (f) ","lang":"en"},"text2":{"text":" Ask for (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Employment (f) ","lang":"en"},"text2":{"text":" Work / job (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Demonstrate (f) ","lang":"en"},"text2":{"text":" Show (inf)","lang":"en"}}
+                    ,{"text1":{"text":"Enquire ","lang":"en"},"text2":{"text":" Renseigner","lang":"fr"}}
+                    ,{"text1":{"text":"Advertised ","lang":"en"},"text2":{"text":" Publicité","lang":"fr"}}
+                    ,{"text1":{"text":"Enclosed ","lang":"en"},"text2":{"text":" Joindre par écrit","lang":"fr"}}
+                    ,{"text1":{"text":"Attached ","lang":"en"},"text2":{"text":" Joindre par mail","lang":"fr"}}
+                    ,{"text1":{"text":"Given ","lang":"en"},"text2":{"text":" Etant donné","lang":"fr"}}
+                    ,{"text1":{"text":"Currently ","lang":"en"},"text2":{"text":" Actuellement","lang":"fr"}}
+                    ,{"text1":{"text":"Regarding ","lang":"en"},"text2":{"text":" Concernant","lang":"fr"}}
+                    ,{"text1":{"text":"Department ","lang":"en"},"text2":{"text":" Service","lang":"en"}}
+                    ,{"text1":{"text":"Corporation ","lang":"en"},"text2":{"text":" Multinational","lang":"en"}}
+                    ,{"text1":{"text":"Accounting ","lang":"en"},"text2":{"text":" Comptabilité","lang":"fr"}}
+                    ,{"text1":{"text":"Bookkeeper ","lang":"en"},"text2":{"text":" Comptable","lang":"fr"}}
+                    ,{"text1":{"text":"Grow ","lang":"en"},"text2":{"text":" Développer / Grandir","lang":"fr"}}
+                    ,{"text1":{"text":"Comma ","lang":"en"},"text2":{"text":" Virgule ","lang":"fr"}}
+                    ,{"text1":{"text":"Comma ","lang":"en"},"text2":{"text":" Virgule ","lang":"fr"}}
+
+                ]
+            },
+        ]
+    }
