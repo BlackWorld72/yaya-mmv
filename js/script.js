@@ -284,8 +284,8 @@ function changeCatAudio(value) {
 
   for (let i = 0 ; i < sss.cat[j].words.length ; i++) {
     if (sss.cat[j].words[i].fr == null) {
-      sources.push([sss.cat[j].words[i].text1.text, sss.cat[j].words[i].text1.lang])
-      sources.push([sss.cat[j].words[i].text2.text, sss.cat[j].words[i].text2.lang])
+      sources.push([sss.cat[j].words[i].text1.text.replace("/", ""), sss.cat[j].words[i].text1.lang])
+      sources.push([sss.cat[j].words[i].text2.text.replace("/", ""), sss.cat[j].words[i].text2.lang])
     }
   }
 
