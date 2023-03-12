@@ -16,6 +16,17 @@ var coefraph = [3,3,3,1.5,1.5,3,3,3,3,2,3,2,1.5,1.5,2,2,1.5,2,1.5,2,3]
 var activeTranslate = -1
 var translate = [["",""],["",""],["",""],["",""],["",""]]
 
+let my_voice_fr = null;
+let my_voice_en = null;
+let speech = new SpeechSynthesisUtterance();
+
+let voices = [];
+window.speechSynthesis.onvoiceschanged = () => {
+  voices = window.speechSynthesis.getVoices();
+  my_voice_fr = voices[1];
+  my_voice_en = voices[5];
+};
+
 function changeTranslation(n) {
   
   if (activeTranslate != -1) {
@@ -217,8 +228,8 @@ function createVoc() {
     }
 
     if (check) {
-      lang1 = String(JSON.parse(httpGet("https://www.googleapis.com/language/translate/v2/detect?q=" + val[0] +"&key=AIzaSyCzOGc-tMN-VqMeYBpYgkPrMHmSJ1wzk2M")).data.detections[0][0].language)
-      lang2 = String(JSON.parse(httpGet("https://www.googleapis.com/language/translate/v2/detect?q=" + val[1] +"&key=AIzaSyCzOGc-tMN-VqMeYBpYgkPrMHmSJ1wzk2M")).data.detections[0][0].language)
+      lang1 = String(JSON.parse(httpGet("https://www.googleapis.com/language/translate/v2/detect?q=" + val[0] +"&key=" + GOOGLE_API_KEY)).data.detections[0][0].language)
+      lang2 = String(JSON.parse(httpGet("https://www.googleapis.com/language/translate/v2/detect?q=" + val[1] +"&key=" + GOOGLE_API_KEY)).data.detections[0][0].language)
 
       value1 = {"text": val[0], "lang": lang1}
       value2 = {"text": val[1], "lang": lang2}
@@ -270,34 +281,44 @@ function changeCatAudio(value) {
   let j = parseInt(value)-1
   var sources = []
   var index = 0;
-  var my_audio = document.getElementById("player")
-  my_audio.innerHTML = "Ca ne supporte pas"
 
   for (let i = 0 ; i < sss.cat[j].words.length ; i++) {
     if (sss.cat[j].words[i].fr == null) {
-      my_source = document.createElement("source")
-      my_source.src = "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=" + sss.cat[j].words[i].text1.text + "&tl=" + sss.cat[j].words[i].text1.lang + "&client=tw-ob"
-      sources.push("https://translate.google.com.vn/translate_tts?ie=UTF-8&q=" + sss.cat[j].words[i].text1.text + "&tl=" + sss.cat[j].words[i].text1.lang + "&client=tw-ob")
-      my_audio.append(my_source)
-
-      my_source = document.createElement("source")
-      my_source.src = "https://translate.google.com.vn/translate_tts?ie=UTF-8&q=" + sss.cat[j].words[i].text2.text + "&tl=" + sss.cat[j].words[i].text2.lang + "&client=tw-ob"
-      sources.push("https://translate.google.com.vn/translate_tts?ie=UTF-8&q=" + sss.cat[j].words[i].text2.text + "&tl=" + sss.cat[j].words[i].text2.lang + "&client=tw-ob")
-      my_audio.append(my_source)
+      sources.push([sss.cat[j].words[i].text1.text, sss.cat[j].words[i].text1.lang])
+      sources.push([sss.cat[j].words[i].text2.text, sss.cat[j].words[i].text2.lang])
     }
   }
 
-  my_audio.addEventListener('ended', function() {
+  window.speechSynthesis.cancel();
+
+  if (sources[0][1] === "en") {
+    speech.voice = my_voice_en
+  }
+  else {
+    speech.voice = my_voice_fr
+  }
+  speech.text = sources[0][0]
+  window.speechSynthesis.speak(speech);
+
+  speech.onend = (event) => {
+    if ((index % 2) === 1) {
+      sleepFor(2000);
+    }
     index++;
     if (index >= sources.length) {
       index = 0;
     }
-    my_audio.src = sources[index];
-    if ((index % 2) == 0) {
-      sleepFor(2000);
+
+    if (sources[index][1] === "en") {
+      speech.voice = my_voice_en
     }
-    my_audio.play();
-  });
+    else {
+      speech.voice = my_voice_fr
+    }
+
+    speech.text = sources[index][0]
+    window.speechSynthesis.speak(speech);
+  }
 }
 
 function sleepFor(sleepDuration){
