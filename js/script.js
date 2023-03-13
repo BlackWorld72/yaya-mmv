@@ -7,6 +7,9 @@ var book
 var type
 var isYaya = false
 
+var sourcesAudio = []
+var indexAudio = 0;
+
 var allwords = []
 var selectedCat = []
 
@@ -279,46 +282,17 @@ function httpGet(theUrl)
 function changeCatAudio(value) {
   if (value === -1) return;
   let j = parseInt(value)-1
-  var sources = []
-  var index = 0;
 
   for (let i = 0 ; i < sss.cat[j].words.length ; i++) {
     if (sss.cat[j].words[i].fr == null) {
-      sources.push([sss.cat[j].words[i].text1.text.replace("/", ""), sss.cat[j].words[i].text1.lang])
-      sources.push([sss.cat[j].words[i].text2.text.replace("/", ""), sss.cat[j].words[i].text2.lang])
+      sourcesAudio.push([sss.cat[j].words[i].text1.text.replace("/", ""), sss.cat[j].words[i].text1.lang])
+      sourcesAudio.push([sss.cat[j].words[i].text2.text.replace("/", ""), sss.cat[j].words[i].text2.lang])
     }
   }
 
   window.speechSynthesis.cancel();
 
-  if (sources[0][1] === "en") {
-    speech.voice = my_voice_en
-  }
-  else {
-    speech.voice = my_voice_fr
-  }
-  speech.text = sources[0][0]
-  window.speechSynthesis.speak(speech);
 
-  speech.onend = (event) => {
-    if ((index % 2) === 1) {
-      sleepFor(2000);
-    }
-    index++;
-    if (index >= sources.length) {
-      index = 0;
-    }
-
-    if (sources[index][1] === "en") {
-      speech.voice = my_voice_en
-    }
-    else {
-      speech.voice = my_voice_fr
-    }
-
-    speech.text = sources[index][0]
-    window.speechSynthesis.speak(speech);
-  }
 }
 
 function sleepFor(sleepDuration){
@@ -354,12 +328,43 @@ function createSelectAudio(data) {
   qs.append(document.createElement("br"))
   qs.append(document.createElement("br"))
 
-  my_audio = document.createElement("audio")
-  my_audio.id = "player"
-  my_audio.controls = true
-  my_audio.innerHTML = "Ca ne supporte pas"
-  qs.append(my_audio)
+  my_btn = document.createElement("button");
+  my_btn.innerHTML = "Start"
+  my_btn.setAttribute("onclick", "startAudio()")
+  qs.append(my_btn);
 }
+
+function startAudio() {
+  if (sourcesAudio[0][1] === "en") {
+    speech.voice = my_voice_en
+  }
+  else {
+    speech.voice = my_voice_fr
+  }
+  speech.text = sourcesAudio[0][0]
+  window.speechSynthesis.speak(speech);
+
+  speech.onend = (event) => {
+    if ((indexAudio % 2) === 1) {
+      sleepFor(2000);
+    }
+    indexAudio++;
+    if (indexAudio >= sourcesAudio.length) {
+      indexAudio = 0;
+    }
+
+    if (sourcesAudio[indexAudio][1] === "en") {
+      speech.voice = my_voice_en
+    }
+    else {
+      speech.voice = my_voice_fr
+    }
+
+    speech.text = sourcesAudio[indexAudio][0]
+    window.speechSynthesis.speak(speech);
+  }
+}
+
 
 function listWords(data) {
   isIn = false
