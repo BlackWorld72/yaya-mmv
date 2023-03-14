@@ -12,6 +12,7 @@ var indexAudio = 0;
 
 var allwords = []
 var selectedCat = []
+const voicesList = window.speechSynthesis.getVoices()
 
 var coefyaya = [2,3,2,1.5,1.5,2,2,1.5,2,1.5,2,3,3,3]
 var coefraph = [3,3,3,1.5,1.5,3,3,3,3,2,3,2,1.5,1.5,2,2,1.5,2,1.5,2,3]
@@ -258,19 +259,6 @@ function createVoc() {
   document.getElementById("allan").value = text
 }
 
-function swapImgAudio(i) {
-  if (i == 0) {
-    my_img = document.getElementById("img_play_pause")
-    my_img.src = "./img/bouton-pause.png"
-    my_img.setAttribute("onclick", "swapImgAudio(1)");
-  }
-  else {
-    my_img = document.getElementById("img_play_pause")
-    my_img.src = "./img/jouer.png"
-    my_img.setAttribute("onclick", "swapImgAudio(0)");
-  }
-}
-
 function httpGet(theUrl)
 {
   var xmlHttp = new XMLHttpRequest();
@@ -285,14 +273,10 @@ function changeCatAudio(value) {
 
   for (let i = 0 ; i < sss.cat[j].words.length ; i++) {
     if (sss.cat[j].words[i].fr == null) {
-      sourcesAudio.push([sss.cat[j].words[i].text1.text.replace("/", ""), sss.cat[j].words[i].text1.lang])
-      sourcesAudio.push([sss.cat[j].words[i].text2.text.replace("/", ""), sss.cat[j].words[i].text2.lang])
+      sourcesAudio.push([sss.cat[j].words[i].text1.text.replace("/", ","), sss.cat[j].words[i].text1.lang])
+      sourcesAudio.push([sss.cat[j].words[i].text2.text.replace("/", ","), sss.cat[j].words[i].text2.lang])
     }
   }
-
-  window.speechSynthesis.cancel();
-
-
 }
 
 function sleepFor(sleepDuration){
@@ -330,17 +314,62 @@ function createSelectAudio(data) {
 
   my_btn = document.createElement("button");
   my_btn.innerHTML = "Start"
+  my_btn.style = "width: 100px;"
   my_btn.setAttribute("onclick", "startAudio()")
+  qs.append(my_btn);
+
+  my_btn = document.createElement("button");
+  my_btn.innerHTML = "Pause"
+  my_btn.style = "width: 100px;"
+  my_btn.setAttribute("onclick", "pauseAudio()")
+  qs.append(my_btn);
+
+  my_btn = document.createElement("button");
+  my_btn.innerHTML = "Resume"
+  my_btn.style = "width: 100px;"
+  my_btn.setAttribute("onclick", "resumeAudio()")
+  qs.append(my_btn);
+
+  my_btn = document.createElement("button");
+  my_btn.innerHTML = "Cancel"
+  my_btn.style = "width: 100px;"
+  my_btn.setAttribute("onclick", "cancelAudio()")
   qs.append(my_btn);
 }
 
+function resumeAudio() {
+  window.speechSynthesis.resume();
+}
+
+function cancelAudio() {
+  sourcesAudio = []
+  window.speechSynthesis.cancel();
+}
+
+function pauseAudio() {
+  window.speechSynthesis.pause();
+}
+
 function startAudio() {
-  if (sourcesAudio[0][1] === "en") {
-    speech.voice = my_voice_en
+  if (window.orientation > 1) {
+    if (sourcesAudio[0][1] === "en") {
+      speech.voice = voicesList.find((voice) => voice.lang === 'en-EN')
+      speech.lang = 'en-EN'
+    }
+    else {
+      speech.voice = voicesList.find((voice) => voice.lang === 'fr-FR')
+      speech.lang = 'fr-FR'
+    }
   }
   else {
-    speech.voice = my_voice_fr
+    if (sourcesAudio[0][1] === "en") {
+      speech.voice = my_voice_en
+    }
+    else {
+      speech.voice = my_voice_fr
+    }
   }
+
   speech.text = sourcesAudio[0][0]
   window.speechSynthesis.speak(speech);
 
@@ -353,11 +382,23 @@ function startAudio() {
       indexAudio = 0;
     }
 
-    if (sourcesAudio[indexAudio][1] === "en") {
-      speech.voice = my_voice_en
+    if (window.orientation > 1) {
+      if (sourcesAudio[indexAudio][1] === "en") {
+        speech.voice = voicesList.find((voice) => voice.lang === 'en-EN')
+        speech.lang = 'en-EN'
+      }
+      else {
+        speech.voice = voicesList.find((voice) => voice.lang === 'fr-FR')
+        speech.lang = 'fr-FR'
+      }
     }
     else {
-      speech.voice = my_voice_fr
+      if (sourcesAudio[indexAudio][1] === "en") {
+        speech.voice = my_voice_en
+      }
+      else {
+        speech.voice = my_voice_fr
+      }
     }
 
     speech.text = sourcesAudio[indexAudio][0]
