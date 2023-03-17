@@ -354,6 +354,22 @@ function pauseAudio() {
   window.speechSynthesis.pause();
 }
 
+function detectMob() {
+  const toMatch = [
+    /Android/i,
+    /webOS/i,
+    /iPhone/i,
+    /iPad/i,
+    /iPod/i,
+    /BlackBerry/i,
+    /Windows Phone/i
+  ];
+
+  return toMatch.some((toMatchItem) => {
+    return navigator.userAgent.match(toMatchItem);
+  });
+}
+
 function startAudio() {
   console.log(voices);
   myh1 = document.createElement("h1");
@@ -362,9 +378,9 @@ function startAudio() {
   myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'fr-FR')
   qs.append(myh1);
 
-  if (window.orientation > 1) {
+  if (detectMob()) {
     myh1 = document.createElement("h1");
-    myh1.innerHTML = "On est bien en orientation"
+    myh1.innerHTML = "On est bien en mobile"
     qs.append(myh1);
 
     if (sourcesAudio[0][1] === "en") {
