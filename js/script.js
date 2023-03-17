@@ -292,10 +292,23 @@ function createSelectAudio(data) {
   document.getElementById("qs").innerHTML = "";
   sss = data
 
+  let my_voice_fr = null;
+  let my_voice_en = null;
+  let speech = new SpeechSynthesisUtterance();
+  let voicesList;
+
+  let mvoices = [];
+  window.speechSynthesis.onvoiceschanged = () => {
+    mvoices = window.speechSynthesis.getVoices();
+    voicesList = mvoices;
+    my_voice_fr = mvoices[1];
+    my_voice_en = mvoices[5];
+  };
+
   myh1 = document.createElement("h1");
-  voices.forEach(elem => myh1.innerHTML += " / " + elem["lang"]);
-  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'en-GB')
-  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'fr-FR')
+  mvoices.forEach(elem => myh1.innerHTML += " / " + elem["lang"]);
+  myh1.innerHTML += " / " + mvoices.find((voice) => voice.lang === 'en-GB')
+  myh1.innerHTML += " / " + mvoices.find((voice) => voice.lang === 'fr-FR')
   qs.append(myh1);
 
   select = document.createElement("select")
@@ -343,7 +356,7 @@ function createSelectAudio(data) {
   my_btn.setAttribute("onclick", "cancelAudio()")
   qs.append(my_btn);
 }
-
+$('#trigger_me').trigger("click");
 function resumeAudio() {
   window.speechSynthesis.resume();
 }
