@@ -12,7 +12,6 @@ var indexAudio = 0;
 
 var allwords = []
 var selectedCat = []
-const voicesList = window.speechSynthesis.getVoices()
 
 var coefyaya = [2,3,2,1.5,1.5,2,2,1.5,2,1.5,2,3,3,3]
 var coefraph = [3,3,3,1.5,1.5,3,3,3,3,2,3,2,1.5,1.5,2,2,1.5,2,1.5,2,3]
@@ -23,10 +22,12 @@ var translate = [["",""],["",""],["",""],["",""],["",""]]
 let my_voice_fr = null;
 let my_voice_en = null;
 let speech = new SpeechSynthesisUtterance();
+let voicesList;
 
 let voices = [];
 window.speechSynthesis.onvoiceschanged = () => {
   voices = window.speechSynthesis.getVoices();
+  voicesList = voices;
   my_voice_fr = voices[1];
   my_voice_en = voices[5];
 };
@@ -290,6 +291,10 @@ function createSelectAudio(data) {
   qs = document.getElementById("qs")
   document.getElementById("qs").innerHTML = "";
   sss = data
+
+  myh1 = document.createElement("h1");
+  voices.forEach(elem => myh1.innerHTML += " / " + elem["voiceURI"]);
+  qs.append(myh1);
 
   select = document.createElement("select")
   select.setAttribute("onChange", "changeCatAudio(this.value)")
