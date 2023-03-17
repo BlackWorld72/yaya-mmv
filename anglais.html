@@ -4,7 +4,8 @@
   <meta charset="utf-8">
   <title>BTS MMV</title>
   <link rel="stylesheet" href="style.css">
-  <script type="text/javascript" src="./js/anglais.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/anglais.js"></script>
   <script type="text/javascript" src="./js/script.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -27,9 +28,6 @@
         <input type="button" class="btnDiff" value= "Liste mots" onclick="listWords(anglais)">
         <input type="button" class="btnDiff" value= "Vocabulaires" onclick="question(anglais)">
         <input type="button" id="trigger_me" class="btnDiff" value= "Audio" onclick="createSelectAudio(anglais)">
-        <script>
-            $('#trigger_me').trigger("click");
-        </script>
     </div>
 
     <div class="questions" id="qs"></div>
@@ -40,8 +38,9 @@
       <div id="score"></div>
     </div>
 
-    
-
+    <script>
+        $('#trigger_me').trigger("click");
+    </script>
 
 </body>
 </html>

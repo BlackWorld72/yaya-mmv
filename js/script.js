@@ -21,16 +21,10 @@ var translate = [["",""],["",""],["",""],["",""],["",""]]
 
 var my_voice_fr = null;
 var my_voice_en = null;
-var speech = new SpeechSynthesisUtterance();
+var speech;
 var voicesList;
 
-let voices = [];
-window.speechSynthesis.onvoiceschanged = () => {
-  voices = window.speechSynthesis.getVoices();
-  voicesList = voices;
-  my_voice_fr = voices[1];
-  my_voice_en = voices[5];
-};
+var voices = [];
 
 function changeTranslation(n) {
   
@@ -292,24 +286,14 @@ function createSelectAudio(data) {
   document.getElementById("qs").innerHTML = "";
   sss = data
 
-  my_voice_fr = null;
-  my_voice_en = null;
-  speech = new SpeechSynthesisUtterance();
-  voicesList;
 
-  voices = [];
-  window.speechSynthesis.onvoiceschanged = () => {
+  speech = new SpeechSynthesisUtterance();
+  window.speechSynthesis.onvoiceschanged = function() {
     voices = window.speechSynthesis.getVoices();
     voicesList = voices;
     my_voice_fr = voices[1];
     my_voice_en = voices[5];
   };
-
-  myh1 = document.createElement("h1");
-  voices.forEach(elem => myh1.innerHTML += " / " + elem["lang"]);
-  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'en-GB')
-  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'fr-FR')
-  qs.append(myh1);
 
   select = document.createElement("select")
   select.setAttribute("onChange", "changeCatAudio(this.value)")
@@ -371,7 +355,18 @@ function pauseAudio() {
 }
 
 function startAudio() {
+  console.log(voices);
+  myh1 = document.createElement("h1");
+  voices.forEach(elem => myh1.innerHTML += " / " + elem["voiceURI"]);
+  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'en-GB')
+  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'fr-FR')
+  qs.append(myh1);
+
   if (window.orientation > 1) {
+    myh1 = document.createElement("h1");
+    myh1.innerHTML = "On est bien en orientation"
+    qs.append(myh1);
+
     if (sourcesAudio[0][1] === "en") {
       speech.voice = voicesList.find((voice) => voice.lang === 'en-GB')
       speech.lang = 'en-GB'
