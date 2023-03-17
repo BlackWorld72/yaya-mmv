@@ -293,7 +293,9 @@ function createSelectAudio(data) {
   sss = data
 
   myh1 = document.createElement("h1");
-  voices.forEach(elem => myh1.innerHTML += " / " + elem["voiceURI"]);
+  voices.forEach(elem => myh1.innerHTML += " / " + elem["lang"]);
+  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'en-GB')
+  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'fr-FR')
   qs.append(myh1);
 
   select = document.createElement("select")
@@ -390,7 +392,7 @@ function startAudio() {
     if (window.orientation > 1) {
       if (sourcesAudio[indexAudio][1] === "en") {
         speech.voice = voicesList.find((voice) => voice.lang === 'en-EN')
-        speech.lang = 'en-EN'
+        speech.lang = 'en-GB'
       }
       else {
         speech.voice = voicesList.find((voice) => voice.lang === 'fr-FR')
