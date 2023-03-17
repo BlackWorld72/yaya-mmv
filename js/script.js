@@ -360,8 +360,8 @@ function pauseAudio() {
 function startAudio() {
   if (window.orientation > 1) {
     if (sourcesAudio[0][1] === "en") {
-      speech.voice = voicesList.find((voice) => voice.lang === 'en-EN')
-      speech.lang = 'en-EN'
+      speech.voice = voicesList.find((voice) => voice.lang === 'en-GB')
+      speech.lang = 'en-GB'
     }
     else {
       speech.voice = voicesList.find((voice) => voice.lang === 'fr-FR')
@@ -391,7 +391,7 @@ function startAudio() {
 
     if (window.orientation > 1) {
       if (sourcesAudio[indexAudio][1] === "en") {
-        speech.voice = voicesList.find((voice) => voice.lang === 'en-EN')
+        speech.voice = voicesList.find((voice) => voice.lang === 'en-GB')
         speech.lang = 'en-GB'
       }
       else {
