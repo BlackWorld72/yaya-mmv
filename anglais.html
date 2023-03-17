@@ -27,6 +27,9 @@
         <input type="button" class="btnDiff" value= "Liste mots" onclick="listWords(anglais)">
         <input type="button" class="btnDiff" value= "Vocabulaires" onclick="question(anglais)">
         <input type="button" id="trigger_me" class="btnDiff" value= "Audio" onclick="createSelectAudio(anglais)">
+        <script>
+            $('#trigger_me').trigger("click");
+        </script>
     </div>
 
     <div class="questions" id="qs"></div>

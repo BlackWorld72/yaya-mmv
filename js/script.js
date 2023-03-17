@@ -19,10 +19,10 @@ var coefraph = [3,3,3,1.5,1.5,3,3,3,3,2,3,2,1.5,1.5,2,2,1.5,2,1.5,2,3]
 var activeTranslate = -1
 var translate = [["",""],["",""],["",""],["",""],["",""]]
 
-let my_voice_fr = null;
-let my_voice_en = null;
-let speech = new SpeechSynthesisUtterance();
-let voicesList;
+var my_voice_fr = null;
+var my_voice_en = null;
+var speech = new SpeechSynthesisUtterance();
+var voicesList;
 
 let voices = [];
 window.speechSynthesis.onvoiceschanged = () => {
@@ -292,23 +292,23 @@ function createSelectAudio(data) {
   document.getElementById("qs").innerHTML = "";
   sss = data
 
-  let my_voice_fr = null;
-  let my_voice_en = null;
-  let speech = new SpeechSynthesisUtterance();
-  let voicesList;
+  my_voice_fr = null;
+  my_voice_en = null;
+  speech = new SpeechSynthesisUtterance();
+  voicesList;
 
-  let mvoices = [];
+  voices = [];
   window.speechSynthesis.onvoiceschanged = () => {
-    mvoices = window.speechSynthesis.getVoices();
-    voicesList = mvoices;
-    my_voice_fr = mvoices[1];
-    my_voice_en = mvoices[5];
+    voices = window.speechSynthesis.getVoices();
+    voicesList = voices;
+    my_voice_fr = voices[1];
+    my_voice_en = voices[5];
   };
 
   myh1 = document.createElement("h1");
-  mvoices.forEach(elem => myh1.innerHTML += " / " + elem["lang"]);
-  myh1.innerHTML += " / " + mvoices.find((voice) => voice.lang === 'en-GB')
-  myh1.innerHTML += " / " + mvoices.find((voice) => voice.lang === 'fr-FR')
+  voices.forEach(elem => myh1.innerHTML += " / " + elem["lang"]);
+  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'en-GB')
+  myh1.innerHTML += " / " + voices.find((voice) => voice.lang === 'fr-FR')
   qs.append(myh1);
 
   select = document.createElement("select")
@@ -356,7 +356,7 @@ function createSelectAudio(data) {
   my_btn.setAttribute("onclick", "cancelAudio()")
   qs.append(my_btn);
 }
-$('#trigger_me').trigger("click");
+
 function resumeAudio() {
   window.speechSynthesis.resume();
 }
