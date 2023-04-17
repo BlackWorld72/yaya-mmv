@@ -2146,6 +2146,84 @@ anglais_tech =
                 ]
             },
             {
+                "nom": "Skirts",
+                "words": [
+                    {
+                        "fr": "Circle - Cercle",
+                        "al": "<img> 338567296_784081083245277_8944726808528080185_n"
+                    },
+                    {
+                        "fr": "1/2 circle - 1/2 cercle",
+                        "al": "<img> 338482585_3536159786668146_8948470950983474341_n"
+                    },
+                    {
+                        "fr": "Skirt with yoke - Jupe à empiècement",
+                        "al": "<img> 338441749_198358619646218_4268834750205744149_n"
+                    },
+                    {
+                        "fr": "Straight skirt - Jupe droite",
+                        "al": "<img> 338539002_723624162880418_6361913499548449035_n"
+                    },
+                    {
+                        "fr": "Split skirt - Jupe culotte",
+                        "al": "<img> 338583766_917424476136804_902928676091665758_n"
+                    },
+                    {
+                        "fr": "Skirts with inverted pleats - Jupes à pli creux",
+                        "al": "<img> 338441749_777590643884011_7642253824217151801_n 338657752_613950356999857_5235311521534111879_n"
+                    },
+                    {
+                        "fr": "Skirt with flat pleat - Jupe à pli plat",
+                        "al": "<img> 338523654_536371888678552_8109167195109378421_n"
+                    },
+                    {
+                        "fr": "Flared skirts - Jupes évasées",
+                        "al": "<img> 338561131_783912136725857_1857706421925306142_n 338446352_744938814095173_1310556589316959551_n"
+                    },
+                    {
+                        "fr": "Skirts with godets - Jupe à godets",
+                        "al": "<img> 338530273_1257378438490808_8410335103307585462_n"
+                    },
+                    {
+                        "fr": "Skirt with separate or self godets - Jupe à quilles",
+                        "al": "<img> 338458103_174876955455669_1017607101552072851_n"
+                    },
+                    {
+                        "fr": "Wrap skirt - Jupe porte-feuille",
+                        "al": "<img> 338471598_761824385471748_6662722101856846461_n"
+                    },
+                    {
+                        "fr": "Paneled skirt - Jupe à panneaux",
+                        "al": "<img> 338479184_778035216882404_4141259340378752898_n"
+                    }
+                ]
+            },
+            {
+                "nom": "Pleats",
+                "words": [
+                    {
+                        "fr": "Flat pleats - Pli plats",
+                        "al": "<img> 338437059_1635617250222944_3584967795741752495_n"
+                    },
+                    {
+                        "fr": "Horizontal pleats - Plis religieuses",
+                        "al": "<img> 329265116_721859699721785_4931291516547244284_n"
+                    },
+                    {
+                        "fr": "Unpressed flat pleat - Plis plat non pressés",
+                        "al": "<img> 338421715_740440657621249_334893601411729389_n"
+                    },
+                    {
+                        "fr": "Inverted pleat - Pli creux",
+                        "al": "<img> 338442515_781858169971701_7590156226938295956_n"
+                    },
+                    {
+                        "fr": "Box pleat - Pli rond",
+                        "al": "<img> 338510163_1153568351978227_1259795041091156497_n"
+                    }
+                ]
+            },
+            {
                 "nom": " L1 - How / What",
                 "words": [
                     {
