@@ -2,7 +2,7 @@ anglais_tech =
     {
         "cat": [
             {
-                "nom": "Human body",
+                "nom": "1 - Corps - Human body",
                 "words": [
                     {
                         "fr": "tête",
@@ -199,7 +199,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Dimensions",
+                "nom": "1 - Corps - Dimensions",
                 "words": [
                     {
                         "fr": "long ",
@@ -244,7 +244,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Clothing parts",
+                "nom": "1 - Corps - Clothing parts",
                 "words": [
                     {
                         "fr": "pocket ",
@@ -289,7 +289,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Measurement",
+                "nom": "1 - Corps - Measurement",
                 "words": [
                     {
                         "fr": "A tape measured ",
@@ -330,7 +330,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": "Pattern",
+                "nom": "2 - Fournitures - Pattern",
                 "words": [
                     {
                         "fr": "A notch (un cran)",
@@ -411,7 +411,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Height of clothing ",
+                "nom": "1 - Corps - Height of clothing ",
                 "words": [
                     {
                         "fr": "Under Bust ",
@@ -468,7 +468,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Supplies / Small wares 1",
+                "nom": "2 - Fournitures - Supplies 1",
                 "words": [
                     {
                         "fr": "a supplie ",
@@ -585,7 +585,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Supplies / Small wares 2",
+                "nom": "2 - Fournitures - Supplies 2",
                 "words": [
                     {
                         "fr": "a braid / a stripe braid ",
@@ -698,7 +698,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Supplies / Small wares 3",
+                "nom": "2 - Fournitures - Supplies 3",
                 "words": [
                     {
                         "fr": "A yoke ",
@@ -851,7 +851,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": "Sort of skirts",
+                "nom": "2 - Fournitures - Sort of skirts",
                 "words": [
                     {
                         "fr": "Jupe droite / Straight skirt",
@@ -972,7 +972,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Materials & Patterns",
+                "nom": "3 - Vêtement - Materials & Patterns",
                 "words": [
                     {
                         "fr": "Materials ",
@@ -1109,7 +1109,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Style",
+                "nom": "3 - Vêtement - Style",
                 "words": [
                     {
                         "fr": "Tight ",
@@ -1154,7 +1154,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Clothes 1",
+                "nom": "3 - Vêtement - Clothes 1",
                 "words": [
                     {
                         "fr": "An earring ",
@@ -1263,7 +1263,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Clothes 2",
+                "nom": "3 - Vêtement - Clothes 2",
                 "words": [
                     {
                         "fr": "Blouse ",
@@ -1397,7 +1397,7 @@ anglais_tech =
             },
 
             {
-                "nom": " Clothes 3",
+                "nom": "3 - Vêtement - Clothes 3",
                 "words": [
                     {
                         "fr": "A dinner jacket / A tuxedo ",
@@ -1502,7 +1502,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Clothes 4",
+                "nom": "3 - Vêtement - Clothes 4",
                 "words": [
                     {
                         "fr": "A bathing robe ",
@@ -1607,7 +1607,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Clothes 5",
+                "nom": "3 - Vêtement - Clothes 5",
                 "words": [
                     {
                         "fr": "A mask / baclava ",
@@ -1716,7 +1716,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Colors 1",
+                "nom": "3 - Vêtement - Colors 1",
                 "words": [
                     {
                         "fr": "Golden ",
@@ -1797,7 +1797,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Colors 2",
+                "nom": "3 - Vêtement - Colors 2",
                 "words": [
                     {
                         "fr": "Steel blue ",
@@ -1895,7 +1895,7 @@ anglais_tech =
             },
 
             {
-                "nom": " Get dressed",
+                "nom": "3 - Vêtement - Get dressed",
                 "words": [
                     {
                         "fr": "Get dressed ",
@@ -1964,7 +1964,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": " Shapes",
+                "nom": "3 - Vêtement - Shapes",
                 "words": [
                     {
                         "fr": "Square (or square-shaped) ",
@@ -1997,6 +1997,151 @@ anglais_tech =
                     {
                         "fr": "Pointed shape ",
                         "al": " (De forme) pointue"
+                    }
+                ]
+            },
+            {
+                "nom": "Pockets",
+                "words": [
+                    {
+                        "fr": "Patch pockets - Poches plaquées",
+                        "al": "<img> 330154203_189696580544380_3163928402964035831_n"
+                    },
+                    {
+                        "fr": "Sheath patch pockets - Poches plaquées fourreau",
+                        "al": "<img> 338574438_1206011703432673_37384398973612527_n"
+                    },
+                    {
+                        "fr": "Patch pockets with flap - Poches plaquées à rabat",
+                        "al": "<img> 329903667_1589769088095237_1718251450969838778_n"
+                    },
+                    {
+                        "fr": "Purse pocket - Poche bourse",
+                        "al": "<img> 330154203_260101509780989_3846365317346925995_n"
+                    },
+                    {
+                        "fr": "Kangaroo patch pockets - Poches plaquées kangourou",
+                        "al": "<img> 338521446_1214417352523874_7702089094386463988_n"
+                    },
+                    {
+                        "fr": "Patch pocket with inverted « safari » pleat - Poche plaquée avec pli creux « saharienne »",
+                        "al": "<img> 338477606_141474925540881_4649843744879822621_n"
+                    },
+                    {
+                        "fr": "Patch pocket with flat « military » pleat - Poche plaquée avec pli plat « militaire »",
+                        "al": "<img> 338571232_793574778818154_4142316011641821037_n"
+                    },
+                    {
+                        "fr": "Patch pocket with separate gusset - Poche soufflet en bande rapportér",
+                        "al": "<img> 338547036_546064874103014_9104512256410025159_n"
+                    },
+                    {
+                        "fr": "Patch pocket with one-piece gusset - Poche soufflet à même",
+                        "al": "<img> 338471602_1205294610347086_7275456092802419526_n"
+                    },
+                    {
+                        "fr": "Simple-piped pocket - Poche passepoil simple",
+                        "al": "<img> 338527870_693953945822472_5390808072219470696_n"
+                    },
+                    {
+                        "fr": "Double-piped pocket - Poche double passepoil",
+                        "al": "<img> 338829911_564243359023996_6891083423304989579_n"
+                    },
+                    {
+                        "fr": "Double-piped pocket with flap - Poche double passepoil avec rabat",
+                        "al": "<img> 338530261_1589444874890205_6820598617353975307_n"
+                    },
+                    {
+                        "fr": "Welt pocket - Poche gilet",
+                        "al": "<img> 329543692_1211508223086905_5108346384097969542_n"
+                    },
+                    {
+                        "fr": "Slanted welt pocket with double piping and flap -  Poche raglan double passepoil avec rabat",
+                        "al": "<img> 338439496_602692505125547_2781047496040768695_n"
+                    },
+                    {
+                        "fr": "Simple welt pocket - Poche paysanne",
+                        "al": "<img> 338548441_797200101966483_4672291039293532035_n"
+                    },
+                    {
+                        "fr": "Back hip pocket - Poche revolver",
+                        "al": "<img> 338496024_1934841126853594_5274457937545564333_n"
+                    },
+                    {
+                        "fr": "Zipped piped pocket - Poche passepoilée zippée",
+                        "al": "<img> 338546447_764126375305677_4368012993064503599_n"
+                    },
+                    {
+                        "fr": "Zipped slit pocket - Poche fendue zippée",
+                        "al": "<img> 338442510_772655960912001_9111830556355670571_n"
+                    },
+                    {
+                        "fr": "Slanted welt pocket - Poche raglan",
+                        "al": "<img> 338474372_892260821834088_2676652192879829404_n"
+                    },
+                    {
+                        "fr": "Pocket in a seam - Poche couture côté",
+                        "al": "<img> 338536709_198681072919260_2953523737109280642_n"
+                    },
+                    {
+                        "fr": "Watch pocket - Poche ticket, briquet ou à gousset",
+                        "al": "<img> 330341469_601000351964519_7218750380068718041_n"
+                    },
+                    {
+                        "fr": "Pocket in a seam with welt - Poche couture avec parement",
+                        "al": "<img> 329721045_1217247188907063_8161012744079455033_n"
+                    },
+                    {
+                        "fr": "Slant pocket - Poche italienne",
+                        "al": "<img> 338578743_2070381419824922_7102295415326657909_n"
+                    },
+                    {
+                        "fr": "Front hip pocket - Poche quart de rond",
+                        "al": "<img> 327742087_1236535607230731_7386630125121137072_n"
+                    },
+                    {
+                        "fr": "Western pockets (variations) - Poches cavalières (variations)",
+                        "al": "<img> 338514024_3337041723225273_525436291441152248_n"
+                    },
+                    {
+                        "fr": "« Jeans jacket » chest pocket - Poche poitrine « jeans »",
+                        "al": "<img> 338463334_185520443893272_7909441817846181363_n"
+                    },
+                    {
+                        "fr": "Seam pocket under flap - Poche dans une découpe sous un rabat",
+                        "al": "<img> 338460856_3586633534956890_2477798338190645963_n"
+                    },
+                    {
+                        "fr": "Patch pockets",
+                        "al": "Poches plaquées"
+                    },
+                    {
+                        "fr": "Slit pockets",
+                        "al": "Poches fendues"
+                    },
+                    {
+                        "fr": "In-seam pockets",
+                        "al": " Poches dans une couture"
+                    },
+                    {
+                        "fr": "Box pleat",
+                        "al": "Pli rond"
+                    },
+                    {
+                        "fr": "Inverted pleat",
+                        "al": "Pli creux"
+                    },
+                    {
+                        "fr": "A piping",
+                        "al": "Un passepoil"
+                    },
+                    {
+                        "fr": "Welt",
+                        "al": "Patte"
+                    },
+                    {
+                        "fr": "Raglan",
+                        "al": "Positionné en biais"
                     }
                 ]
             },
