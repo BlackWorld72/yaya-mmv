@@ -2001,7 +2001,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": "Pockets",
+                "nom": "3 - Vêtements - Pockets",
                 "words": [
                     {
                         "fr": "Patch pockets - Poches plaquées",
@@ -2146,7 +2146,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": "Skirts",
+                "nom": "3 - Vêtement - Skirts",
                 "words": [
                     {
                         "fr": "Circle - Cercle",
@@ -2199,7 +2199,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": "Sleeves",
+                "nom": "3 - Vêtement - Sleeves",
                 "words": [
                     {
                         "fr": "Pangoda sleeve - Manche pagode",
@@ -2256,7 +2256,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": "Collar and Neckline",
+                "nom": "3 - Vêtement - Collar and Neckline",
                 "words": [
                     {
                         "fr": "Mandarin collar - Col officier",
@@ -2357,7 +2357,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": "Pleats",
+                "nom": "3 - Vêtement - Pleats",
                 "words": [
                     {
                         "fr": "Flat pleats - Pli plats",
