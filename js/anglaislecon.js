@@ -337,6 +337,43 @@ anglais =
 					,{"text1":{"text":"5 ","lang":""},"text2":{"text":" Pièces jointes, conclusion","lang":""}}
 
 				]
+			},
+
+			{
+				"nom": " L32 - Shopping - The simple present",
+				"words": [ {"text1":{"text":"Troisième personne ","lang":""},"text2":{"text":" Possède un S","lang":""}}
+					,{"text1":{"text":"Auxiliaire ","lang":""},"text2":{"text":" Do (pour l'interrogative et négative) ","lang":""}}
+
+				]
+			},
+
+			{
+				"nom": " L33 - Shopping - The continuous present",
+				"words": [ {"text1":{"text":"Construction ","lang":""},"text2":{"text":" Be au présent + Vb ing","lang":""}}
+					,{"text1":{"text":"Incompatiblités ","lang":""},"text2":{"text":" Perceptions involontaire (see, hear, smell, taste) - Sentiments et opinion (love, hate, think, believe) - Activités mentales (know, realise, understand) ","lang":""}}
+					,{"text1":{"text":"Incompatiblités ","lang":""},"text2":{"text":" Perceptions involontaire (see, hear, smell, taste) - Sentiments et opinion (love, hate, think, believe) - Activités mentales (know, realise, understand) ","lang":""}}
+
+				]
+			},
+
+			{
+				"nom": " L34 - Shopping - Verbs of taste & feeling",
+				"words": [ {"text1":{"text":"Un gout permanent ","lang":""},"text2":{"text":" Vb de goût + ing (I like sewing)","lang":""}}
+					,{"text1":{"text":"Un sentiment ponctuel ","lang":""},"text2":{"text":" Vb de goût + infinitif (I dislike to wait)","lang":""}}
+					,{"text1":{"text":"Au conditionnel ","lang":""},"text2":{"text":" Conditionnel + to + infinitif (I would like to sleep)","lang":""}}
+					,{"text1":{"text":"I loathe / I resent ","lang":""},"text2":{"text":" Je deteste","lang":""}}
+					,{"text1":{"text":"I can't bear / I can't stand / I can't face ","lang":""},"text2":{"text":" Je ne supporte pas","lang":""}}
+					,{"text1":{"text":"I fancy ","lang":""},"text2":{"text":" J'ai envie","lang":""}}
+					,{"text1":{"text":"I'm keen on ","lang":""},"text2":{"text":" Intérêt sur","lang":""}}
+
+				]
+			},
+			{
+				"nom": " L35 - Shopping - Make or do",
+				"words": [ {"text1":{"text":"Do ","lang":""},"text2":{"text":" Agir - Des activités, en général","lang":""}}
+					,{"text1":{"text":"Make ","lang":""},"text2":{"text":" Création, fabrication, action délibérée","lang":""}}
+
+				]
 			}
 		]
 	}

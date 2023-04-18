@@ -2199,6 +2199,164 @@ anglais_tech =
                 ]
             },
             {
+                "nom": "Sleeves",
+                "words": [
+                    {
+                        "fr": "Pangoda sleeve - Manche pagode",
+                        "al": "<img> 338459842_245130757990205_1060806599616776997_n"
+                    },
+                    {
+                        "fr": "Shirt sleeve - Manche chemisier",
+                        "al": "<img> 338496854_928363894977703_4608781011387801420_n"
+                    },
+                    {
+                        "fr": "3-dart cap sleeve - Manche toit",
+                        "al": "<img> 338486582_906418677248936_1032543443272683054_n"
+                    },
+                    {
+                        "fr": "Mutton sleeve / Juliet sleeve - Manche façon gigot",
+                        "al": "<img> 338485745_1261762531423913_847977825285151831_n"
+                    },
+                    {
+                        "fr": "Fitted sleeve - Manche coudée",
+                        "al": "<img> 338477605_181327781460907_4203636643143167052_n"
+                    },
+                    {
+                        "fr": "Raglan sleeve - Manche raglan",
+                        "al": "<img> 338581822_1378729562950742_6974641221129701912_n"
+                    },
+                    {
+                        "fr": "Flared puffed sleeve - Manche évasée bouffante",
+                        "al": "<img> 338602331_6187920081246805_2903589448456303178_n"
+                    },
+                    {
+                        "fr": "Flared balloon sleeve - Manche évasée ballon",
+                        "al": "<img> 338568609_742269594207291_8265837175494799503_n"
+                    },
+                    {
+                        "fr": "Flared butterfly sleeve - Manche évasée papillon",
+                        "al": "<img> 329987193_3539391356310434_142747152874108541_n"
+                    },
+                    {
+                        "fr": "With self-gusset sleeve - Manche gousset à même",
+                        "al": "<img> 338536707_247043557724861_493148674407514873_n"
+                    },
+                    {
+                        "fr": "With or dolman sleeve - Manche large ou chauve-souris",
+                        "al": "<img> 338561132_621615836506548_896421135468059542_n"
+                    },
+                    {
+                        "fr": "Straight sleeve - Manche droite",
+                        "al": "<img> 338520799_175501018719298_4593683496401748196_n"
+                    },
+                    {
+                        "fr": "Tailored sleeve - Manche tailleur",
+                        "al": "<img> 330105598_148031507997539_2074626642316723411_n"
+                    }
+                ]
+            },
+            {
+                "nom": "Collar and Neckline",
+                "words": [
+                    {
+                        "fr": "Mandarin collar - Col officier",
+                        "al": "<img> 338457451_619747149664440_6924524099217213427_n"
+                    },
+                    {
+                        "fr": "Stocktie collar - Col cravate",
+                        "al": "<img> 338576819_977485156746580_7963397554474077804_n"
+                    },
+                    {
+                        "fr": "Flared collar - Col évasée",
+                        "al": "<img> 338862293_760100825706969_8366705666397128608_n"
+                    },
+                    {
+                        "fr": "Medicis collar - Col medicis",
+                        "al": "<img> 338438286_186210284272810_6900833988264315994_n 338474377_1183009249069313_440191255076066895_n"
+                    },
+                    {
+                        "fr": "Soft neckline- Encolure montante",
+                        "al": "<img> 338482587_1750312198717745_1785425040847742055_n"
+                    },
+                    {
+                        "fr": "Shirt collar - Col chemisier pointu",
+                        "al": "<img> 338477599_1639447799838120_4339388486109984860_n"
+                    },
+                    {
+                        "fr": "Round collar - Col chemisier arrondi",
+                        "al": "<img> 338439499_605607884784612_5874912872758711264_n"
+                    },
+                    {
+                        "fr": "Shawl collar - Col châle",
+                        "al": "<img> 338421715_909199230305347_3512676295884056879_n"
+                    },
+                    {
+                        "fr": "Shirtwaist collar - Col chemisier ouvert",
+                        "al": "<img> 338523652_1649981125446546_4035345795888424493_n"
+                    },
+                    {
+                        "fr": "Simple shirt collar - Col chemisier simple",
+                        "al": "<img> 338474377_240341891825271_5846041129706793642_n"
+                    },
+                    {
+                        "fr": "Talored collar - Col tailleur",
+                        "al": "<img> 338472980_1145317169639787_1985977197294022492_n"
+                    },
+                    {
+                        "fr": "V-neckline - Encolure en V",
+                        "al": "<img> 338502519_221711900473365_4804751740278102196_n"
+                    },
+                    {
+                        "fr": "Crew / Jewel neckline - Encolure dégagée",
+                        "al": "<img> 338582444_1274799750116733_5774977812787221283_n"
+                    },
+                    {
+                        "fr": "Square neckline - Encolure carré",
+                        "al": "<img> 338593677_797301865096506_1319319473536198054_n"
+                    },
+                    {
+                        "fr": "Peter Pan",
+                        "al": "<img> 338452484_178400691751301_3319367361374795722_n"
+                    },
+                    {
+                        "fr": "Sailor collar - Col marin",
+                        "al": "<img> 330098135_622265842657725_375130654842178772_n"
+                    },
+                    {
+                        "fr": "Collar band / Collar stand - Pied de col",
+                        "al": "<img> 338558555_185720987640239_1621805543667749481_n"
+                    },
+                    {
+                        "fr": "Fall of collar - Tombant de col",
+                        "al": "<img> 338442519_525433546465717_8347036198687389552_n"
+                    },
+                    {
+                        "fr": "Roll line - Ligne de cassure",
+                        "al": "<img> 338471598_1369275437249829_7670227280748668013_n"
+                    },
+                    {
+                        "fr": "Straight collar",
+                        "al": "Col droit"
+                    },
+                    {
+                        "fr": "Collar with separate collar stand",
+                        "al": "Col à pied rapporté"
+                    },
+                    {
+                        "fr": "Collar with self collar-stand",
+                        "al": "Col à pied de col à même"
+                    },
+                    {
+                        "fr": "Neckline and flat collar",
+                        "al": "Encolure et col plat"
+                    },
+                    {
+                        "fr": "Hoods",
+                        "al": "Capuches"
+                    }
+                ]
+            },
+            {
                 "nom": "Pleats",
                 "words": [
                     {

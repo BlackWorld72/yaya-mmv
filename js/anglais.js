@@ -728,5 +728,125 @@ anglais =
 
                 ]
             },
+
+            {
+                "nom": " 6 - Shopping - Store (A)",
+                "words": [ {"text1":{"text":"Grocery shopping ","lang":""},"text2":{"text":" Super-marché","lang":""}}
+                    ,{"text1":{"text":"Checkout ","lang":""},"text2":{"text":" La caisse du magasin","lang":""}}
+                    ,{"text1":{"text":"Basket ","lang":""},"text2":{"text":" Un panier","lang":""}}
+                    ,{"text1":{"text":"Trolley ","lang":""},"text2":{"text":" Un caddie","lang":""}}
+                    ,{"text1":{"text":"A shelf / Shelves ","lang":""},"text2":{"text":" Rayon","lang":""}}
+                    ,{"text1":{"text":"To be likely to + BV ","lang":""},"text2":{"text":" Etre susceptible de","lang":""}}
+                    ,{"text1":{"text":"To grocery shop / To run errands / To do the shopping ","lang":""},"text2":{"text":" Faire les courses (de nouriture)","lang":""}}
+                    ,{"text1":{"text":"To go shopping ","lang":""},"text2":{"text":" Faire les courses (pour les activités)","lang":""}}
+                    ,{"text1":{"text":"Branches ","lang":""},"text2":{"text":" Chaines (magasin)","lang":""}}
+                    ,{"text1":{"text":"Aisles ","lang":""},"text2":{"text":" Allés du magasin","lang":""}}
+                    ,{"text1":{"text":"A sale ","lang":""},"text2":{"text":" Un solde (réduction)","lang":""}}
+                    ,{"text1":{"text":"Shopping centre ","lang":""},"text2":{"text":" Centre commercial","lang":""}}
+                    ,{"text1":{"text":"Refund ","lang":""},"text2":{"text":" Remboursement","lang":""}}
+                    ,{"text1":{"text":"Stalls ","lang":""},"text2":{"text":" Des standes","lang":""}}
+                    ,{"text1":{"text":"To haggle ","lang":""},"text2":{"text":" Marchander (négocier)","lang":""}}
+                    ,{"text1":{"text":"A purchase ","lang":""},"text2":{"text":" Un achat","lang":""}}
+                    ,{"text1":{"text":"To window shopping ","lang":""},"text2":{"text":" Faire du lèche vitrine","lang":""}}
+                    ,{"text1":{"text":"A chemistry / Drugstore ","lang":""},"text2":{"text":" Pharmacie","lang":""}}
+                    ,{"text1":{"text":"Book / Gift / Sweet - Candy / Shoe / Secondhand  - shop  ","lang":""},"text2":{"text":" Magasin de livre / souvenir / bonbon / chaussure / seconde main","lang":""}}
+                    ,{"text1":{"text":"Sweet shop / Candy shop ","lang":""},"text2":{"text":" Magasin de bonbon","lang":""}}
+                    ,{"text1":{"text":"Butchery ","lang":""},"text2":{"text":" Boucherie","lang":""}}
+                    ,{"text1":{"text":"Greengrocery ","lang":""},"text2":{"text":" Epicerie (fruit et légume)","lang":""}}
+                    ,{"text1":{"text":"Bakery ","lang":""},"text2":{"text":" Boulangerie","lang":""}}
+                    ,{"text1":{"text":"A florist ","lang":""},"text2":{"text":" Un fleuriste","lang":""}}
+                    ,{"text1":{"text":"A bunch ","lang":""},"text2":{"text":" Un bouquet","lang":""}}
+                    ,{"text1":{"text":"A plant shop / Garden center ","lang":""},"text2":{"text":" Magasin de plante","lang":""}}
+                    ,{"text1":{"text":"A boutique ","lang":""},"text2":{"text":" Magasin de vêtement","lang":""}}
+                    ,{"text1":{"text":"Shopassistance / Salesassistant / A sales clerk ","lang":""},"text2":{"text":" Assistant commerciale","lang":""}}
+                    ,{"text1":{"text":"A window shopper ","lang":""},"text2":{"text":" Qqln qui fait du lèche vitrine","lang":""}}
+
+                ]
+            },
+
+            {
+                "nom": " 6 - Shopping - Store (B)",
+                "words": [ {"text1":{"text":"Fittingroom ","lang":""},"text2":{"text":" Cabine d'essayage","lang":""}}
+                    ,{"text1":{"text":"The receipt ","lang":""},"text2":{"text":" Le ticket","lang":""}}
+                    ,{"text1":{"text":"Retail stores ","lang":""},"text2":{"text":" Un commerce","lang":""}}
+                    ,{"text1":{"text":"Grocery ","lang":""},"text2":{"text":" L'épicerie","lang":""}}
+                    ,{"text1":{"text":"The layout ","lang":""},"text2":{"text":" La disposition","lang":""}}
+                    ,{"text1":{"text":"Be displayed ","lang":""},"text2":{"text":" Etre présenté ","lang":""}}
+                    ,{"text1":{"text":"Entrance ","lang":""},"text2":{"text":" L'entrée","lang":""}}
+                    ,{"text1":{"text":"A spot ","lang":""},"text2":{"text":" Un endroit","lang":""}}
+                    ,{"text1":{"text":"Non-food-items ","lang":""},"text2":{"text":" Produits non alimentaire","lang":""}}
+                    ,{"text1":{"text":"Customers ","lang":""},"text2":{"text":" Clients","lang":""}}
+                    ,{"text1":{"text":"To grab ","lang":""},"text2":{"text":" Saisir","lang":""}}
+                    ,{"text1":{"text":"To tend ","lang":""},"text2":{"text":" Tendance","lang":""}}
+                    ,{"text1":{"text":"A can of ","lang":""},"text2":{"text":" Une canette","lang":""}}
+                    ,{"text1":{"text":"A bunch of ","lang":""},"text2":{"text":" Une grappe","lang":""}}
+                    ,{"text1":{"text":"A jar of ","lang":""},"text2":{"text":" Un pot","lang":""}}
+                    ,{"text1":{"text":"A real bargain ","lang":""},"text2":{"text":" Une véritable affaire","lang":""}}
+                    ,{"text1":{"text":"To play through the nose ","lang":""},"text2":{"text":" Payer le prix fort","lang":""}}
+                    ,{"text1":{"text":"A real rip-off ","lang":""},"text2":{"text":" Une véritable escroquerie","lang":""}}
+                    ,{"text1":{"text":"Tag ","lang":""},"text2":{"text":" Etiquette","lang":""}}
+                    ,{"text1":{"text":"Price list ","lang":""},"text2":{"text":" Un devis","lang":""}}
+                    ,{"text1":{"text":"Current ","lang":""},"text2":{"text":" Actuel","lang":""}}
+                    ,{"text1":{"text":"Wholesale ","lang":""},"text2":{"text":" Grossiste","lang":""}}
+                    ,{"text1":{"text":"Shipped ","lang":""},"text2":{"text":" Expédié","lang":""}}
+                    ,{"text1":{"text":"Delivered ","lang":""},"text2":{"text":" Livré","lang":""}}
+                    ,{"text1":{"text":"Goods ","lang":""},"text2":{"text":" Produits","lang":""}}
+                    ,{"text1":{"text":"Charge me ","lang":""},"text2":{"text":" Me facturer","lang":""}}
+                    ,{"text1":{"text":"A delivery fee ","lang":""},"text2":{"text":" Frais de livraison","lang":""}}
+                    ,{"text1":{"text":"Business days ","lang":""},"text2":{"text":" Jour ouvrable","lang":""}}
+
+                ]
+            },
+
+            {
+                "nom": " 6 - Shopping - Oral comprehension",
+                "words": [ {"text1":{"text":"Usually ","lang":""},"text2":{"text":" En général","lang":""}}
+                    ,{"text1":{"text":"Although ","lang":""},"text2":{"text":" Bien que","lang":""}}
+                    ,{"text1":{"text":"Department store ","lang":""},"text2":{"text":" Grand magasin","lang":""}}
+                    ,{"text1":{"text":"Flea markets ","lang":""},"text2":{"text":" Marché aux puces","lang":""}}
+                    ,{"text1":{"text":"Have a look around ","lang":""},"text2":{"text":" Jeter un coup d'oeil","lang":""}}
+                    ,{"text1":{"text":"Store ","lang":""},"text2":{"text":" Magaasin","lang":""}}
+                    ,{"text1":{"text":"Stroll around ","lang":""},"text2":{"text":" Se promener","lang":""}}
+                    ,{"text1":{"text":"Supplies ","lang":""},"text2":{"text":" Fournitures","lang":""}}
+                    ,{"text1":{"text":"To avoid ","lang":""},"text2":{"text":" Eviter","lang":""}}
+                    ,{"text1":{"text":"I tend ","lang":""},"text2":{"text":" J'ai tendance","lang":""}}
+                    ,{"text1":{"text":"Rely on ","lang":""},"text2":{"text":" Compter sur","lang":""}}
+                    ,{"text1":{"text":"Charity shops ","lang":""},"text2":{"text":" Magasin de bienfaisance","lang":""}}
+                    ,{"text1":{"text":"Once worn ","lang":""},"text2":{"text":" Porté une fois","lang":""}}
+                    ,{"text1":{"text":"As far ","lang":""},"text2":{"text":" Jusqu'à","lang":""}}
+                    ,{"text1":{"text":"To browse ","lang":""},"text2":{"text":" Naviguer","lang":""}}
+
+                ]
+            },
+            {
+                "nom": " 6 - Shopping - Verbs",
+                "words": [ {"text1":{"text":"To intend ","lang":""},"text2":{"text":" Avoir l'intention","lang":""}}
+                    ,{"text1":{"text":"To belong ","lang":""},"text2":{"text":" Appartenir","lang":""}}
+                    ,{"text1":{"text":"Not seem ","lang":""},"text2":{"text":" Ne semble pas","lang":""}}
+                    ,{"text1":{"text":"Greek ","lang":""},"text2":{"text":" Grec","lang":""}}
+                    ,{"text1":{"text":"Supper ","lang":""},"text2":{"text":" Dîner","lang":""}}
+                    ,{"text1":{"text":"Workmen ","lang":""},"text2":{"text":" Ouvrier","lang":""}}
+                    ,{"text1":{"text":"To complain ","lang":""},"text2":{"text":" Se plaindre","lang":""}}
+                    ,{"text1":{"text":"To mend ","lang":""},"text2":{"text":" Réparer","lang":""}}
+                    ,{"text1":{"text":"To increase ","lang":""},"text2":{"text":" Augmenter","lang":""}}
+                    ,{"text1":{"text":"The oil tanker ","lang":""},"text2":{"text":" Le pétrolier","lang":""}}
+                    ,{"text1":{"text":"As far as ","lang":""},"text2":{"text":" Jusqu'au","lang":""}}
+                    ,{"text1":{"text":"The harbour ","lang":""},"text2":{"text":" Le port","lang":""}}
+                    ,{"text1":{"text":"How time flies ","lang":""},"text2":{"text":" Le temps passe vite","lang":""}}
+                    ,{"text1":{"text":"To take off ","lang":""},"text2":{"text":" Décolle","lang":""}}
+                    ,{"text1":{"text":"Downhearted ","lang":""},"text2":{"text":" Découragée","lang":""}}
+                    ,{"text1":{"text":"To knit ","lang":""},"text2":{"text":" Tricoter","lang":""}}
+                    ,{"text1":{"text":"Outstanding ","lang":""},"text2":{"text":" Remarquable","lang":""}}
+                    ,{"text1":{"text":"Efficient ","lang":""},"text2":{"text":" Efficace","lang":""}}
+                    ,{"text1":{"text":"Relevant ","lang":""},"text2":{"text":" Pertinent","lang":""}}
+                    ,{"text1":{"text":"Gripping / Compelling ","lang":""},"text2":{"text":" Captivant","lang":""}}
+                    ,{"text1":{"text":"Appealing ","lang":""},"text2":{"text":" Attrayant","lang":""}}
+                    ,{"text1":{"text":"Unbearable ","lang":""},"text2":{"text":" Insuportable","lang":""}}
+                    ,{"text1":{"text":"Far-fetched ","lang":""},"text2":{"text":" Tiré par les cheveux","lang":""}}
+                    ,{"text1":{"text":"Ludicrous / Laughable ","lang":""},"text2":{"text":" Ridicule","lang":""}}
+                    ,{"text1":{"text":"Ludicrous / Laughable ","lang":""},"text2":{"text":" Ridicule","lang":""}}
+
+                ]
+            }
         ]
     }
