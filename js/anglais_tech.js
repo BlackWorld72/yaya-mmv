@@ -2001,7 +2001,7 @@ anglais_tech =
                 ]
             },
             {
-                "nom": "3 - Vêtements - Pockets",
+                "nom": "3 - Vêtement - Pockets",
                 "words": [
                     {
                         "fr": "Patch pockets - Poches plaquées",
