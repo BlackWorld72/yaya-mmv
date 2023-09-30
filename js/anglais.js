@@ -847,6 +847,54 @@ anglais =
                     ,{"text1":{"text":"Ludicrous / Laughable ","lang":""},"text2":{"text":" Ridicule","lang":""}}
 
                 ]
+            },
+            {
+                "nom": " 7 - Rappels - Rappels", 
+                "words": [ {"text1":{"text":"Scotland ","lang":""},"text2":{"text":" Ecosse","lang":""}}
+                    ,{"text1":{"text":"To tidy ","lang":""},"text2":{"text":" Ranger","lang":""}}
+                    ,{"text1":{"text":"At all ","lang":""},"text2":{"text":" Dutout","lang":""}}
+                    ,{"text1":{"text":"Silly ","lang":""},"text2":{"text":" Idiot","lang":""}}
+                    ,{"text1":{"text":"Dozens ","lang":""},"text2":{"text":" Dizaines","lang":""}}
+                    ,{"text1":{"text":"Factory ","lang":""},"text2":{"text":" Usine","lang":""}}
+                    ,{"text1":{"text":"To shout ","lang":""},"text2":{"text":" Crier","lang":""}}
+
+                ] 
+            }, 
+            {   
+                "nom": " 8 - Rapport - Work placement (A)", 
+                "words": [ {"text1":{"text":"The workplace ","lang":""},"text2":{"text":" Lieu de travail","lang":""}}
+                    ,{"text1":{"text":"Company ","lang":""},"text2":{"text":" Entreprise ","lang":""}}
+                    ,{"text1":{"text":"Located ","lang":""},"text2":{"text":" Situé","lang":""}}
+                    ,{"text1":{"text":"Parent company ","lang":""},"text2":{"text":" Société mère","lang":""}}
+                    ,{"text1":{"text":"The company head ","lang":""},"text2":{"text":" Chef d entreprise","lang":""}}
+                    ,{"text1":{"text":"A trainee ","lang":""},"text2":{"text":" Un stagiaire","lang":""}}
+                    ,{"text1":{"text":"A supervisor ","lang":""},"text2":{"text":" Un maître de stage","lang":""}}
+                    ,{"text1":{"text":"A temp ","lang":""},"text2":{"text":" Intérimaire","lang":""}}
+                    ,{"text1":{"text":"Staff manager ","lang":""},"text2":{"text":" Responsable du personnel","lang":""}}
+                    ,{"text1":{"text":"In-house training / On the job training ","lang":""},"text2":{"text":" Formation interne","lang":""}}
+                    ,{"text1":{"text":"Department ","lang":""},"text2":{"text":" Secteur","lang":""}}
+                    ,{"text1":{"text":"Overtime ","lang":""},"text2":{"text":" Heure supplémentaire","lang":""}}
+                    ,{"text1":{"text":"Committed / Dedicated ","lang":""},"text2":{"text":" Impliqué","lang":""}}
+                    ,{"text1":{"text":"Efficient ","lang":""},"text2":{"text":" Efficace","lang":""}}
+                    ,{"text1":{"text":"Get along well with ","lang":""},"text2":{"text":" Bien s’entendre avec","lang":""}}
+                    ,{"text1":{"text":"Drawback ","lang":""},"text2":{"text":" Inconvénient","lang":""}}
+                    ,{"text1":{"text":"Computer-aided design ","lang":""},"text2":{"text":" Conception assisté par ordinateur ","lang":""}}
+    
+                ] 
+            },
+            {
+                "nom": " 8 - Rapport - Work placement (B)", 
+                "words": [ {"text1":{"text":"A feat ","lang":""},"text2":{"text":" Un exploit","lang":""}}
+                    ,{"text1":{"text":"Run out ","lang":""},"text2":{"text":" Ne plus avoir","lang":""}}
+                    ,{"text1":{"text":"A play ","lang":""},"text2":{"text":" Une pièce de théâtre","lang":""}}
+                    ,{"text1":{"text":"Quite ","lang":""},"text2":{"text":" Tout à fait","lang":""}}
+                    ,{"text1":{"text":"Managing director ","lang":""},"text2":{"text":" Directeur général","lang":""}}
+                    ,{"text1":{"text":"The frame of mind ","lang":""},"text2":{"text":" Dans l’esprit de","lang":""}}
+                    ,{"text1":{"text":"To tackle ","lang":""},"text2":{"text":" Attaquer","lang":""}}
+                    ,{"text1":{"text":"An asset ","lang":""},"text2":{"text":" Un atout","lang":""}}
+                    ,{"text1":{"text":"Design office ","lang":""},"text2":{"text":" Bureau d’étude","lang":""}}
+    
+                ] 
             }
         ]
     }

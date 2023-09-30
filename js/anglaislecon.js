@@ -374,6 +374,37 @@ anglais =
 					,{"text1":{"text":"Make ","lang":""},"text2":{"text":" Création, fabrication, action délibérée","lang":""}}
 
 				]
+			},
+			{
+				"nom": " L36 - Rapport - Réaliser", 
+				"words": [ {"text1":{"text":"Do / Carry out / Perform ","lang":""},"text2":{"text":" An experiment / A project / A job / A task / An investigation","lang":""}}
+					,{"text1":{"text":"Make ","lang":""},"text2":{"text":" Something difficult / A profit","lang":""}}
+					,{"text1":{"text":"Perform / Accomplish ","lang":""},"text2":{"text":" A feat","lang":""}}
+					,{"text1":{"text":"Achieve ","lang":""},"text2":{"text":" An ambition / Success / A score","lang":""}}
+					,{"text1":{"text":"Carry out / Implement ","lang":""},"text2":{"text":" A plan","lang":""}}
+					,{"text1":{"text":"Construct / Build ","lang":""},"text2":{"text":" A building","lang":""}}
+					,{"text1":{"text":"Build / Design ","lang":""},"text2":{"text":" A machine / A device","lang":""}}
+					,{"text1":{"text":"Direct ","lang":""},"text2":{"text":" A film / A TV broadcast","lang":""}}
+					,{"text1":{"text":"Fulfil ","lang":""},"text2":{"text":" A dream / A wish","lang":""}}
+					,{"text1":{"text":"Realise ","lang":""},"text2":{"text":" Se rendre compte de","lang":""}}
+	
+				] 
+			},
+			{
+				"nom": " L37 - Rapport - Prétérit imaginaire ", 
+				"words": [ {"text1":{"text":"If I were ","lang":""},"text2":{"text":" I would be","lang":""}}
+	
+				] 
+			},	
+			{
+				"nom": " L37 > Rapport - Present perfect", 
+				"words": [ {"text1":{"text":"Formation ","lang":""},"text2":{"text":" Auxiliaire (présent) + Verbe Participe passé","lang":""}}
+					,{"text1":{"text":"Utilisation ","lang":""},"text2":{"text":" Action passé continu au présent / Action passé avec conséquence ou bilan sur le présent","lang":""}}
+					,{"text1":{"text":"Exemple ","lang":""},"text2":{"text":" She has had dozens of jobs in her life","lang":""}}
+					,{"text1":{"text":"Since ","lang":""},"text2":{"text":" Date","lang":""}}
+					,{"text1":{"text":"For ","lang":""},"text2":{"text":" Durée (Present perfect) / Pendant (Preterit)","lang":""}}
+	
+				] 
 			}
 		]
 	}
