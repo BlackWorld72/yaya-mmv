@@ -2423,6 +2423,53 @@ anglais_tech =
                         "al": " Traditional long blue Scottish denim ? jacket"
                     }
                 ]
+            }, 
+            {
+                "nom": " L4 - Signaling textiles", 
+                "words": [ {"text1":{"text":"Without signaling textiles ","lang":""},"text2":{"text":"  Can't be seen at night, increase the risk of an accident","lang":""}}
+                    ,{"text1":{"text":"Waistcoat ","lang":""},"text2":{"text":" Gilet de protection","lang":""}}
+                    ,{"text1":{"text":"Coverage ","lang":""},"text2":{"text":" Couverture (Recouvrement de zone du corps)","lang":""}}
+                    ,{"text1":{"text":"The goal of high-visibility clothing ","lang":""},"text2":{"text":" To increase a person's visibility and prevent accidents","lang":""}}
+                    ,{"text1":{"text":"The response of time of a driver ","lang":""},"text2":{"text":" It depends on wheter the person wears the high visibility garment or not","lang":""}}
+                    ,{"text1":{"text":"Who are concerned ","lang":""},"text2":{"text":" Pedestrians, Fireman, Paramedics, Policeman, construction workers","lang":""}}
+                    ,{"text1":{"text":"Exemple of safety gear ","lang":""},"text2":{"text":" A high visibility waistcoat, safety shoes, a helmet with reflective parts, signaling rainwear, signaling gloves","lang":""}}
+                    ,{"text1":{"text":"Fluorescent material ","lang":""},"text2":{"text":" Uses invisibible ultraviolet light from sunlight and send it back to the viewer.  Only work with a natural source of light","lang":""}}
+                    ,{"text1":{"text":"Retro reflective material ","lang":""},"text2":{"text":" Return the light in the direction of the light source. Only work if there is a light beam","lang":""}}
+                    ,{"text1":{"text":"Light's beam ","lang":""},"text2":{"text":" Faisceau lumineux","lang":""}}
+                    ,{"text1":{"text":"Micro glass beads technology ","lang":""},"text2":{"text":" The fabric - Resine - Metal cover - Microbeads - Surface resin. Microbead works with light. The beam of light enters the microbead, reflecting off a metal cover and reflect the beam back to the light source. Advantage ; Flexible, confortable to ear, soft, reliable because it s old, cheap, easy to cut. Inconvenience ; With rubbing and washing, beads get detached and do not reflect anymore.","lang":""}}
+                    ,{"text1":{"text":"Rubbing ","lang":""},"text2":{"text":" Frottement","lang":""}}
+                    ,{"text1":{"text":"Beads ","lang":""},"text2":{"text":" Billes","lang":""}}
+                    ,{"text1":{"text":"Micro prismatic technology ","lang":""},"text2":{"text":" The fabric - Glue - Layer of mcroprisms, with metal cover - Transparent coating. The light enter microprisms, reflect the 3 triangles shapesurfaces and go back to the surface. Advantage ; Better reflective qualities. Inconvenience ; More rigid, new technology so more expensive","lang":""}}
+                    ,{"text1":{"text":"Layer ","lang":""},"text2":{"text":" Epaisseur","lang":""}}
+                    ,{"text1":{"text":"Coating ","lang":""},"text2":{"text":" Enduit","lang":""}}
+                    ,{"text1":{"text":"Class ","lang":""},"text2":{"text":" There are 3 classes of garment based on body coverage","lang":""}}
+                    ,{"text1":{"text":"Class 1 ","lang":""},"text2":{"text":" Provides the lowest body coverage and good visibility","lang":""}}
+                    ,{"text1":{"text":"Class 2 ","lang":""},"text2":{"text":" Provides moderate body coverage and superior visibility","lang":""}}
+                    ,{"text1":{"text":"Class 3 ","lang":""},"text2":{"text":" Provides the greatest body coverage and visibility under poor light condition and great distance","lang":""}} 
+                ] 
+            }, 
+            {
+                "nom": " ? - ? - Technical Sheet", 
+                "words": [ {"text1":{"text":"Code d'entretien ","lang":""},"text2":{"text":" Care label","lang":""}}
+                    ,{"text1":{"text":"Fil couture ","lang":""},"text2":{"text":" Thread","lang":""}}
+                    ,{"text1":{"text":"Stoppeur ","lang":""},"text2":{"text":" Stopper","lang":""}}
+                    ,{"text1":{"text":"Puce taille ","lang":""},"text2":{"text":" Size label","lang":""}}
+                    ,{"text1":{"text":"Vignette de composition ","lang":""},"text2":{"text":" Composition label","lang":""}}
+                    ,{"text1":{"text":"Etiquette d'entretien ","lang":""},"text2":{"text":" Care label","lang":""}}
+                    ,{"text1":{"text":"Sachet plastic ","lang":""},"text2":{"text":" Plastic bag","lang":""}}
+                    ,{"text1":{"text":"Passepoil ","lang":""},"text2":{"text":" Piping","lang":""}}
+                    ,{"text1":{"text":"g/m^2 ","lang":""},"text2":{"text":" Per square meter","lang":""}}
+                    ,{"text1":{"text":"Tricot ","lang":""},"text2":{"text":" Knit","lang":""}}
+                    ,{"text1":{"text":"Bandes ","lang":""},"text2":{"text":" Stripes","lang":""}}
+                    ,{"text1":{"text":"Maille ","lang":""},"text2":{"text":" Mesh","lang":""}}
+                    ,{"text1":{"text":"Chlorage interdit ","lang":""},"text2":{"text":" Do not Bleach","lang":""}}
+                    ,{"text1":{"text":"Séchage en tambour interdit ","lang":""},"text2":{"text":" Do not trumble dry","lang":""}}
+                    ,{"text1":{"text":"Repassage à 100° ","lang":""},"text2":{"text":" Iron low","lang":""}}
+                    ,{"text1":{"text":"Nettoyage à sec interdit ","lang":""},"text2":{"text":" Do not dry clean","lang":""}}
+                    ,{"text1":{"text":"Traitement mécanique réduit ","lang":""},"text2":{"text":" Delicate agitation","lang":""}}
+                    ,{"text1":{"text":"Essorage réduit ","lang":""},"text2":{"text":" Low spin","lang":""}}
+    
+                ] 
             }
         ]
     }
