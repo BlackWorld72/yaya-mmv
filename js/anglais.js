@@ -893,6 +893,17 @@ anglais =
                     ,{"text1":{"text":"To tackle ","lang":""},"text2":{"text":" Attaquer","lang":""}}
                     ,{"text1":{"text":"An asset ","lang":""},"text2":{"text":" Un atout","lang":""}}
                     ,{"text1":{"text":"Design office ","lang":""},"text2":{"text":" Bureau d’étude","lang":""}}
+                    ,{"text1":{"text":"An assignment ","lang":""},"text2":{"text":" Tâche","lang":""}}
+                    ,{"text1":{"text":"A course ","lang":""},"text2":{"text":" Un cursus","lang":""}}
+                    ,{"text1":{"text":"A guidebook ","lang":""},"text2":{"text":" Un guide","lang":""}}
+                    ,{"text1":{"text":"To prospect ","lang":""},"text2":{"text":" Chercher ","lang":""}}
+                    ,{"text1":{"text":"Follow-up ","lang":""},"text2":{"text":" Un suivi","lang":""}}
+                    ,{"text1":{"text":"To carry out ","lang":""},"text2":{"text":" Mener","lang":""}}
+                    ,{"text1":{"text":"A headquarters ","lang":""},"text2":{"text":" Siège social","lang":""}}
+                    ,{"text1":{"text":"A subsidiary ","lang":""},"text2":{"text":" Filiale","lang":""}}
+                    ,{"text1":{"text":"A workshop ","lang":""},"text2":{"text":" Atelier","lang":""}}
+                    ,{"text1":{"text":"Be astonished ","lang":""},"text2":{"text":" Être étonné","lang":""}}
+                    ,{"text1":{"text":"To dread ","lang":""},"text2":{"text":" Craindre","lang":""}}
     
                 ] 
             }
