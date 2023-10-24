@@ -405,6 +405,33 @@ anglais =
 					,{"text1":{"text":"For ","lang":""},"text2":{"text":" Durée (Present perfect) / Pendant (Preterit)","lang":""}}
 	
 				] 
+			},
+			{
+				"nom": " L38 - Analyses - Chart / Graph",
+				"words": [ {"text1":{"text":"A line graph ","lang":""},"text2":{"text":" Une graphique linéaire","lang":""}}
+					,{"text1":{"text":"A pie chart ","lang":""},"text2":{"text":" Un diagramme circulaire","lang":""}}
+					,{"text1":{"text":"A bar chart ","lang":""},"text2":{"text":" Un diagramme à barre","lang":""}}
+					,{"text1":{"text":"A chart ","lang":""},"text2":{"text":" Un graphique","lang":""}}
+
+				]
+			},
+			{
+				"nom": " L39 - Analyses - Proportions",
+				"words": [ {"text1":{"text":"A half ","lang":""},"text2":{"text":" Un demi","lang":""}}
+					,{"text1":{"text":"Two thirds ","lang":""},"text2":{"text":" Deux tier","lang":""}}
+					,{"text1":{"text":"Three fourths / Three quarters ","lang":""},"text2":{"text":" Trois quart","lang":""}}
+					,{"text1":{"text":"Two out of ten ","lang":""},"text2":{"text":" Deux dixième","lang":""}}
+					,{"text1":{"text":"Two point five per cent ","lang":""},"text2":{"text":" 2,5%","lang":""}}
+
+				]
+			},
+			{
+				"nom": "L40 - Analyses - Comparatif",
+				"words": [{"text1":{"text":"","lang":""},"text2":{"text":"<img> IMG_5915","lang":""}}]
+			},
+			{
+				"nom": "L41 - Analyses - Superlatif",
+				"words": [{"text1":{"text":"","lang":""},"text2":{"text":"<img> IMG_5916","lang":""}}]
 			}
 		]
 	}

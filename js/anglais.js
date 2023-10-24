@@ -906,6 +906,31 @@ anglais =
                     ,{"text1":{"text":"To dread ","lang":""},"text2":{"text":" Craindre","lang":""}}
     
                 ] 
+            },
+            {
+                "nom": " 9 - Analyses - Graphs/Charts",
+                "words": [ {"text1":{"text":"It deals with ","lang":""},"text2":{"text":" Il traite de","lang":""}}
+                    ,{"text1":{"text":"A rise ","lang":""},"text2":{"text":" Une hausse","lang":""}}
+                    ,{"text1":{"text":"Skyrocketed ","lang":""},"text2":{"text":" Augmenter très rapidement","lang":""}}
+                    ,{"text1":{"text":"To soar ","lang":""},"text2":{"text":" S’élever","lang":""}}
+                    ,{"text1":{"text":"To plummet ","lang":""},"text2":{"text":" S’effondrer ","lang":""}}
+                    ,{"text1":{"text":"2 Criteria ","lang":""},"text2":{"text":" 2 Critères","lang":""}}
+                    ,{"text1":{"text":"1 Criterion ","lang":""},"text2":{"text":" 1 Critère","lang":""}}
+                    ,{"text1":{"text":"To encounter ","lang":""},"text2":{"text":" Rencontrer","lang":""}}
+                    ,{"text1":{"text":"Would be ","lang":""},"text2":{"text":" Potentiel","lang":""}}
+                    ,{"text1":{"text":"Weigh upon ","lang":""},"text2":{"text":" Peser sur","lang":""}}
+                    ,{"text1":{"text":"Scale ","lang":""},"text2":{"text":" Echelle ","lang":""}}
+                    ,{"text1":{"text":"A neat / A trim appearance ","lang":""},"text2":{"text":" Une apparence soignée ","lang":""}}
+                    ,{"text1":{"text":"Stiff ","lang":""},"text2":{"text":" Raide","lang":""}}
+                    ,{"text1":{"text":"Still ","lang":""},"text2":{"text":" Immobile","lang":""}}
+                    ,{"text1":{"text":"Arms crossed ","lang":""},"text2":{"text":" Bras croisés","lang":""}}
+                    ,{"text1":{"text":"Head nodding ","lang":""},"text2":{"text":" Hochement de tête ","lang":""}}
+                    ,{"text1":{"text":"A well-grommed hairstyle ","lang":""},"text2":{"text":" Coiffure soignée","lang":""}}
+                    ,{"text1":{"text":"Fidgetting ","lang":""},"text2":{"text":" Agitation","lang":""}}
+                    ,{"text1":{"text":"Firm ","lang":""},"text2":{"text":" Ferme (solide)","lang":""}}
+                    ,{"text1":{"text":"Well rehearshed ","lang":""},"text2":{"text":" Bien répété","lang":""}}
+
+                ]
             }
         ]
     }
