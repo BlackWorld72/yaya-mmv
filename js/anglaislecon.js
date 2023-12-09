@@ -432,6 +432,14 @@ anglais =
 			{
 				"nom": "L41 - Analyses - Superlatif",
 				"words": [{"text1":{"text":"","lang":""},"text2":{"text":"<img> IMG_5916","lang":""}}]
+			},
+			{
+				"nom": "L42 - Analyses - Comparatif spécifique",
+				"words": [{"text1":{"text":"","lang":""},"text2":{"text":"<img> IMG_6509","lang":""}}]
+			},
+			{
+				"nom": "L43 - Analyses - Forme interrogative",
+				"words": [{"text1":{"text":"","lang":""},"text2":{"text":"<img> IMG_6510","lang":""}}]
 			}
 		]
 	}

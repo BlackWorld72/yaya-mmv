@@ -920,7 +920,7 @@ anglais =
                     ,{"text1":{"text":"Would be ","lang":""},"text2":{"text":" Potentiel","lang":""}}
                     ,{"text1":{"text":"Weigh upon ","lang":""},"text2":{"text":" Peser sur","lang":""}}
                     ,{"text1":{"text":"Scale ","lang":""},"text2":{"text":" Echelle ","lang":""}}
-                    ,{"text1":{"text":"A neat / A trim appearance ","lang":""},"text2":{"text":" Une apparence soignée ","lang":""}}
+                    ,{"text1":{"text":"A neat / A trimmed appearance ","lang":""},"text2":{"text":" Une apparence soignée ","lang":""}}
                     ,{"text1":{"text":"Stiff ","lang":""},"text2":{"text":" Raide","lang":""}}
                     ,{"text1":{"text":"Still ","lang":""},"text2":{"text":" Immobile","lang":""}}
                     ,{"text1":{"text":"Arms crossed ","lang":""},"text2":{"text":" Bras croisés","lang":""}}
@@ -929,6 +929,47 @@ anglais =
                     ,{"text1":{"text":"Fidgetting ","lang":""},"text2":{"text":" Agitation","lang":""}}
                     ,{"text1":{"text":"Firm ","lang":""},"text2":{"text":" Ferme (solide)","lang":""}}
                     ,{"text1":{"text":"Well rehearshed ","lang":""},"text2":{"text":" Bien répété","lang":""}}
+
+                ]
+            },
+            {
+                "nom": " 9 - Analyses - Comparatif/Superlatif",
+                "words": [ {"text1":{"text":"Clever ","lang":""},"text2":{"text":" Astucieuse","lang":""}}
+                    ,{"text1":{"text":"Less ","lang":""},"text2":{"text":" Nom indénombrable","lang":""}}
+                    ,{"text1":{"text":"Few ","lang":""},"text2":{"text":" Nom dénombrable","lang":""}}
+                    ,{"text1":{"text":"Costly ","lang":""},"text2":{"text":" Coûteux","lang":""}}
+                    ,{"text1":{"text":"To cure ","lang":""},"text2":{"text":" Guérir","lang":""}}
+                    ,{"text1":{"text":"Properly ","lang":""},"text2":{"text":" Correctement","lang":""}}
+                    ,{"text1":{"text":"Heat ","lang":""},"text2":{"text":" Chaleur","lang":""}}
+                    ,{"text1":{"text":"Hazard ","lang":""},"text2":{"text":" Risque","lang":""}}
+                    ,{"text1":{"text":"Talkative ","lang":""},"text2":{"text":" Bavard","lang":""}}
+                    ,{"text1":{"text":"Grincheux ","lang":""},"text2":{"text":" Grumpy","lang":""}}
+                    ,{"text1":{"text":"Le moins pire ","lang":""},"text2":{"text":" The lesser","lang":""}}
+                    ,{"text1":{"text":"To fill ","lang":""},"text2":{"text":" Remplir","lang":""}}
+                    ,{"text1":{"text":"Overcrowded ","lang":""},"text2":{"text":" Surpeuplé","lang":""}}
+                    ,{"text1":{"text":"Messy ","lang":""},"text2":{"text":" Désordonné","lang":""}}
+                    ,{"text1":{"text":"Ripped-off ","lang":""},"text2":{"text":" Arnaqué","lang":""}}
+                    ,{"text1":{"text":"Fluff ","lang":""},"text2":{"text":" Peluche","lang":""}}
+                    ,{"text1":{"text":"Thumb ","lang":""},"text2":{"text":" Pouce","lang":""}}
+                    ,{"text1":{"text":"Childish ","lang":""},"text2":{"text":" Puérile","lang":""}}
+                    ,{"text1":{"text":"Anguishing ","lang":""},"text2":{"text":" Angoissant","lang":""}}
+                    ,{"text1":{"text":"Copycats ","lang":""},"text2":{"text":" Imitateurs","lang":""}}
+                    ,{"text1":{"text":"Telling pointer ","lang":""},"text2":{"text":" Révélateur","lang":""}}
+                    ,{"text1":{"text":"Abiding to the reeles ","lang":""},"text2":{"text":" Respect des règles","lang":""}}
+                    ,{"text1":{"text":"Obedient ","lang":""},"text2":{"text":" Obéissant","lang":""}}
+                    ,{"text1":{"text":"To bow ","lang":""},"text2":{"text":" Incliner","lang":""}}
+                    ,{"text1":{"text":"Cubicle ","lang":""},"text2":{"text":" Cabine","lang":""}}
+                    ,{"text1":{"text":"Paramount ","lang":""},"text2":{"text":" Essentiel (clé)","lang":""}}
+                    ,{"text1":{"text":"Flinch ","lang":""},"text2":{"text":" Sursaut","lang":""}}
+                    ,{"text1":{"text":"Side glance ","lang":""},"text2":{"text":" Regard de côté","lang":""}}
+                    ,{"text1":{"text":"Foolproof ","lang":""},"text2":{"text":" Infaillible","lang":""}}
+                    ,{"text1":{"text":"Pros ","lang":""},"text2":{"text":" Pour","lang":""}}
+                    ,{"text1":{"text":"Convenient ","lang":""},"text2":{"text":" Pratique","lang":""}}
+                    ,{"text1":{"text":"Trust worthy ","lang":""},"text2":{"text":" Digne de confiance","lang":""}}
+                    ,{"text1":{"text":"Bias free ","lang":""},"text2":{"text":" Sans préjugés","lang":""}}
+                    ,{"text1":{"text":"Workload ","lang":""},"text2":{"text":" Charge de travail","lang":""}}
+                    ,{"text1":{"text":"Youngsters ","lang":""},"text2":{"text":" Jeunes","lang":""}}
+                    ,{"text1":{"text":"Cons ","lang":""},"text2":{"text":" Contre","lang":""}}
 
                 ]
             }
