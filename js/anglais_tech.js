@@ -2382,6 +2382,255 @@ anglais_tech =
                 ]
             },
             {
+                "nom": " 4 - Tissus - Steps for fabric production",
+                "words": [ {"text1":{"text":"Woven ","lang":""},"text2":{"text":" Tissé","lang":""}}
+                    ,{"text1":{"text":"Spun ","lang":""},"text2":{"text":" Filé","lang":""}}
+                    ,{"text1":{"text":"Bind ","lang":""},"text2":{"text":" Lier","lang":""}}
+                    ,{"text1":{"text":"Reinforce ","lang":""},"text2":{"text":" Renforcer","lang":""}}
+                    ,{"text1":{"text":"Thicker ","lang":""},"text2":{"text":" Plus épais ","lang":""}}
+                    ,{"text1":{"text":"Twisted ","lang":""},"text2":{"text":" Torsadé ","lang":""}}
+                    ,{"text1":{"text":"Fancy ","lang":""},"text2":{"text":" Fantaisie","lang":""}}
+                    ,{"text1":{"text":"On the bias ","lang":""},"text2":{"text":" Plein biais","lang":""}}
+                    ,{"text1":{"text":"Warp yarns ","lang":""},"text2":{"text":" Fils de chaine","lang":""}}
+                    ,{"text1":{"text":"Cross grain ","lang":""},"text2":{"text":" Droit fil travers","lang":""}}
+                    ,{"text1":{"text":"Weft yarns ","lang":""},"text2":{"text":" Fils de trame","lang":""}}
+                    ,{"text1":{"text":"Straight grain ","lang":""},"text2":{"text":" Droit fil","lang":""}}
+                    ,{"text1":{"text":"Selvage ","lang":""},"text2":{"text":" Lisière","lang":""}}
+                    ,{"text1":{"text":"Row ","lang":""},"text2":{"text":" Rangé","lang":""}}
+                    ,{"text1":{"text":"Column ","lang":""},"text2":{"text":" Colonne","lang":""}}
+                    ,{"text1":{"text":"Jumble ","lang":""},"text2":{"text":" Encevêtrement (emmêlement)","lang":""}}
+                    ,{"text1":{"text":"Bonded ","lang":""},"text2":{"text":" Collé","lang":""}}
+                    ,{"text1":{"text":"Sweat ","lang":""},"text2":{"text":" Transpiration","lang":""}}
+                    ,{"text1":{"text":"Heat ","lang":""},"text2":{"text":" Chaleur","lang":""}}
+                    ,{"text1":{"text":"Ink ","lang":""},"text2":{"text":" Encre","lang":""}}
+                    ,{"text1":{"text":"Stencilled ","lang":""},"text2":{"text":" Pochoir","lang":""}}
+                    ,{"text1":{"text":"Neat ","lang":""},"text2":{"text":" Soigné","lang":""}}
+                    ,{"text1":{"text":"Carved ","lang":""},"text2":{"text":" Sculpté","lang":""}}
+                    ,{"text1":{"text":"Wooden blocks ","lang":""},"text2":{"text":" Bloque de bois","lang":""}}
+                    ,{"text1":{"text":"Stain ","lang":""},"text2":{"text":" Râche","lang":""}}
+                    ,{"text1":{"text":"Felting ","lang":""},"text2":{"text":" Feloutage (formation de bouloche)","lang":""}}
+                    ,{"text1":{"text":"Fireproofing ","lang":""},"text2":{"text":" Ignifugeant","lang":""}}
+
+                ]
+            },
+            {
+                "nom": " 4 - Tissus - Care Code (A)",
+                "words": [
+                    {
+                        "fr": "Machine Wash, Normal (Garment may be laundered through the use of hottest available water, detergent or soap, agitation)",
+                        "al": "<img> 420099703_411348997901883_3368972180419447903_n"
+                    },
+                    {
+                        "fr": "Machine Wash, Cold (Initial water temperature should not exceed 30C)",
+                        "al": "<img> 419927731_218969964620560_6958365716809287310_n"
+                    },
+                    {
+                        "fr": "Machine Wash, Warm (Initial water temperature should not exceed 40C)",
+                        "al": "<img> 419904785_389966993519236_8128104417826686579_n"
+                    },
+                    {
+                        "fr": "Machine Wash, Hot (Initial water temperature should not exceed 60C)",
+                        "al": "<img> 420062895_731309415614659_3851039474320977008_n"
+                    },
+                    {
+                        "fr": "Machine Wash, Hot (Initial water temperature should not exceed 95C)",
+                        "al": "<img> 420061418_392130096551044_1667108896363412898_n"
+                    },
+                    {
+                        "fr": "Machine Wash, Permanent Press (Garment may be machine laundered only on the setting designed to preserve Permanent Press with cool down or cold rinse prior to reduced spin)",
+                        "al": "<img> 420031669_743773974016480_8342222881223518707_n"
+                    },
+                    {
+                        "fr": "Machine Wash, Gentle or Delicate (Garment may be machine laundered only on the setting designed for gentle agitation and/or reduced time for delicate items)",
+                        "al": "<img> 419924624_1195223341891003_5585809086088575731_n"
+                    },
+                    {
+                        "fr": "Hand Wash (Garment may be machine laundered through the use of water, detergent or soap and gentle hand manipulation)",
+                        "al": "<img> 420041312_1139333347052826_5924655644223706110_n"
+                    },
+                    {
+                        "fr": "Do Not Wash (Garment may not be safely laundered by any process. Normally accompanied by Dry Clean instruction)",
+                        "al": "<img> 419946200_1837258130062351_357636319348119194_n"
+                    },
+                    {
+                        "fr": "Bleach When Needed (Any commercially available bleach product may be used in the laundering process)",
+                        "al": "<img> 419937028_733196618873659_8171076533844614574_n"
+                    },
+                    {
+                        "fr": "Non-Chlorine Bleach When Needed (Only a non-chlorine, color-safe bleach may be used in the laundering process. Chlorine bleach may not be used)",
+                        "al": "<img> 419923028_264547299988710_2098833430075676619_n"
+                    },
+                    {
+                        "fr": "Do Not Bleach (No bleach product may be used. The garment is not colorfast, or structurally able to withstand any bleach)",
+                        "al": "<img> 420002582_1709572152867105_3101567572853043985_n"
+                    },
+                    {
+                        "fr": "Dryclean (Dry clean, any solvent, any cycle, any moisture, any heat)",
+                        "al": "<img> 420174478_403346775377208_2379725883744949064_n"
+                    },
+                    {
+                        "fr": "Dryclean, Petroleum Solvent Only (Dry clean using only petroleum solvent. Usually used with other restrictions)",
+                        "al": "<img> 419975134_684120233914437_7296066267977120196_n"
+                    },
+                    {
+                        "fr": "Dryclean, any solvent except Trichloroethylene (Any dry cleaning solvent other than trichloroethylene may be safely used)",
+                        "al": "<img> 419932741_702382548707196_1205538512100642306_n"
+                    },
+                    {
+                        "fr": "Do Not Dryclean (Garment may not be commercially drycleaned)",
+                        "al": "<img> 412900832_316526600779077_7136831453751024248_n"
+                    },
+                ]
+            },
+            {
+                "nom": " 4 - Tissus - Care Code (B)",
+                "words": [
+                    {
+                        "fr": "Tumble Dry, Normal (A machine dryer may be regularly used at the hottest available temperature setting)",
+                        "al": "<img> 419989207_3833349516888714_3824436648913952945_n"
+                    },
+                    {
+                        "fr": "Tumble Dry, Normal, Low Heat (A machine dryer may je regularly used at the lowest Heat setting)",
+                        "al": "<img> 420108703_3585151618390388_3725555635789284914_n"
+                    },
+                    {
+                        "fr": "Tumble Dry, Normal, Medium Heat (A machine dryer may je regularly used at the maximum of Medium Heat setting)",
+                        "al": "<img> 420018450_230747813339742_1778564346855767015_n"
+                    },
+                    {
+                        "fr": "Tumble Dry, Normal, High Heat (A machine dryer may je regularly used at a High Heat setting)",
+                        "al": "<img> 419950594_7474683915915264_6831568074995799567_n"
+                    },
+                    {
+                        "fr": "Do Not Tumble Dry (A machine dryer may not be used. Usually accompanied by an alternate drying method symbol)",
+                        "al": "<img> 419941617_2073726423007995_100351263167206670_n"
+                    },
+                    {
+                        "fr": "Line Dry (Hang damp garment from line or bar, in or out doors)",
+                        "al": "<img> 420280265_959037855843540_947148368045123321_n"
+                    },
+                    {
+                        "fr": "Drip Dry (Hang dripping wet garment from line or bar, in or out doors, without hand shaping or smoothing)",
+                        "al": "<img> 420034643_398906419252976_4874444997841599310_n"
+                    },
+                    {
+                        "fr": "Dry Flat (Lay out horizontally for drying)",
+                        "al": "<img> 420111883_1121058502595008_1617793903619070771_n"
+                    },
+                    {
+                        "fr": "Dry in Shade (Usually added to Line or Drip Dry, Dry away from direct sunlight)",
+                        "al": "<img> 420023292_1071733267362589_1272301614551777148_n"
+                    },
+                    {
+                        "fr": "Iron, Any Temperature, Steam or Dry (Regular ironing may be needed and may be performed at any available temperature with or without steam is acceptable)",
+                        "al": "<img> 419943920_1129179871579077_6386558713568829136_n"
+                    },
+                    {
+                        "fr": "Iron, Low (Regular ironing, steam or dry, may be performed at Low setting (110C) only",
+                        "al": "<img> 419943917_1312475046108638_1598403014138461518_n"
+                    },
+                    {
+                        "fr": "Iron, Medium (Regular ironing, steam or dry, may be performed at Medium setting (150C) only",
+                        "al": "<img> 419959020_403621952065821_133062992285863372_n"
+                    },
+                    {
+                        "fr": "Iron, High (Regular ironing, steam or dry, may be performed at High setting (200C) only",
+                        "al": "<img> 419929289_1473131836583854_5983773105313995970_n"
+                    },
+                    {
+                        "fr": "Do Not Iron (Item may not be smooted or finished with an iron)",
+                        "al": "<img> 420180879_2107140039666978_3102136312694874117_n"
+                    },
+                ]
+            },
+            {
+                "nom": " 4 - Tissus - Care Code (C)",
+                "words": [ {"text1":{"text":"Bucket ","lang":""},"text2":{"text":" Panier","lang":""}}
+                    ,{"text1":{"text":"Laundered ","lang":""},"text2":{"text":" Lavé","lang":""}}
+                    ,{"text1":{"text":"Soap ","lang":""},"text2":{"text":" Savon","lang":""}}
+                    ,{"text1":{"text":"To felt ","lang":""},"text2":{"text":" Feutrer","lang":""}}
+                    ,{"text1":{"text":"To shrink ","lang":""},"text2":{"text":" Rétrécir","lang":""}}
+                    ,{"text1":{"text":"To leak ","lang":""},"text2":{"text":" Fuir (Déteindre)","lang":""}}
+                    ,{"text1":{"text":"To fade ","lang":""},"text2":{"text":" Déteindre","lang":""}}
+                    ,{"text1":{"text":"Permanent Press ","lang":""},"text2":{"text":" Pressage permanent","lang":""}}
+                    ,{"text1":{"text":"Cool down ","lang":""},"text2":{"text":" Refroidissement","lang":""}}
+                    ,{"text1":{"text":"Rinse ","lang":""},"text2":{"text":" Rinçage","lang":""}}
+                    ,{"text1":{"text":"Prior to ","lang":""},"text2":{"text":" Avant","lang":""}}
+                    ,{"text1":{"text":"Spin ","lang":""},"text2":{"text":" Essorage","lang":""}}
+                    ,{"text1":{"text":"For gentle ","lang":""},"text2":{"text":" De manière délicate","lang":""}}
+                    ,{"text1":{"text":"Dot ","lang":""},"text2":{"text":" Point","lang":""}}
+                    ,{"text1":{"text":"Dry cleaner ","lang":""},"text2":{"text":" Nettoyeur a sec","lang":""}}
+                    ,{"text1":{"text":"Dry clean ","lang":""},"text2":{"text":" Nettoyage à sec","lang":""}}
+                    ,{"text1":{"text":"Stain ","lang":""},"text2":{"text":" Tâche","lang":""}}
+                    ,{"text1":{"text":"Bleach ","lang":""},"text2":{"text":" Blanchissement","lang":""}}
+                    ,{"text1":{"text":"Color-safe ","lang":""},"text2":{"text":" Ne déteind pas","lang":""}}
+                    ,{"text1":{"text":"Colorfast ","lang":""},"text2":{"text":" Résistant aux couleurs","lang":""}}
+                    ,{"text1":{"text":"Withstand ","lang":""},"text2":{"text":" Résister","lang":""}}
+                    ,{"text1":{"text":"Moisture ","lang":""},"text2":{"text":" Humidité ","lang":""}}
+                    ,{"text1":{"text":"Heat ","lang":""},"text2":{"text":" Chaleyr","lang":""}}
+                    ,{"text1":{"text":"Care code laber ","lang":""},"text2":{"text":" Etiquette entretien","lang":""}}
+                    ,{"text1":{"text":"Tumble dry ","lang":""},"text2":{"text":" Sèche linge","lang":""}}
+                    ,{"text1":{"text":"Drying  ","lang":""},"text2":{"text":" Séchage","lang":""}}
+                    ,{"text1":{"text":"Hang damp ","lang":""},"text2":{"text":" Suspendre humide","lang":""}}
+                    ,{"text1":{"text":"Line or bar ","lang":""},"text2":{"text":" Fil ou barre","lang":""}}
+                    ,{"text1":{"text":"Hang dripping  ","lang":""},"text2":{"text":" Suspendre mouillé (dégoulinant)","lang":""}}
+                    ,{"text1":{"text":"Shaping ","lang":""},"text2":{"text":" Mise en forme","lang":""}}
+                    ,{"text1":{"text":"Smoothing ","lang":""},"text2":{"text":" Lissage","lang":""}}
+                    ,{"text1":{"text":"Lay out ","lang":""},"text2":{"text":" Mettre en place","lang":""}}
+                    ,{"text1":{"text":"Mishaper ","lang":""},"text2":{"text":" Déformer","lang":""}}
+                    ,{"text1":{"text":"Steam ","lang":""},"text2":{"text":" Vapeur","lang":""}}
+
+                ]
+            },
+            {
+                "nom": " 4 - Tissus - Motifs",
+                "words": [
+                    {
+                        "fr": "Tennis stripe / Tennis",
+                        "al": "<img> 420089968_771486848344299_7331151361119338872_n"
+                    },
+                    {
+                        "fr": "Herringbone / Chevron",
+                        "al": "<img> 420007204_897170368795921_1489401045747253721_n"
+                    },
+                    {
+                        "fr": "Glen plaid / Prince de Galles",
+                        "al": "<img> 419982693_665730485514370_8885500858025527542_n"
+                    },
+                    {
+                        "fr": "Houndstooth / Pied de poule",
+                        "al": "<img> 419973343_1136387263995478_3609366449035666554_n"
+                    },
+                    {
+                        "fr": "Madras / Madras ",
+                        "al": "<img> 420074099_687400306877709_1015067383344802585_n"
+                    },
+                    {
+                        "fr": "Gingham / Vichy",
+                        "al": "<img> 420099703_696922305922629_5777420746193614891_n"
+                    },
+                    {
+                        "fr": "Toile de jouy / Toule de jouy",
+                        "al": "<img> 420130685_317436524011546_9117022237382505718_n"
+                    },
+                    {
+                        "fr": "Palm leaf or paisley / Motif cachemire",
+                        "al": "<img> 420135449_940631680915597_5437934205498014628_n"
+                    },
+                    {
+                        "fr": "Liberty / Liberty",
+                        "al": "<img> 420004039_395297899532636_5703828190201570077_n"
+                    }
+                    ,{"text1":{"text":"Lace ","lang":""},"text2":{"text":" Dentelle","lang":""}}
+                    ,{"text1":{"text":"Flocking ","lang":""},"text2":{"text":" Flocage","lang":""}}
+                    ,{"text1":{"text":"Embroidery ","lang":""},"text2":{"text":" Broderie","lang":""}}
+                    ,{"text1":{"text":"Unnapped ","lang":""},"text2":{"text":" Non gratté","lang":""}}
+                    ,{"text1":{"text":"Napped ","lang":""},"text2":{"text":" Gratté","lang":""}}
+                    ,{"text1":{"text":"Pleating ","lang":""},"text2":{"text":" Plissé","lang":""}}
+
+                ]
+            },
+            {
                 "nom": " L1 - How / What",
                 "words": [
                     {
@@ -2447,29 +2696,27 @@ anglais_tech =
                     ,{"text1":{"text":"Class 2 ","lang":""},"text2":{"text":" Provides moderate body coverage and superior visibility","lang":""}}
                     ,{"text1":{"text":"Class 3 ","lang":""},"text2":{"text":" Provides the greatest body coverage and visibility under poor light condition and great distance","lang":""}} 
                 ] 
-            }, 
+            },
             {
-                "nom": " ? - ? - Technical Sheet", 
-                "words": [ {"text1":{"text":"Code d'entretien ","lang":""},"text2":{"text":" Care label","lang":""}}
-                    ,{"text1":{"text":"Fil couture ","lang":""},"text2":{"text":" Thread","lang":""}}
-                    ,{"text1":{"text":"Stoppeur ","lang":""},"text2":{"text":" Stopper","lang":""}}
-                    ,{"text1":{"text":"Puce taille ","lang":""},"text2":{"text":" Size label","lang":""}}
-                    ,{"text1":{"text":"Vignette de composition ","lang":""},"text2":{"text":" Composition label","lang":""}}
-                    ,{"text1":{"text":"Etiquette d'entretien ","lang":""},"text2":{"text":" Care label","lang":""}}
-                    ,{"text1":{"text":"Sachet plastic ","lang":""},"text2":{"text":" Plastic bag","lang":""}}
-                    ,{"text1":{"text":"Passepoil ","lang":""},"text2":{"text":" Piping","lang":""}}
-                    ,{"text1":{"text":"g/m^2 ","lang":""},"text2":{"text":" Per square meter","lang":""}}
-                    ,{"text1":{"text":"Tricot ","lang":""},"text2":{"text":" Knit","lang":""}}
-                    ,{"text1":{"text":"Bandes ","lang":""},"text2":{"text":" Stripes","lang":""}}
-                    ,{"text1":{"text":"Maille ","lang":""},"text2":{"text":" Mesh","lang":""}}
-                    ,{"text1":{"text":"Chlorage interdit ","lang":""},"text2":{"text":" Do not Bleach","lang":""}}
-                    ,{"text1":{"text":"Séchage en tambour interdit ","lang":""},"text2":{"text":" Do not trumble dry","lang":""}}
-                    ,{"text1":{"text":"Repassage à 100° ","lang":""},"text2":{"text":" Iron low","lang":""}}
-                    ,{"text1":{"text":"Nettoyage à sec interdit ","lang":""},"text2":{"text":" Do not dry clean","lang":""}}
-                    ,{"text1":{"text":"Traitement mécanique réduit ","lang":""},"text2":{"text":" Delicate agitation","lang":""}}
-                    ,{"text1":{"text":"Essorage réduit ","lang":""},"text2":{"text":" Low spin","lang":""}}
-    
-                ] 
+                "nom": "L5 - Steps for fabric production",
+                "words": [
+                    {
+                        "fr": "",
+                        "al": "<img> IMG_7255"
+                    },
+                    {
+                        "fr": "",
+                        "al": "<img> IMG_7256"
+                    },
+                    {
+                        "fr": "",
+                        "al": "<img> IMG_7257"
+                    },
+                    {
+                        "fr": "",
+                        "al": "<img> IMG_7258"
+                    },
+                ]
             }
         ]
     }

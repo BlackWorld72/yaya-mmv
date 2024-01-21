@@ -440,6 +440,13 @@ anglais =
 			{
 				"nom": "L43 - Analyses - Forme interrogative",
 				"words": [{"text1":{"text":"","lang":""},"text2":{"text":"<img> IMG_6510","lang":""}}]
+			},
+			{
+				"nom": " L44 - Textiles et environement - Traduire \"pour\"",
+				"words": [ {"text1":{"text":"L'intention, le but, l'objectif, avec un verbe ","lang":""},"text2":{"text":" To + BV / In order  to + BV / So as to  + BV / In order not to + BV / So as not to + BV / So that + Sujet + Verbe conjugué (afin que) ","lang":""}}
+					,{"text1":{"text":"L'intention, le but, l'objectif, Devant un nom ou un pronom ","lang":""},"text2":{"text":" For","lang":""}}
+					,{"text1":{"text":"La cause, la raison, le motif ","lang":""},"text2":{"text":" For +verb-ing","lang":""}}
+				]
 			}
 		]
 	}

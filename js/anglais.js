@@ -972,6 +972,73 @@ anglais =
                     ,{"text1":{"text":"Cons ","lang":""},"text2":{"text":" Contre","lang":""}}
 
                 ]
+            },
+            {
+                "nom": " 10 - Textiles et environement - Sustainable fashion (A)",
+                "words": [ {"text1":{"text":"Besides ","lang":""},"text2":{"text":" D'ailleurs","lang":""}}
+                    ,{"text1":{"text":"Nor ","lang":""},"text2":{"text":" Ni","lang":""}}
+                    ,{"text1":{"text":"Leisure time ","lang":""},"text2":{"text":" Temps libre","lang":""}}
+                    ,{"text1":{"text":"Despite ","lang":""},"text2":{"text":" Malgrés","lang":""}}
+                    ,{"text1":{"text":"Hitch-hiking ","lang":""},"text2":{"text":" Auto-stop","lang":""}}
+                    ,{"text1":{"text":"Therefore ","lang":""},"text2":{"text":" Par conséquent","lang":""}}
+                    ,{"text1":{"text":"Carbon footprint ","lang":""},"text2":{"text":" Empreinte carbone","lang":""}}
+                    ,{"text1":{"text":"Coal ","lang":""},"text2":{"text":" Charbon","lang":""}}
+                    ,{"text1":{"text":"Oil ","lang":""},"text2":{"text":" Pétrole","lang":""}}
+                    ,{"text1":{"text":"Storage ","lang":""},"text2":{"text":" Stockage","lang":""}}
+                    ,{"text1":{"text":"Power stations ","lang":""},"text2":{"text":" Central nucléair","lang":""}}
+                    ,{"text1":{"text":"Global warming ","lang":""},"text2":{"text":" Réchauffement climatique","lang":""}}
+                    ,{"text1":{"text":"Greenhouse effet ","lang":""},"text2":{"text":" Effet de serre","lang":""}}
+                    ,{"text1":{"text":"Heatwaves ","lang":""},"text2":{"text":" Vague de chaleur","lang":""}}
+                    ,{"text1":{"text":"Drought ","lang":""},"text2":{"text":" Sécheresse","lang":""}}
+                    ,{"text1":{"text":"Scare ","lang":""},"text2":{"text":" Peur","lang":""}}
+                    ,{"text1":{"text":"Scaricity ","lang":""},"text2":{"text":" Pénurie","lang":""}}
+                    ,{"text1":{"text":"Heavy ","lang":""},"text2":{"text":" Lourd","lang":""}}
+                    ,{"text1":{"text":"Beetroot ","lang":""},"text2":{"text":" Bettrave","lang":""}}
+                    ,{"text1":{"text":"Lessen ","lang":""},"text2":{"text":" Diminuer","lang":""}}
+                    ,{"text1":{"text":"Resins ","lang":""},"text2":{"text":" Résine","lang":""}}
+                    ,{"text1":{"text":"Softener ","lang":""},"text2":{"text":" Adoucissant","lang":""}}
+
+                ]
+            },
+            {
+                "nom": " 10 - Textiles et environement - Sustainable fashion (B)",
+                "words": [ {"text1":{"text":"Aloe vera ","lang":""},"text2":{"text":" C'est une plante","lang":""}}
+                    ,{"text1":{"text":"Bee wax ","lang":""},"text2":{"text":" Cire d'abeille","lang":""}}
+                    ,{"text1":{"text":"Renewable ","lang":""},"text2":{"text":" Renouvelable","lang":""}}
+                    ,{"text1":{"text":"To harness ","lang":""},"text2":{"text":" Exploiter","lang":""}}
+                    ,{"text1":{"text":"To shrink ","lang":""},"text2":{"text":" Rétrécir","lang":""}}
+                    ,{"text1":{"text":"Rinsing ","lang":""},"text2":{"text":" Rinçage","lang":""}}
+                    ,{"text1":{"text":"Wrinkling ","lang":""},"text2":{"text":" Froissement","lang":""}}
+                    ,{"text1":{"text":"Biofuel ","lang":""},"text2":{"text":" Biocarburant","lang":""}}
+                    ,{"text1":{"text":"Faeces (ppl), droppings (animals) ","lang":""},"text2":{"text":" Excréments","lang":""}}
+                    ,{"text1":{"text":"Ores ","lang":""},"text2":{"text":" Minerais","lang":""}}
+                    ,{"text1":{"text":"Endangering ","lang":""},"text2":{"text":" Mettre en danger","lang":""}}
+                    ,{"text1":{"text":"Non-replenishing ","lang":""},"text2":{"text":" Non renouvelable","lang":""}}
+                    ,{"text1":{"text":"Heavy toll ","lang":""},"text2":{"text":" Pèse lourdement","lang":""}}
+                    ,{"text1":{"text":"Man-managed ","lang":""},"text2":{"text":" Gérer par l'homme","lang":""}}
+                    ,{"text1":{"text":"Sustainable ","lang":""},"text2":{"text":" Durable","lang":""}}
+                    ,{"text1":{"text":"Detergent ","lang":""},"text2":{"text":" Lessive","lang":""}}
+                    ,{"text1":{"text":"Harmful ","lang":""},"text2":{"text":" Nocif","lang":""}}
+                    ,{"text1":{"text":"Threat ","lang":""},"text2":{"text":" Menace","lang":""}}
+                    ,{"text1":{"text":"Rashes ","lang":""},"text2":{"text":" Eruptions cutanées","lang":""}}
+                    ,{"text1":{"text":"Maintaining ","lang":""},"text2":{"text":" Entretien","lang":""}}
+
+                ]
+            },
+            {
+                "nom": " 10 - Textiles et environement - Sustainable fashion (C)",
+                "words": [ {"text1":{"text":"Trend ","lang":""},"text2":{"text":" Tendance","lang":""}}
+                    ,{"text1":{"text":"Forstered by ","lang":""},"text2":{"text":" Encouragé par","lang":""}}
+                    ,{"text1":{"text":"Pace ","lang":""},"text2":{"text":" Rythme","lang":""}}
+                    ,{"text1":{"text":"Arouses ","lang":""},"text2":{"text":" Créer","lang":""}}
+                    ,{"text1":{"text":"Must-haves ","lang":""},"text2":{"text":" Les incontournables","lang":""}}
+                    ,{"text1":{"text":"Turnover ","lang":""},"text2":{"text":" Renouvellement","lang":""}}
+                    ,{"text1":{"text":"Pile up ","lang":""},"text2":{"text":" Empiler","lang":""}}
+                    ,{"text1":{"text":"Whinsical purchases ","lang":""},"text2":{"text":" Achats compulsif","lang":""}}
+                    ,{"text1":{"text":"Life spam ","lang":""},"text2":{"text":" Espérence de vie","lang":""}}
+                    ,{"text1":{"text":"Disposable garment ","lang":""},"text2":{"text":" Vêtement jetable","lang":""}}
+
+                ]
             }
         ]
     }
