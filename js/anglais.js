@@ -990,7 +990,7 @@ anglais =
                     ,{"text1":{"text":"Greenhouse effet ","lang":""},"text2":{"text":" Effet de serre","lang":""}}
                     ,{"text1":{"text":"Heatwaves ","lang":""},"text2":{"text":" Vague de chaleur","lang":""}}
                     ,{"text1":{"text":"Drought ","lang":""},"text2":{"text":" Sécheresse","lang":""}}
-                    ,{"text1":{"text":"Scare ","lang":""},"text2":{"text":" Peur","lang":""}}
+                    ,{"text1":{"text":"Scarce ","lang":""},"text2":{"text":" Rare","lang":""}}
                     ,{"text1":{"text":"Scaricity ","lang":""},"text2":{"text":" Pénurie","lang":""}}
                     ,{"text1":{"text":"Heavy ","lang":""},"text2":{"text":" Lourd","lang":""}}
                     ,{"text1":{"text":"Beetroot ","lang":""},"text2":{"text":" Bettrave","lang":""}}
@@ -1037,6 +1037,47 @@ anglais =
                     ,{"text1":{"text":"Whinsical purchases ","lang":""},"text2":{"text":" Achats compulsif","lang":""}}
                     ,{"text1":{"text":"Life spam ","lang":""},"text2":{"text":" Espérence de vie","lang":""}}
                     ,{"text1":{"text":"Disposable garment ","lang":""},"text2":{"text":" Vêtement jetable","lang":""}}
+                    ,{"text1":{"text":"Dam ","lang":""},"text2":{"text":" Barrage","lang":""}}
+                    ,{"text1":{"text":"Closed-loop ","lang":""},"text2":{"text":" Boucle fermé","lang":""}}
+                    ,{"text1":{"text":"Be dump ","lang":""},"text2":{"text":" Être déversé","lang":""}}
+                    ,{"text1":{"text":"Landfills / Dumpsite ","lang":""},"text2":{"text":" Site de décharge","lang":""}}
+                    ,{"text1":{"text":"Petrochemistry ","lang":""},"text2":{"text":" Pétrochimie","lang":""}}
+                    ,{"text1":{"text":"Microplastic chips ","lang":""},"text2":{"text":" Puces microplastiques","lang":""}}
+                    ,{"text1":{"text":"Off-cuts / Fabric scraps ","lang":""},"text2":{"text":" Chutes tissus","lang":""}}
+                    ,{"text1":{"text":"Stuffing ","lang":""},"text2":{"text":" Rembourrage","lang":""}}
+                    ,{"text1":{"text":"Upholstery ","lang":""},"text2":{"text":" Ameublement","lang":""}}
+                    ,{"text1":{"text":"Lay ","lang":""},"text2":{"text":" Pose","lang":""}}
+                    ,{"text1":{"text":"Chemical-free ","lang":""},"text2":{"text":" Sans produits chimiques","lang":""}}
+                    ,{"text1":{"text":"Components ","lang":""},"text2":{"text":" Composants","lang":""}}
+                    ,{"text1":{"text":"Electroplated ","lang":""},"text2":{"text":" Galvanisé","lang":""}}
+                ]
+            },
+            {
+                "nom": " 10 - Textiles et environement - Sustainable fashion (D)",
+                "words": [ {"text1":{"text":"To prevent ","lang":""},"text2":{"text":" Pour éviter","lang":""}}
+                    ,{"text1":{"text":"To rust ","lang":""},"text2":{"text":" Rouiller","lang":""}}
+                    ,{"text1":{"text":"Sludges / Muds ","lang":""},"text2":{"text":" Boues","lang":""}}
+                    ,{"text1":{"text":"To sort out ","lang":""},"text2":{"text":" Trier","lang":""}}
+                    ,{"text1":{"text":"To get rid of ","lang":""},"text2":{"text":" Se débarrasser","lang":""}}
+                    ,{"text1":{"text":"Thriftstores ","lang":""},"text2":{"text":" Friperies","lang":""}}
+                    ,{"text1":{"text":"Felting ","lang":""},"text2":{"text":" Feutrer","lang":""}}
+                    ,{"text1":{"text":"Be broken down ","lang":""},"text2":{"text":" Être décomposé","lang":""}}
+                    ,{"text1":{"text":"Reformulated plastic ","lang":""},"text2":{"text":" Plastique reformulé","lang":""}}
+                    ,{"text1":{"text":"To spun ","lang":""},"text2":{"text":" Tisser","lang":""}}
+                    ,{"text1":{"text":"Current state ","lang":""},"text2":{"text":" État courant","lang":""}}
+                    ,{"text1":{"text":"To torn ","lang":""},"text2":{"text":" Déchirer","lang":""}}
+                    ,{"text1":{"text":"Shredded ","lang":""},"text2":{"text":" Déchiqueté","lang":""}}
+                    ,{"text1":{"text":"Melted ","lang":""},"text2":{"text":" Fondu","lang":""}}
+                    ,{"text1":{"text":"Ground ","lang":""},"text2":{"text":" Broyé","lang":""}}
+                    ,{"text1":{"text":"Bedding ","lang":""},"text2":{"text":" Literie ","lang":""}}
+                    ,{"text1":{"text":"Fleeces ","lang":""},"text2":{"text":" Laine polaire","lang":""}}
+                    ,{"text1":{"text":"Duvets ","lang":""},"text2":{"text":" Couettes","lang":""}}
+                    ,{"text1":{"text":"Trade Unions ","lang":""},"text2":{"text":" Syndicat","lang":""}}
+                    ,{"text1":{"text":"Council ","lang":""},"text2":{"text":" Conseil","lang":""}}
+                    ,{"text1":{"text":"Switzerland ","lang":""},"text2":{"text":" Suisse","lang":""}}
+                    ,{"text1":{"text":"Netherlands ","lang":""},"text2":{"text":" Pays-Bas","lang":""}}
+                    ,{"text1":{"text":"Sorting ","lang":""},"text2":{"text":" Triage","lang":""}}
+                    ,{"text1":{"text":"Assessment ","lang":""},"text2":{"text":" Evaluation","lang":""}}
 
                 ]
             }
