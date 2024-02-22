@@ -2631,6 +2631,162 @@ anglais_tech =
                 ]
             },
             {
+                "nom": " 5 - Industry - Machine industrielle",
+                "words": [ {"text1":{"text":"Motor ","lang":""},"text2":{"text":" Moteur","lang":""}}
+                    ,{"text1":{"text":"Variable-speed foot controller ","lang":""},"text2":{"text":" La pédale","lang":""}}
+                    ,{"text1":{"text":"Bobbin case ","lang":""},"text2":{"text":" Boitier de canette","lang":""}}
+                    ,{"text1":{"text":"Bobbin ","lang":""},"text2":{"text":" Canette","lang":""}}
+                    ,{"text1":{"text":"Hook ","lang":""},"text2":{"text":" Crochet","lang":""}}
+                    ,{"text1":{"text":"Feed dogs ","lang":""},"text2":{"text":" Griffe d'entrainement","lang":""}}
+                    ,{"text1":{"text":"Needle plate ","lang":""},"text2":{"text":" Plaque d'aiguille","lang":""}}
+                    ,{"text1":{"text":"Needle ","lang":""},"text2":{"text":" Aiguille","lang":""}}
+                    ,{"text1":{"text":"Presser foot ","lang":""},"text2":{"text":" Pied presseur","lang":""}}
+                    ,{"text1":{"text":"Needle bar ","lang":""},"text2":{"text":" Barre à aiguille","lang":""}}
+                    ,{"text1":{"text":"Presser foot bar ","lang":""},"text2":{"text":" Barre de pied presseur","lang":""}}
+                    ,{"text1":{"text":"Thread tension knob ","lang":""},"text2":{"text":" Bloque tension","lang":""}}
+                    ,{"text1":{"text":"Stitch selector ","lang":""},"text2":{"text":" Selecteur de point","lang":""}}
+                    ,{"text1":{"text":"Thread holder ","lang":""},"text2":{"text":" Porte bobine","lang":""}}
+                    ,{"text1":{"text":"Hand wheel ","lang":""},"text2":{"text":" Volant à main","lang":""}}
+                    ,{"text1":{"text":"Machine plug ","lang":""},"text2":{"text":" Prise machine","lang":""}}
+                    ,{"text1":{"text":"Electrical cord ","lang":""},"text2":{"text":" Cable électrique","lang":""}}
+                    ,{"text1":{"text":"Reel/Stool ","lang":""},"text2":{"text":" Bobine","lang":""}}
+
+                ]
+            },
+            {
+                "nom": " 5 - Industry - Maintenance machine",
+                "words": [ {"text1":{"text":"Pilot error issues ","lang":""},"text2":{"text":" Incorrect threading / bent, nicked, dull or improperly installed needles / wrong presser feet / incorrect or damaged bobbins / poor-quality thread > Erreur de pilotage ","lang":""}}
+                    ,{"text1":{"text":"Step 1, Open the bobbin and needle areas ","lang":""},"text2":{"text":" Unplug the machine and remove the needle plate, open the bobbin area, remove the bobbin and bobbin case","lang":""}}
+                    ,{"text1":{"text":"Step 2, Do a general cleaning ","lang":""},"text2":{"text":" Use a lint brush (brosse à bourre) and relmove lint, thread from around and behind the needle bar area as well as the feed dog and hook / bobbin case area. Next, use a ental pick (pince) to remove lint between the rows of teeth on the feed dogs","lang":""}}
+                    ,{"text1":{"text":"Step 3, Oil your machine ","lang":""},"text2":{"text":" Use high-quality sewing machine oil from a major sewing machine company","lang":""}}
+                    ,{"text1":{"text":"Step 4, Clean the bobbin case ","lang":""},"text2":{"text":" Use a screwdriver (tournevis) to clean inside the bobbin case. Small shards (morceaux) from nicked needles can embed (incruster) themselves inside the bobbin case and cause poor tension","lang":""}}
+                    ,{"text1":{"text":"Step 5, Test the upper tension ","lang":""},"text2":{"text":" Remove the needle thread, lift (soulever) the presser foot and inspect for any lodged thread between the tension disk. ","lang":""}}
+                    ,{"text1":{"text":"Step 6, Check the needle plate ","lang":""},"text2":{"text":" The needle plate must be replaced if there are any cracks (fissures). Nicks (entailles) and cracks cause thread breakage, skipped stitches, and poor tension","lang":""}}
+
+                ]
+            },
+
+            {
+                "nom": " 5 - Industry - Types de points",
+                "words": [ {"text1":{"text":"Point bourdon ","lang":""},"text2":{"text":" Bourdon stitch","lang":""}}
+                    ,{"text1":{"text":"Point de chainette ","lang":""},"text2":{"text":" Chain stitch","lang":""}}
+                    ,{"text1":{"text":"Point de chainette 2 aiguilles ","lang":""},"text2":{"text":" Double chain stitch","lang":""}}
+                    ,{"text1":{"text":"Point de bâti ","lang":""},"text2":{"text":" Basting stitch","lang":""}}
+                    ,{"text1":{"text":"Point de surjet ","lang":""},"text2":{"text":" Overcast stitch","lang":""}}
+                    ,{"text1":{"text":"Point invisible ","lang":""},"text2":{"text":" Blind stitch","lang":""}}
+                    ,{"text1":{"text":"Point zig zag ","lang":""},"text2":{"text":" Zig zag stitch","lang":""}}
+                    ,{"text1":{"text":"Point sellier ","lang":""},"text2":{"text":" Saddle stitch","lang":""}}
+                    ,{"text1":{"text":"Point droit / Point noué ","lang":""},"text2":{"text":" Straight stitch or lockstitch","lang":""}}
+                    ,{"text1":{"text":"Point d'arrêt (machine à cannon) ","lang":""},"text2":{"text":" Bar tack","lang":""}}
+                    ,{"text1":{"text":"Point d'arrêt début et fin (301) ","lang":""},"text2":{"text":" Back stitch at the beginning  or at the end of the seam","lang":""}}
+                    ,{"text1":{"text":"Guide bordeur ","lang":""},"text2":{"text":" Binding guide ","lang":""}}
+                    ,{"text1":{"text":"Guide escamotable ","lang":""},"text2":{"text":" Swing-out guide","lang":""}}
+                    ,{"text1":{"text":"Pied ganseur ","lang":""},"text2":{"text":" Cording foot","lang":""}}
+                    ,{"text1":{"text":"Pied rabatteur ","lang":""},"text2":{"text":" Felling foot","lang":""}}
+                    ,{"text1":{"text":"Pied presseur articulé ","lang":""},"text2":{"text":" Hinged foot","lang":""}}
+                    ,{"text1":{"text":"Doublé / Non doublé ","lang":""},"text2":{"text":" Lining / Unlining ","lang":""}}
+                    ,{"text1":{"text":"Bord ","lang":""},"text2":{"text":" Edge ","lang":""}}
+                    ,{"text1":{"text":"Couture ","lang":""},"text2":{"text":" Seam ","lang":""}}
+                    ,{"text1":{"text":"Valeur de couture ","lang":""},"text2":{"text":" Seam allowance ","lang":""}}
+                    ,{"text1":{"text":"Surpiqure nervure ","lang":""},"text2":{"text":" Ribbed topstitching","lang":""}}
+
+                ]
+            },
+
+            {
+                "nom": " 5 - Industry - Types de machines",
+                "words": [ {"text1":{"text":"Machine à arrêts ","lang":""},"text2":{"text":" Bartacking machine","lang":""}}
+                    ,{"text1":{"text":"Machine à assembler par ultra son ","lang":""},"text2":{"text":" Ultrasonic melt joining machine","lang":""}}
+                    ,{"text1":{"text":"Machine à bâtir / à bâtir les bords ","lang":""},"text2":{"text":" Basting machine / serge basting macchine","lang":""}}
+                    ,{"text1":{"text":"Machine à border ","lang":""},"text2":{"text":" Binding machine","lang":""}}
+                    ,{"text1":{"text":"Machine à boutonnières ","lang":""},"text2":{"text":" Buttonhole machine","lang":""}}
+                    ,{"text1":{"text":"Machine à bras déporté ","lang":""},"text2":{"text":" Feed of the arm machine","lang":""}}
+                    ,{"text1":{"text":"Machine à broder ","lang":""},"text2":{"text":" Embroidery machine","lang":""}}
+                    ,{"text1":{"text":"Machine à coudre les boutons ","lang":""},"text2":{"text":" Button sewer","lang":""}}
+                    ,{"text1":{"text":"Machine à étiqueter ","lang":""},"text2":{"text":" Labelling machine","lang":""}}
+                    ,{"text1":{"text":"Machine à froncer ","lang":""},"text2":{"text":" Ruffling machine","lang":""}}
+                    ,{"text1":{"text":"Machine à point invisible ","lang":""},"text2":{"text":" Blindstitch machine","lang":""}}
+                    ,{"text1":{"text":"Machine à point de chainette ","lang":""},"text2":{"text":" Chainstitch machine","lang":""}}
+                    ,{"text1":{"text":"Machine à point navette ","lang":""},"text2":{"text":" Lockstitch machine","lang":""}}
+                    ,{"text1":{"text":"Machine à point zig zag ","lang":""},"text2":{"text":" Zigzagstitch machine","lang":""}}
+                    ,{"text1":{"text":"Machine à poser un élastique ","lang":""},"text2":{"text":" Attaching elastic tape machine","lang":""}}
+                    ,{"text1":{"text":"Machine à souder ","lang":""},"text2":{"text":" Sealing machine","lang":""}}
+                    ,{"text1":{"text":"Machine à souder ultra sons ","lang":""},"text2":{"text":" Ultrasonic sealer","lang":""}}
+                    ,{"text1":{"text":"Machine à surfiler ","lang":""},"text2":{"text":" Overedging machine (say \"x threads\" before)","lang":""}}
+                    ,{"text1":{"text":"Machine à surjeter ","lang":""},"text2":{"text":" Overseaming (say \"x threads\" before)","lang":""}}
+                    ,{"text1":{"text":"Machine à canon ","lang":""},"text2":{"text":" Cylinder bed machine","lang":""}}
+                    ,{"text1":{"text":"Machine monobloc ","lang":""},"text2":{"text":" Monobloc machine","lang":""}}
+                    ,{"text1":{"text":"Machine plate / piqueuse plate ","lang":""},"text2":{"text":" Flatbed machine / Flatbed seamer","lang":""}}
+                    ,{"text1":{"text":"Presse à préformer ou conformer ","lang":""},"text2":{"text":" Shaping press","lang":""}}
+                    ,{"text1":{"text":"Presse à découper à l'emporte pièce ","lang":""},"text2":{"text":" Die cutting press","lang":""}}
+                    ,{"text1":{"text":"Presse à thermocoller ","lang":""},"text2":{"text":" Fusing press / Bonding press","lang":""}}
+                    ,{"text1":{"text":"Presse à vapeur ","lang":""},"text2":{"text":" Steam press","lang":""}}
+                    ,{"text1":{"text":"Machine à visiter les tissus ","lang":""},"text2":{"text":" Cloth inspecting machine","lang":""}}
+                    ,{"text1":{"text":"Scie à ruban ","lang":""},"text2":{"text":" Band knife cutter","lang":""}}
+                    ,{"text1":{"text":"Scie circulaire ","lang":""},"text2":{"text":" Circular saw","lang":""}}
+                    ,{"text1":{"text":"Tête de découpe automatique ","lang":""},"text2":{"text":" Automatic head cutter","lang":""}}
+
+                ]
+            },
+
+            {
+                "nom": " 5 - Industry - Sections et opérations (A)",
+                "words": [ {"text1":{"text":"Endroit ","lang":""},"text2":{"text":"Right side","lang":""}}
+                    ,{"text1":{"text":"Envers ","lang":""},"text2":{"text":" Wrong side","lang":""}}
+                    ,{"text1":{"text":"Une épaisseur de tissu ","lang":""},"text2":{"text":" One layer of fabric","lang":""}}
+                    ,{"text1":{"text":"Deux épaisseurs de tissu endroit contre endroit ","lang":""},"text2":{"text":" Two layers of fabric right sides together","lang":""}}
+                    ,{"text1":{"text":"Une épaisseur de tissu surfilé ","lang":""},"text2":{"text":" One layer of fabric with overlocking","lang":""}}
+                    ,{"text1":{"text":"Fermeture à glissière ","lang":""},"text2":{"text":" Slide fastener","lang":""}}
+                    ,{"text1":{"text":"Couture ouverte surfilé ","lang":""},"text2":{"text":" Open overlocked seam","lang":""}}
+                    ,{"text1":{"text":"Couture ouverte avec surpiqures ","lang":""},"text2":{"text":" Open seam with topstitching","lang":""}}
+                    ,{"text1":{"text":"Finition de couture pour vêtement non doublé avec biais ","lang":""},"text2":{"text":" Seam finishing for an unlined garment with bias tape","lang":""}}
+                    ,{"text1":{"text":"Finition de couture pour vêtement non doublé avec un ruban ","lang":""},"text2":{"text":" Seam finishing for an unlined garment with ribbon","lang":""}}
+                    ,{"text1":{"text":"Couture couchée et surfilée ","lang":""},"text2":{"text":" Seam folded and overlocked","lang":""}}
+                    ,{"text1":{"text":"Couture couchée avec surpiqure simple ","lang":""},"text2":{"text":" Seam folded with a single row of topstitching","lang":""}}
+                    ,{"text1":{"text":"Couture couchée avec surpiqure nervure ","lang":""},"text2":{"text":" Seam folded with ribbed topstitching","lang":""}}
+                    ,{"text1":{"text":"Couture couchée avec double surpiqure ","lang":""},"text2":{"text":" Seam folded with double topstitching","lang":""}}
+                    ,{"text1":{"text":"Couture anglaise ","lang":""},"text2":{"text":" French seam","lang":""}}
+                    ,{"text1":{"text":"Couture ourlée ","lang":""},"text2":{"text":" Hemmed seam","lang":""}}
+                    ,{"text1":{"text":"Insertion d'un passepoil dans une couture ","lang":""},"text2":{"text":" Piping inserted into a seam","lang":""}}
+                    ,{"text1":{"text":"Couture rabattue ","lang":""},"text2":{"text":" Felled seam","lang":""}}
+                    ,{"text1":{"text":"Faux ourlet avec biais ","lang":""},"text2":{"text":" False hem with bias tape","lang":""}}
+                    ,{"text1":{"text":"Ourlet ","lang":""},"text2":{"text":" Hem or double hem","lang":""}}
+                    ,{"text1":{"text":"Rempli surfilé ","lang":""},"text2":{"text":" Overlocked tuck or single hem or plain hem","lang":""}}
+                    ,{"text1":{"text":"Ourlet invisible ","lang":""},"text2":{"text":" Invisible hem","lang":""}}
+                    ,{"text1":{"text":"Surfiler / surfilé / surfilage ","lang":""},"text2":{"text":" To overlock or to overcast / overlocked / overlocking","lang":""}}
+
+                ]
+            },
+
+            {
+                "nom": " 5 - Industry - Sections et opérations (B)",
+                "words": [ {"text1":{"text":"Plisser /plissé / plissage ","lang":""},"text2":{"text":" To pleat / pleated / pleating","lang":""}}
+                    ,{"text1":{"text":"Remplier / remplié / rempli ","lang":""},"text2":{"text":" To fold / tucked / a tuck or a plain hem or a single hem","lang":""}}
+                    ,{"text1":{"text":"Ourler / ourlé / ourlage ","lang":""},"text2":{"text":" To hem / hemmed / hemming (double turned)","lang":""}}
+                    ,{"text1":{"text":"Assembler / assemblé / assemblage ","lang":""},"text2":{"text":" To mount or to gather or to sew together / gathered / gathering","lang":""}}
+                    ,{"text1":{"text":"Coulisser / coulissage ","lang":""},"text2":{"text":" To slid or to runstitch / sliding or runstitching","lang":""}}
+                    ,{"text1":{"text":"Surpiquer / surpiqué / surpiquage ","lang":""},"text2":{"text":" To topstitch / topstitched / topstitching","lang":""}}
+                    ,{"text1":{"text":"Rabattre / Rabattage ","lang":""},"text2":{"text":" To stitch down or to fell / understitching or felling","lang":""}}
+                    ,{"text1":{"text":"Froncer / froncé / froncage ","lang":""},"text2":{"text":" To gather / gathered / gathering","lang":""}}
+                    ,{"text1":{"text":"Border / bordé / bordage ","lang":""},"text2":{"text":" To bind / bindded / binding","lang":""}}
+                    ,{"text1":{"text":"Batir / batissage ","lang":""},"text2":{"text":" To baste or to tack / basting","lang":""}}
+                    ,{"text1":{"text":"Plaquer / plaqué ","lang":""},"text2":{"text":" To patch / patched","lang":""}}
+                    ,{"text1":{"text":"Préformer / préformage ","lang":""},"text2":{"text":" To shape / forming or pressing to shape","lang":""}}
+                    ,{"text1":{"text":"Cranter / cranté / crantage ","lang":""},"text2":{"text":" To notch / notched / notching","lang":""}}
+                    ,{"text1":{"text":"Dégarnir / dégarnissage ","lang":""},"text2":{"text":" To trim / trimming","lang":""}}
+                    ,{"text1":{"text":"Couper / coupe ","lang":""},"text2":{"text":" To cut / cutting","lang":""}}
+                    ,{"text1":{"text":"Matelasser / Matelassage ","lang":""},"text2":{"text":" To lay up / laying up","lang":""}}
+                    ,{"text1":{"text":"Thermocollage ","lang":""},"text2":{"text":" Thermofusing","lang":""}}
+                    ,{"text1":{"text":"Repasser / repassage ","lang":""},"text2":{"text":" To iron or to press / ironing or pressing","lang":""}}
+                    ,{"text1":{"text":"Epluchage ","lang":""},"text2":{"text":" Trimming threads","lang":""}}
+                    ,{"text1":{"text":"Controler / controle qualité ","lang":""},"text2":{"text":" To controle or to check / quality control","lang":""}}
+                    ,{"text1":{"text":"Pointage ","lang":""},"text2":{"text":" Pointing or placement dots","lang":""}}
+                    ,{"text1":{"text":"Fendre ","lang":""},"text2":{"text":" Slitting","lang":""}}
+                    ,{"text1":{"text":"Conditionnement ","lang":""},"text2":{"text":" Packing","lang":""}}
+
+                ]
+            },
+            {
                 "nom": " L1 - How / What",
                 "words": [
                     {
